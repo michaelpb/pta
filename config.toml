@@ -23,7 +23,7 @@ enableRobotsTXT = true
 
 [params]
   favicon = ""
-  site_logo = "/images/logo_draft.jpeg"
+  site_logo = "images/logo_draft.jpeg"
   description = "Free Transit Now!"
   facebook = ""
   twitter = "https://twitter.com/PeoplesTransitAlliance"
