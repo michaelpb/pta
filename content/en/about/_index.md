@@ -2,9 +2,6 @@
 title: "About"
 featured_image: ''
 ---
-<!-- {{< figure src="/images/Victor_Hugo-Hunchback.jpg" title="Illustration from Victor Hugo et son temps (1881)" >}} -->
-
-{{ partial "site-navigation.html" . }}
 
 AC Transit is a vital public good for the East Bay's working class. In the
 1950s, the working people of the East Bay fought to create the AC Transit

@@ -22,6 +22,7 @@ body {
     top: 60px;
     left: 0;
     width: 100%;
+    min-height: 400px;
     z-index: -1;
 }
 
@@ -29,6 +30,8 @@ body {
     /*background: rgba(0, 0, 0, 0.8);*/
     background: rgba(255, 255, 255, 0.8);
     color: black;
+    margin-bottom: -10px;
+    padding-bottom: 10px;
 }
 
 .pta-slab h1 {
@@ -45,19 +48,44 @@ body {
     font-size: 25px;
 }
 
+.pta-navbar_link__active {
+    color: var(--ebdsa);
+}
+
 .pta-navbar_logo {
-  font-family: var(--header-font);
-  text-transform: uppercase;
-  color: black;
-  font-size: 45px;
+    font-family: var(--header-font);
+    text-transform: uppercase;
+    color: black;
+    font-size: 2rem;
 }
 
 .pta-navbar_logo > img {
-    height: 40px;
+    height: 50px;
+    margin-bottom: -10px;
 }
 
 .pta-jumbotron {
     padding-bottom: 90px;
+}
+
+.pta-platform img {
+    height: 200px;
+}
+
+.pta-platform_plank {
+    position: relative;
+}
+
+.pta-platform_caption {
+    text-align: left;
+    font-family: var(--header-font);
+    text-transform: uppercase;
+    font-size: 3rem;
+    position: absolute;
+    font-weight: bold;
+    top: 0;
+    left: 0;
+    z-index: 1;
 }
 
 .pta-hero_title {
@@ -76,19 +104,35 @@ body {
 }
 
 .pta-hero_pullquote {
-    margin-top: 112px;
+    margin-top: 80px;
     text-align: left;
-    font-size: 2.5rem;
+    font-size: 2.1rem;
     max-width: 500px;
 }
 
 .pta-main {
-    background: var(--offwhite-bg);
+    /*background: var(--offwhite-bg);*/
 }
 
 .pta-navbar_inner,
 .pta-jumbotron_inner,
-.pta-main_inner {
+.pta-main_inner,
+.pta-footer_inner {
     max-width: var(--container-width);
 }
 
+
+@media screen and (max-width: 768px) {
+    .pta-navbar {
+        margin: 1px !important;
+        padding: 1px !important;
+    }
+
+    .pta-videobg {
+        position: absolute;
+        top: 150px;
+        left: 0;
+        width: 100%;
+        z-index: -1;
+    }
+}

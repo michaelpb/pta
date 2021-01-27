@@ -1,7 +1,7 @@
 ---
 title: Contact
 featured_image: "images/notebook.jpg"
-description: Contact us to join
+description: Example page with stock photo
 type: page
 menu: main
 
