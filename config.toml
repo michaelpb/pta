@@ -23,11 +23,11 @@ enableRobotsTXT = true
 
 [params]
   favicon = ""
-  site_logo = "images/logo_draft.jpeg"
+  site_logo = "/pta/images/logo_draft.jpeg"
   description = "Free Transit Now!"
-  facebook = ""
-  twitter = "https://twitter.com/PeoplesTransitAlliance"
-  instagram = ""
+  facebook = "https://www.facebook.com/JovankaForThePeople/"
+  twitter = "https://twitter.com/JovankaBeckles/"
+  instagram = "https://www.instagram.com/jovankabeckles/"
   youtube = ""
   github = ""
   gitlab = ""

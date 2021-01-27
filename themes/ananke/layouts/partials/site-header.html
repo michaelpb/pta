@@ -1,63 +1,36 @@
-{{ $featured_video := .Param "featured_video"}}
-{{ if $featured_video }}
-    {{/* Trimming the slash and adding absURL make sure the image works no matter where our site lives */}}
-    {{ $featured_video := (trim $featured_video "/") | absURL }}
-    <video autoplay muted loop class="pta-videobg">
-        <source src="{{ $featured_video }}" type="video/mp4">
-    </video>
-{{ end }}
-
-<header class="pta-header">
-    <div class="pb3-m pb6-l">
-        {{ partial "site-navigation.html" . }}
-        <div class="tc-l pv3 ph3 ph4-ns pta-jumbotron">
-            <div class="flex justify-between center pta-jumbotron_inner">
-
-                <div>
-                    <h1 class="pta-hero_title">
-                        TRANSIT <br />
-                        <span class="pta-hero_title__midtext">FOR THE</span> <br />
-                        <span class="pta-hero_title__endtext">PEOPLE</span>
-                    </h1>
-                </div>
-
-                <div>
-                    <p class="pta-hero_pullquote">
-                        A movement fighting for racial, economic, social, and
-                        environmental justice for all,
-                        <strong>powered by fare-free public transit.</strong>
-                    </p>
-                </div>
-            </div>
-
-            <article class="pa3 pa5-ns pta-slab" data-name="slab-stat">
-                <h1>Get involved today</h1>
-                <dl class="dib mr5">
-                    <dd class="f6 f5-ns b ml0">Cars</dd>
-                    <dd class="f3 f2-ns b ml0">1,024</dd>
-                </dl>
-                <dl class="dib mr5">
-                    <dd class="f6 f5-ns b ml0">Buses</dd>
-                    <dd class="f3 f2-ns b ml0">993</dd>
-                </dl>
-                <dl class="dib mr5">
-                    <dd class="f6 f5-ns b ml0">Fare-free</dd>
-                    <dd class="f3 f2-ns b ml0">10-22</dd>
-                </dl>
-                <dl class="dib mr5">
-                    <dd class="f6 f5-ns b ml0">Days Left</dd>
-                    <dd class="f3 f2-ns b ml0">4</dd>
-                </dl>
-                <dl class="dib mr5">
-                    <dd class="f6 f5-ns b ml0">Environment</dd>
-                    <dd class="f3 f2-ns b ml0">5</dd>
-                </dl>
-                <dl class="dib">
-                    <dd class="f6 f5-ns b ml0">Goal</dd>
-                    <dd class="f3 f2-ns b ml0">1,200</dd>
-                </dl>
-            </article>
-
-        </div>
+{{ $featured_image := .Param "featured_image"}}
+{{ if $featured_image }}
+  {{/* Trimming the slash and adding absURL make sure the image works no matter where our site lives */}}
+  {{ $featured_image := (trim $featured_image "/") | absURL }}
+  <header class="cover bg-top" style="background-image: url('{{ $featured_image }}');">
+    <div class="{{ .Site.Params.cover_dimming_class | default "bg-black-60" }}">
+      {{ partial "site-navigation.html" .}}
+      <div class="tc-l pv4 pv6-l ph3 ph4-ns">
+        <h1 class="f2 f-subheadline-l fw2 white-90 mb0 lh-title">
+          {{ .Title | default .Site.Title }}
+        </h1>
+        {{ with .Params.description }}
+          <h2 class="fw1 f5 f3-l white-80 measure-wide-l center mt3">
+            {{ . }}
+          </h2>
+        {{ end }}
+      </div>
     </div>
-</header>
+  </header>
+{{ else }}
+  <header>
+    <div class="pb3-m pb6-l {{ .Site.Params.background_color_class | default "bg-black" }}">
+      {{ partial "site-navigation.html" . }}
+      <div class="tc-l pv3 ph3 ph4-ns">
+        <h1 class="f2 f-subheadline-l fw2 light-silver mb0 lh-title">
+          {{ .Title | default .Site.Title }}
+        </h1>
+        {{ with .Params.description }}
+          <h2 class="fw1 f5 f3-l white-80 measure-wide-l center lh-copy mt3 mb4">
+            {{ . }}
+          </h2>
+        {{ end }}
+      </div>
+    </div>
+  </header>
+{{ end }}

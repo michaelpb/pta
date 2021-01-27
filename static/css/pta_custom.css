@@ -45,6 +45,10 @@ body {
     font-size: 25px;
 }
 
+.pta-navbar_link__active {
+    color: var(--ebdsa);
+}
+
 .pta-navbar_logo {
   font-family: var(--header-font);
   text-transform: uppercase;
@@ -76,9 +80,9 @@ body {
 }
 
 .pta-hero_pullquote {
-    margin-top: 112px;
+    margin-top: 80px;
     text-align: left;
-    font-size: 2.5rem;
+    font-size: 2.1rem;
     max-width: 500px;
 }
 
@@ -88,7 +92,24 @@ body {
 
 .pta-navbar_inner,
 .pta-jumbotron_inner,
-.pta-main_inner {
+.pta-main_inner,
+.pta-footer_inner {
     max-width: var(--container-width);
 }
 
+
+@media screen and (max-width: 768px) {
+    .pta-navbar {
+        margin: 1px !important;
+        padding: 1px !important;
+    }
+
+
+    .pta-videobg {
+        position: absolute;
+        top: 150px;
+        left: 0;
+        width: 100%;
+        z-index: -1;
+    }
+}

@@ -17,8 +17,6 @@
 
     {{ partial "site-style.html" . }}
 
-    {{ partial "google-fonts.html" . }}
-
     {{ block "favicon" . }}
       {{ partialCached "site-favicon.html" . }}
     {{ end }}
@@ -44,10 +42,8 @@
   <body class="ma0 {{ $.Param "body_classes"  | default "avenir bg-near-white"}}{{ with getenv "HUGO_ENV" }} {{ . }}{{ end }}">
 
     {{ block "header" . }}{{ partial "site-header.html" .}}{{ end }}
-    <main class="pb7 pta-main" role="main">
-        <div class="center pta-main_inner">
-            {{ block "main" . }}{{ end }}
-        </div>
+    <main class="pb7" role="main">
+      {{ block "main" . }}{{ end }}
     </main>
     {{ block "footer" . }}{{ partialCached "site-footer.html" . }}{{ end }}
   </body>
