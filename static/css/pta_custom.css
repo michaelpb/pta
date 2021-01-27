@@ -1,0 +1,94 @@
+:root {
+    --header-font: "Bebas Neue", sans-serif;
+    --offwhite-bg: #f7f7f7;
+    --container-width: 70rem;
+    --ebdsa: #ed1b24ff;
+}
+
+body {
+  font-family: "Montserrat", sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: var(--header-font);
+}
+
+body {
+    overflow-x: hidden;
+}
+
+.pta-videobg {
+    position: absolute;
+    top: 60px;
+    left: 0;
+    width: 100%;
+    z-index: -1;
+}
+
+.pta-header {
+    /*background: rgba(0, 0, 0, 0.8);*/
+    background: rgba(255, 255, 255, 0.8);
+    color: black;
+}
+
+.pta-slab h1 {
+}
+
+.pta-navbar {
+    background: var(--offwhite-bg);
+}
+
+.pta-navbar_link {
+    color: black;
+    font-family: var(--header-font);
+    text-transform: uppercase;
+    font-size: 25px;
+}
+
+.pta-navbar_logo {
+  font-family: var(--header-font);
+  text-transform: uppercase;
+  color: black;
+  font-size: 45px;
+}
+
+.pta-navbar_logo > img {
+    height: 40px;
+}
+
+.pta-jumbotron {
+    padding-bottom: 90px;
+}
+
+.pta-hero_title {
+    text-align: right;
+    font-size: 7rem;
+    line-height: 0.8;
+}
+
+.pta-hero_title__midtext {
+    font-size: 6rem;
+    opacity: 0.8;
+}
+
+.pta-hero_title__endtext {
+    color: var(--ebdsa);
+}
+
+.pta-hero_pullquote {
+    margin-top: 112px;
+    text-align: left;
+    font-size: 2.5rem;
+    max-width: 500px;
+}
+
+.pta-main {
+    background: var(--offwhite-bg);
+}
+
+.pta-navbar_inner,
+.pta-jumbotron_inner,
+.pta-main_inner {
+    max-width: var(--container-width);
+}
+
