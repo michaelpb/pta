@@ -41,8 +41,39 @@ enableRobotsTXT = true
   featured_video = "/videos/jb_video_reenc.webm"
   recent_posts_number = 2
   custom_css = ["css/pta_custom.css"]
-
   google_fonts = [
     ["Bebas Neue"],
     ["Montserrat", "200, 400, 800"],
   ]
+
+
+#[menu]
+#
+#  [[menu.main]]
+#    identifier = "about"
+#    name = "About"
+#    url = "/about/"
+#    weight = 10
+#
+#  [[menu.main]]
+#    identifier = "policy"
+#    name = "Policy"
+#    url = "/policy/"
+#    weight = 20
+#
+#  [[menu.main]]
+#    identifier = "bulletin"
+#    name = "Bulletin"
+#    url = "/post/"
+#    weight = 30
+#
+#  [[menu.main]]
+#    identifier = "join"
+#    name = "Join"
+#    url = "/join/"
+#    weight = 40
+#    [menu.main.params]
+#      asButton = true
+#
+
+

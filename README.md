@@ -1,17 +1,21 @@
-**Get started**
-    
-- Hugo
+# People's Transit Alliance
 
-    ```brew install hugo```
----
+Let's join together to fight for fare-free, 0 emission, expanded public transit
+in the San Francisco Bay Area... and beyond!
 
-**Spin-up local development**
-- Start hugo
 
-    ```hugo server`` 
+## Get started
 
-- Build project
-    
-    Checkout the project and run the following command from the root project folder. 
+* macOS: `brew install hugo`
 
-    ```hugo``` 
+* Ubuntu Linux: `snap install hugo --channel=extended`
+
+
+## Spin-up local development
+
+- Start hugo: `hugo server`
+
+- Build project:
+    - Checkout the project and run the following command from the
+      root project folder:  `hugo`
+

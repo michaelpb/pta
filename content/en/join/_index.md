@@ -1,0 +1,20 @@
+---
+title: Join
+type: page
+menu:
+    nav:
+        title: "Join"
+        weight: 20
+        params:
+            as_button: true
+---
+
+# Join PTA
+
+PTA is entirely volunteer-run. This means we need *you*, a volunteer, to help!
+
+You don't need skills any particular skills, or more time than just an hour, to
+be a huge help and massively impact our local transit system. Power flows from
+the people, so get involved!
+
+{{< form-contact action="https://example.com"  >}}

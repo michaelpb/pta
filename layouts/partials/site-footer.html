@@ -1,4 +1,24 @@
 <footer class="{{ .Site.Params.background_color_class | default "bg-black" }} bottom-0 w-100 pa3" role="contentinfo">
+
+    <div class="flex justify-between center pta-footer_inner">
+      {{ if .Site.Menus.main }}
+        <ul class="mr3">
+        <li class="list f5 f4-ns fw4 dib pr3 white">
+            NAVIGATION &mdash;
+        </li>
+          {{ $current := . }}
+          {{ range .Site.Menus.main }}
+            {{ $active := eq .Title $current.Title }}
+            <li class="list f5 f4-ns fw4 dib pr3">
+                <a class="white no-underline" href="{{ .URL }}" title="{{ .Name }} page">
+                {{ .Name }}
+                </a>
+            </li>
+          {{ end }}
+        </ul>
+      {{ end }}
+    </div>
+
     <div class="flex justify-between center pta-footer_inner">
         <a class="f4 fw4 hover-white no-underline white-70 dn dib-ns pv2 ph3" href="{{ .Site.BaseURL }}" >
             &copy; {{ with .Site.Copyright | default .Site.Title }} {{ . | safeHTML }} {{ now.Format "2006"}} {{ end }}
