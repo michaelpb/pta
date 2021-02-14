@@ -15,7 +15,10 @@ in the San Francisco Bay Area... and beyond!
 
 - Start hugo: `hugo server`
 
+- Start admin: `npx netlify-cms-proxy-server` and uncomment 
+`local_backend: true` in config.yml
+
 - Build project:
     - Checkout the project and run the following command from the
-      root project folder:  `hugo`
+      root project folder:  `hugo`  
 
