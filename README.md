@@ -10,13 +10,16 @@ in the San Francisco Bay Area... and beyond!
 
 * Ubuntu Linux: `snap install hugo --channel=extended`
 
+* [Install](https://www.npmjs.com/get-npm) a reasonably recent version of
+  Node.js / NPM (to get the `npx` command), if not already installed
+
 
 ## Spin-up local development
 
 - Start hugo: `hugo server`
 
-- Start admin: `npx netlify-cms-proxy-server` and uncomment 
-`local_backend: true` in config.yml
+- Develop admin panel locally: `npx netlify-cms-proxy-server` (in a separate
+  terminal)
 
 - Build project:
     - Checkout the project and run the following command from the
