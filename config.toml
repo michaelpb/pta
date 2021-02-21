@@ -1,5 +1,5 @@
 title = "People's Transit Alliance"
-baseURL = "https://michaelpb.github.io/pta/"
+baseURL = "https://peoplestransit.netlify.app/"
 languageCode = "en-us"
 theme = "ananke"
 publishdir = "docs/"
@@ -23,7 +23,7 @@ enableRobotsTXT = true
 
 [params]
   favicon = ""
-  site_logo = "/pta/images/logo_traced.png"
+  site_logo = "images/logo_traced.png"
   description = "Free Transit Now!"
   facebook = "https://www.facebook.com/JovankaForThePeople/"
   twitter = "https://twitter.com/JovankaBeckles/"
