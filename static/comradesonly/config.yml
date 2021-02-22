@@ -63,6 +63,14 @@ collections: # A list of collections the CMS should be able to edit
           - {label: "Cover Image", name: "featured_image", widget: "image", required: false}
           - {label: "Body", name: "body", widget: "markdown"}
 
+      - file: "content/en/community/_index.md"
+        label: "Community (EN)"
+        name: "community"
+        fields:
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Cover Image", name: "featured_image", widget: "image", required: false}
+          - {label: "Body", name: "body", widget: "markdown"}
+
       - file: "content/en/join/_index.md"
         label: "Join (EN)"
         name: "join"
