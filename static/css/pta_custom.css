@@ -50,17 +50,17 @@ body {
 }
 
 .pta-navbar_button {
-    color: white;
-    background: var(--ebdsa);
-    border-radius: 1px;
-    font-family: monospace;
+    color: var(--ebdsa);
+    border: 1px solid var(--ebdsa);
+    border-radius: 5px;
+    /*font-family: monospace;*/
     letter-spacing: 2px;
     margin-left: 20px;
     font-weight: bold;
 }
 
 .pta-navbar_button:hover {
-    color: white;
+    box-shadow: 0 0 6px 0 var(--ebdsa);
 }
 
 .pta-navbar_link__active {
