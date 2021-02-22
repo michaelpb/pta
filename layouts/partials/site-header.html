@@ -22,25 +22,22 @@
                 <div class="flex justify-between center pta-jumbotron_inner">
 
                     <div>
-                        <h1 class="pta-hero_title">
-                            <span class="pta-hero_title__toptext">TRANSIT</span> <br />
-                            <span class="pta-hero_title__midtext">FOR THE</span> <br />
-                            <span class="pta-hero_title__endtext">PEOPLE</span>
+                        {{ $featured_video := .Param "featured_video"}}
+                        <h1 class="pta-jumbotron_title">
+                            <span class="pta-jumbotron_title__toptext">{{ .Params.jumbotron_copy_top }}</span> <br />
+                            <span class="pta-jumbotron_title__midtext">{{ .Params.jumbotron_copy_middle }}</span> <br />
+                            <span class="pta-jumbotron_title__endtext">{{ .Params.jumbotron_copy_bottom }}</span>
                         </h1>
                     </div>
 
-                    <div class="pta-hero_box">
-                        <p class="pta-hero_pullquote">
-                            The East Bay DSA People's Transit Alliance is fighting for an
-                            <strong>expanded</strong>,
-                            <strong>zero-emission</strong>,
-                            <strong>fare-free</strong> bus system in the San Francisco
-                            Bay Area, and beyond.
-                        </p>
+                    <div class="pta-jumbotron_box">
+                        <div class="pta-jumbotron_pullquote">
+                            {{ .Params.jumbotron_copy_pullquote | markdownify }}
+                        </div>
 
                         <!--<a href="/join/" class="no-underline f2 tc db w-100 pv3 bg-animate bg-dark-red hover-bg-red white br2">-->
-                        <a href="/join/" class="f2 db pv3 black pta-button pta-button__jumbo">
-                            GET INVOLVED
+                        <a href="{{ .Params.jumbotron_cta_button_destination }}" class="f2 db pv3 mt3 black pta-button pta-button__jumbo">
+                            {{ .Params.jumbotron_copy_cta_button }}
                         </a>
                     </div>
                 </div>
