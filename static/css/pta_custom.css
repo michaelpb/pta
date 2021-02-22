@@ -1,3 +1,4 @@
+/* Set up some CSS variables used throughout */
 :root {
     --header-font: "Bebas Neue", sans-serif;
     --offwhite-bg: #f7f7f7;
@@ -7,6 +8,7 @@
 
 body {
   font-family: "Montserrat", sans-serif;
+  min-height: calc(100vh + 1px);
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -49,23 +51,29 @@ body {
     padding: 10px;
 }
 
-.pta-navbar_button {
+.pta-navbar_link:hover {
     color: var(--ebdsa);
-    border: 1px solid var(--ebdsa);
-    border-radius: 5px;
-    /*font-family: monospace;*/
-    letter-spacing: 2px;
-    margin-left: 20px;
-    font-weight: bold;
 }
 
-.pta-navbar_button:hover {
+.pta-button {
+    font-family: var(--header-font);
+    padding: 15px;
+    border: 1px solid var(--ebdsa);
+    border-radius: 5px;
+    letter-spacing: 1px;
+    margin-left: 20px;
+    text-decoration: none;
+}
+
+.pta-button:hover {
     box-shadow: 0 0 6px 0 var(--ebdsa);
 }
 
 .pta-navbar_link__active {
     color: var(--ebdsa);
+    text-decoration: underline;
 }
+
 
 .pta-navbar_logo {
     font-family: var(--header-font);

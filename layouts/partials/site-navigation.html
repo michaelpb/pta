@@ -11,11 +11,18 @@
 
         {{ $currentPage := . }}
         {{ range .Site.Menus.nav }}
-            <li class="list f5 f4-ns fw4 dib pr3">
+            <li class="list f5 f4-ns fw4 dib pr3
+                {{ if $currentPage.IsMenuCurrent "nav" . }}
+                    pta-navbar_link-wrapper__active
+                {{ end }}
+                {{ if .Params.as_button }}
+                    pta-button-wrapper
+                {{ end }}
+            ">
                 <a class="
                     no-underline pta-navbar_link 
                     {{ if .Params.as_button }}
-                        pta-navbar_button
+                        pta-button
                     {{ end }}
                     {{ if $currentPage.IsMenuCurrent "nav" . }}
                         pta-navbar_link__active
