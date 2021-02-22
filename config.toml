@@ -2,7 +2,7 @@ title = "People's Transit Alliance"
 baseURL = "https://peoplestransit.netlify.app/"
 languageCode = "en-us"
 theme = "ananke"
-publishdir = "docs/"
+publishdir = "public/"
 
 DefaultContentLanguage = "en"
 SectionPagesMenu = "main"
