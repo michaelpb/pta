@@ -17,4 +17,4 @@ You don't need skills any particular skills, or more time than just an hour, to
 be a huge help and massively impact our local transit system. Power flows from
 the people, so get involved!
 
-{{< form-contact action="https://example.com"  >}}
+{{< form-contact action="/join/"  >}}
