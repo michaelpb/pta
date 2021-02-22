@@ -1,10 +1,10 @@
 ---
+title: "Chapter I: Testing Article"
+description: The Grand Halls
 date: 2017-04-09T10:58:08-04:00
-description: The Grand Hall
 featured_image: /images/Pope-Edouard-de-Beaumont-1844.jpg
 tags:
   - scene
-title: "Chapter I: Testing Article"
 ---
 
 Three hundred and forty-eight years, six months, and nineteen days ago
