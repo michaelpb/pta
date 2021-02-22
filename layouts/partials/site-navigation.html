@@ -17,7 +17,7 @@
                     {{ if .Params.as_button }}
                         pta-navbar_button
                     {{ end }}
-                    {{ if $currentPage.HasMenuCurrent "nav" . }}
+                    {{ if $currentPage.IsMenuCurrent "nav" . }}
                         pta-navbar_link__active
                     {{ end }}
                 "

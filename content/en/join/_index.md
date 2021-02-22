@@ -4,7 +4,7 @@ type: page
 menu:
     nav:
         title: "Join"
-        weight: 20
+        weight: 40
         params:
             as_button: true
 ---
