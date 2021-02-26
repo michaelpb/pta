@@ -5,12 +5,17 @@
         </div>
     </header>
 {{ else }}
-    {{ $featured_video := .Param "featured_video"}}
+    {{ $featured_video := .Params.jumbotron_video }}
+    {{ $featured_video_safari := .Params.jumbotron_video_safari }}
     {{ if $featured_video }}
         {{/* Trimming the slash and adding absURL make sure the image works no matter where our site lives */}}
         {{ $featured_video := (trim $featured_video "/") | absURL }}
+        {{ $featured_video_safari := (trim $featured_video_safari "/") | absURL }}
         <video autoplay muted loop class="pta-videobg">
-            <source src="{{ $featured_video }}" type="video/mp4">
+            <source src="{{ $featured_video }}" type="video/webm">
+            {{ if $featured_video_safari }}
+                <source src="{{ $featured_video_safari }}" type="video/mp4">
+            {{ end }}
         </video>
     {{ end }}
 

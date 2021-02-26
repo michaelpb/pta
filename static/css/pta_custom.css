@@ -1,13 +1,15 @@
 /* Set up some CSS variables used throughout */
 :root {
-    --header-font: "Bebas Neue", sans-serif;
+    --logo-font: "Teko", sans-serif;
+    --header-font: "Teko", sans-serif;
+    --body-font: "Lora", serif;
     --offwhite-bg: #f7f7f7;
     --container-width: 70rem;
     --ebdsa: #ed1b24ff;
 }
 
 body {
-  font-family: "Montserrat", sans-serif;
+  font-family: var(--body-font);
   min-height: calc(100vh + 1px);
 }
 
@@ -45,10 +47,12 @@ body {
 
 .pta-navbar_link {
     color: black;
-    font-family: var(--header-font);
+    font-family: var(--logo-font);
     text-transform: uppercase;
-    font-size: 25px;
+    font-size: 1.5rem;
     padding: 10px;
+    font-weight: 700;
+    letter-spacing: 1px;
 }
 
 .pta-navbar_link:hover {
@@ -56,8 +60,9 @@ body {
 }
 
 .pta-button {
-    font-family: var(--header-font);
     padding: 15px;
+    font-family: var(--logo-font);
+    font-weight: 700;
     border: 1px solid var(--ebdsa);
     border-radius: 5px;
     letter-spacing: 1px;
@@ -67,6 +72,11 @@ body {
         ,color 0.3s
         ,background-color 0.3s
         ;
+}
+
+.pta-button.pta-navbar_link {
+    padding-bottom: 5px;
+    padding-top: 10px;
 }
 
 .pta-button__jumbo {
@@ -86,10 +96,11 @@ body {
 
 
 .pta-navbar_logo {
-    font-family: var(--header-font);
+    font-family: var(--logo-font);
     text-transform: uppercase;
     color: black;
     font-size: 2rem;
+    font-weight: 400;
 }
 
 .pta-navbar_logo > img {
@@ -123,16 +134,18 @@ body {
 
 .pta-jumbotron_title {
     text-align: right;
-    font-size: 7rem;
+    font-size: 6.5rem;
     line-height: 0.8;
+    font-weight: 900;
 }
 
 .pta-jumbotron_title__toptext {
-    color: var(--ebdsa);
+    color: black;
 }
 
 .pta-jumbotron_title__midtext {
-    font-size: 5rem;
+    font-size: 0.7em;
+    color: rgba(0, 0, 0, 0.5);
 }
 
 .pta-jumbotron_title__endtext {
@@ -143,10 +156,12 @@ body {
 }
 
 .pta-jumbotron_title {
+    /*
     background: black;
     color: white;
     height: 230px;
     width: 230px;
+    */
     /*box-shadow: 40px 40px 0 10px rgba(0, 0, 0, 0.8);*/
 }
 
@@ -180,6 +195,9 @@ body {
     max-width: var(--container-width);
 }
 
+.pta-navbar_inner {
+    align-items: baseline;
+}
 
 @media screen and (max-width: 768px) {
     .pta-navbar {
