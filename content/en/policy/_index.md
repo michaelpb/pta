@@ -1,9 +1,9 @@
 ---
-title: "Policy"
+title: "Vision"
 featured_image: ''
 menu:
     nav:
-        title: "Policy"
+        title: "Vision"
         weight: 20
 ---
 
