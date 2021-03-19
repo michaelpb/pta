@@ -23,7 +23,7 @@ enableRobotsTXT = true
 
 [params]
   favicon = ""
-  site_logo = "/images/logo_traced.png"
+  site_logo = "/images/heartlogo.svg.png"
   description = "Free Transit Now!"
   facebook = "https://www.facebook.com/JovankaForThePeople/"
   twitter = "https://twitter.com/JovankaBeckles/"
