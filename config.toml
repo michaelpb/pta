@@ -40,7 +40,7 @@ enableRobotsTXT = true
   background_color_class = "bg-dark-red"
   #featured_video = "/videos/jb_video_reenc.webm"
   recent_posts_number = 2
-  custom_css = ["css/pta_custom.css"]
+  custom_css = ["css/pta_custom.css", "css/bootstrap.min.css"]
   google_fonts = [
     #["Bebas Neue"],
     #["Rubik", "200, 400, 800"],
