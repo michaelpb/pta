@@ -133,7 +133,6 @@ body {
 }
 
 .pta-jumbotron_title {
-    text-align: right;
     font-size: 6.5rem;
     line-height: 0.8;
     font-weight: 900;
@@ -177,7 +176,6 @@ body {
 */
 
 .pta-jumbotron_pullquote {
-    margin-top: 80px;
     text-align: left;
     font-size: 1.8rem;
     max-width: 500px;
@@ -200,6 +198,9 @@ body {
 }
 
 @media screen and (max-width: 768px) {
+    .pta-jumbotron_title {
+        font-size: 4.5rem;
+    }
     .pta-navbar {
         margin: 1px !important;
         padding: 1px !important;
