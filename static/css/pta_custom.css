@@ -23,10 +23,10 @@ body {
 
 .pta-videobg {
     position: absolute;
-    top: 60px;
+    top: 30px;
     left: 0;
     width: 100%;
-    min-height: 400px;
+    min-height: 450px;
     z-index: -1;
 }
 
@@ -46,7 +46,7 @@ body {
 }
 
 .pta-navbar_link {
-    color: black;
+    color: black !important;
     font-family: var(--logo-font);
     text-transform: uppercase;
     font-size: 1.5rem;
@@ -56,7 +56,7 @@ body {
 }
 
 .pta-navbar_link:hover {
-    color: var(--ebdsa);
+    color: var(--ebdsa) !important;
 }
 
 .pta-button {
@@ -101,6 +101,7 @@ body {
     color: black;
     font-size: 2rem;
     font-weight: 400;
+    min-width: 320px;
 }
 
 .pta-navbar_logo > img {
@@ -198,8 +199,17 @@ body {
 }
 
 @media screen and (max-width: 768px) {
+    .pta-navbar_logo {
+        font-size: 1.5rem;
+        min-width: 100px;
+    }
+    .pta-navbar_logo > img {
+        height: 40px;
+    }
+
     .pta-jumbotron_title {
-        font-size: 4.5rem;
+        font-size: 2.5rem;
+        margin-right: 10px;
     }
     .pta-navbar {
         margin: 1px !important;
@@ -215,6 +225,7 @@ body {
         left: 0;
         width: 100%;
         z-index: -1;
+        display: none;
     }
 
     .pta-header {

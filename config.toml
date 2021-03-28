@@ -41,6 +41,7 @@ enableRobotsTXT = true
   #featured_video = "/videos/jb_video_reenc.webm"
   recent_posts_number = 2
   custom_css = ["css/pta_custom.css", "css/bootstrap.min.css"]
+  custom_js = ["js/bootstrap.min.js"]
   google_fonts = [
     #["Bebas Neue"],
     #["Rubik", "200, 400, 800"],

@@ -25,13 +25,13 @@
                 <div class="container">
                     <div class="row p-3">
                         {{ $featured_video := .Param "featured_video"}}
-                        <div class="col-md-6 mt-3 pta-jumbotron_title">
+                        <div class="col-md-6 pta-jumbotron_title">
                             <span class="pta-jumbotron_title__toptext">{{ .Params.jumbotron_copy_top }}</span> <br />
                             <span class="pta-jumbotron_title__midtext">{{ .Params.jumbotron_copy_middle }}</span> <br />
                             <span class="pta-jumbotron_title__endtext">{{ .Params.jumbotron_copy_bottom }}</span>
                         </div>
     
-                        <div class="col-md-6 mt-3">
+                        <div class="col-md-6">
                             <div class="pta-jumbotron_pullquote">
                                 {{ .Params.jumbotron_copy_pullquote | markdownify }}
                             </div>
