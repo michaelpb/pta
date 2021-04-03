@@ -1,25 +1,19 @@
 ---
-title: "Vision"
-featured_image: ''
+title: Campaigns
+featured_image: ""
 menu:
-    nav:
-        title: "Vision"
-        weight: 20
+  nav:
+    title: Vision
+    weight: 20
 ---
+<!--StartFragment-->
 
-Our campaign
-
-* Will fight for safe working conditions for transit workers;
-
-* Will fight to protect Black lives, starting with our workers and riders;
-
-* Will bring the East Bay together to keep AC Transit fare-free and to stop the
-  dangerous cuts being proposed to our bus service;
-
-* Will demand that the super-rich and corporations pay their fair share in
-  taxes, to save public transportation from austerity and privatization and to
-  fund a Green New Deal for public transportation in the East Bay.
+We are currently in the research and development phases of three campaigns:
 
 
 
+* Transit Recovery - Restoring public transit service to pre-pandemic levels.
+* Fare-Free Transit - No fares to take public transit
+* Zero-Emission Buses - Support AC Transit workers an equitable transition
 
+<!--EndFragment-->
