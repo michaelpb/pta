@@ -220,3 +220,23 @@ body {
         padding-bottom: 10px;
     }
 }
+
+
+/* LAYOUT for BULLETIN page (and similar pages) */
+@media (min-width: 992px) {
+    /* only for desktop */
+    .pta-main {
+        margin-top: -120px;
+    }
+    .pta-left-aside {
+        display: block;
+        max-width: 400px;
+        background: whiteSmoke;
+        padding: 10px;
+    }
+
+    .pta-bulletin-info {
+        display: flex;
+    }
+}
+
