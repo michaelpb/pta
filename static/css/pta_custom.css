@@ -1,11 +1,26 @@
 /* Set up some CSS variables used throughout */
 :root {
-    --logo-font: "Teko", sans-serif;
-    --header-font: "Teko", sans-serif;
-    --body-font: "Lora", serif;
+    /*--logo-font: "Teko", sans-serif;*/
+    /*--header-font: "Teko", sans-serif;/
+    /*--body-font: "Lora", serif;*/
+    --header-font: "Manifold DSA", sans-serif;
+    --body-font: "Manifold DSA", sans-serif;
+    --logo-font: "Manifold DSA", sans-serif;
     --offwhite-bg: #f7f7f7;
     --container-width: 70rem;
-    --ebdsa: #ed1b24ff;
+
+    /* https://design.dsausa.org/national-identity/color-palette/ */
+    --ebdsa: #EC1F27;
+    --ebdsa-tint1: #F04C53;
+    --ebdsa-tint2: #F4797E;
+    --ebdsa-tint3: #FBD2D4;
+    --offblack: #231F20;
+    --gray1: #3B3838;
+    --gray2: #605C5C;
+    --gray3: #8C8989;
+    --gray4: #C1C0BF;
+
+    --desktop-navbar-height: 134px;
 }
 
 body {
@@ -14,58 +29,68 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: var(--header-font);
+  font-family: var(--header-font) !important;
 }
 
 body {
     overflow-x: hidden;
 }
 
+.pta-navbar {
+    background: var(--ebdsa);
+    color: white;
+    position: -webkit-sticky;
+    position: sticky !important;
+    top: 0;
+    z-index: 100;
+}
+
 .pta-videobg {
+    --top-offset: 0px;
     position: absolute;
-    top: 30px;
+    top: var(--desktop-navbar-height);
     left: 0;
-    width: 100%;
+    min-width: 100%;
+    width: 1920px;
     min-height: 450px;
     z-index: -1;
 }
 
+.u--jumbotron-outer-wrapper {
+    background: rgba(255, 255, 255, 0.8);
+    min-height: 580px;
+    padding-top: 20px;
+}
+
+@media (min-width: 768px) {
+    .u--jumbotron-outer-wrapper {
+        padding-top: 100px;
+    }
+}
+
 .pta-header {
     /*background: rgba(0, 0, 0, 0.8);*/
-    background: rgba(255, 255, 255, 0.8);
     color: black;
     margin-bottom: -10px;
     padding-bottom: 50px;
 }
 
-.pta-slab h1 {
-}
-
-.pta-navbar {
-    background: var(--offwhite-bg);
-}
-
 .pta-navbar_link {
-    color: black !important;
     font-family: var(--logo-font);
     text-transform: uppercase;
-    font-size: 1.5rem;
+    font-size: 1.8rem;
     padding: 10px;
-    font-weight: 700;
-    letter-spacing: 1px;
+    font-weight: 800;
+    color: white !important;
 }
 
-.pta-navbar_link:hover {
-    color: var(--ebdsa) !important;
-}
 
 .pta-button {
     padding: 15px;
     font-family: var(--logo-font);
     font-weight: 700;
     border: 1px solid var(--ebdsa);
-    border-radius: 5px;
-    letter-spacing: 1px;
+    border-radius: 3px;
     text-decoration: none;
     background-color: rgba(255, 255, 255, 0);
     transition: box-shadow 0.3s
@@ -75,8 +100,9 @@ body {
 }
 
 .pta-button.pta-navbar_link {
-    padding-bottom: 5px;
-    padding-top: 10px;
+    border-color: white;
+    letter-spacing: 3px;
+    font-weight: 400;
 }
 
 .pta-button__jumbo {
@@ -91,27 +117,28 @@ body {
 
 .pta-navbar_link__active {
     color: var(--ebdsa);
-    text-decoration: underline;
+    text-decoration: underline !important;
 }
 
 
 .pta-navbar_logo {
     font-family: var(--logo-font);
     text-transform: uppercase;
-    color: black;
-    font-size: 2rem;
-    font-weight: 400;
+    color: white !important;
+    font-size: 2.1rem;
+    font-weight: 300;
     min-width: 320px;
+    text-align: left;
+    line-height: 1.1;
 }
 
 .pta-navbar_logo > img {
-    height: 50px;
-    margin-bottom: -10px;
+    height: 128px;
+    float: left;
+    margin-top: -10px;
+    margin-right: 20px;
 }
 
-.pta-jumbotron {
-    padding-bottom: 90px;
-}
 
 .pta-platform img {
     height: 200px;
@@ -137,6 +164,7 @@ body {
     font-size: 6.5rem;
     line-height: 0.8;
     font-weight: 900;
+    font-family: var(--header-font) !important;
 }
 
 .pta-jumbotron_title__toptext {
@@ -198,6 +226,23 @@ body {
     align-items: baseline;
 }
 
+
+@media screen and (min-width: 768px) {
+    .pta-navbar_link { margin-left: 5px; }
+    .pta-navbar {
+        margin-left: -130px; /* quick fix for alignment */
+    }
+}
+@media screen and (min-width: 992px) {
+    .pta-navbar_link { margin-left: 20px; }
+    .pta-videobg {--top-offset: 100px; }
+}
+@media screen and (min-width: 1200px) {
+    .pta-navbar_link { margin-left: 50px; }
+    .pta-videobg {--top-offset: 0px; }
+}
+
+
 @media screen and (max-width: 768px) {
     .pta-navbar_logo {
         font-size: 1.5rem;
@@ -232,23 +277,3 @@ body {
         padding-bottom: 10px;
     }
 }
-
-
-/* LAYOUT for BULLETIN page (and similar pages) */
-@media (min-width: 992px) {
-    /* only for desktop */
-    .pta-main {
-        margin-top: -120px;
-    }
-    .pta-left-aside {
-        display: block;
-        max-width: 400px;
-        background: whiteSmoke;
-        padding: 10px;
-    }
-
-    .pta-bulletin-info {
-        display: flex;
-    }
-}
-

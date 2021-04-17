@@ -226,15 +226,6 @@ tags
 
 
 ### Project template
-
 public/
-
-
-#.env
-#.envs/*
-
 tmp/
 
-# Remove sqlite3 from vc
-db.sqlite3
-db.sqlite3.backup

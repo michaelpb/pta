@@ -1,0 +1,324 @@
+@font-face {
+    font-family: 'Manifold DSA';
+    src: url('manifolddsa/ManifoldDSA-Light.eot');
+    src: url('manifolddsa/ManifoldDSA-Light.eot?#iefix') format('embedded-opentype'),
+        url('manifolddsa/ManifoldDSA-Light.woff2') format('woff2'),
+        url('manifolddsa/ManifoldDSA-Light.woff') format('woff'),
+        url('manifolddsa/ManifoldDSA-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Manifold DSA';
+    src: url('manifolddsa/ManifoldDSA-HeavyItalic.eot');
+    src: url('manifolddsa/ManifoldDSA-HeavyItalic.eot?#iefix') format('embedded-opentype'),
+        url('manifolddsa/ManifoldDSA-HeavyItalic.woff2') format('woff2'),
+        url('manifolddsa/ManifoldDSA-HeavyItalic.woff') format('woff'),
+        url('manifolddsa/ManifoldDSA-HeavyItalic.ttf') format('truetype');
+    font-weight: 900;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Manifold DSA';
+    src: url('manifolddsa/ManifoldDSA-LightItalic.eot');
+    src: url('manifolddsa/ManifoldDSA-LightItalic.eot?#iefix') format('embedded-opentype'),
+        url('manifolddsa/ManifoldDSA-LightItalic.woff2') format('woff2'),
+        url('manifolddsa/ManifoldDSA-LightItalic.woff') format('woff'),
+        url('manifolddsa/ManifoldDSA-LightItalic.ttf') format('truetype');
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Manifold DSA';
+    src: url('manifolddsa/ManifoldDSA-Bold.eot');
+    src: url('manifolddsa/ManifoldDSA-Bold.eot?#iefix') format('embedded-opentype'),
+        url('manifolddsa/ManifoldDSA-Bold.woff2') format('woff2'),
+        url('manifolddsa/ManifoldDSA-Bold.woff') format('woff'),
+        url('manifolddsa/ManifoldDSA-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Manifold DSA';
+    src: url('manifolddsa/ManifoldDSA-MediumItalic.eot');
+    src: url('manifolddsa/ManifoldDSA-MediumItalic.eot?#iefix') format('embedded-opentype'),
+        url('manifolddsa/ManifoldDSA-MediumItalic.woff2') format('woff2'),
+        url('manifolddsa/ManifoldDSA-MediumItalic.woff') format('woff'),
+        url('manifolddsa/ManifoldDSA-MediumItalic.ttf') format('truetype');
+    font-weight: 500;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Manifold DSA';
+    src: url('manifolddsa/ManifoldDSA-Bold.eot');
+    src: url('manifolddsa/ManifoldDSA-Bold.eot?#iefix') format('embedded-opentype'),
+        url('manifolddsa/ManifoldDSA-Bold.woff2') format('woff2'),
+        url('manifolddsa/ManifoldDSA-Bold.woff') format('woff'),
+        url('manifolddsa/ManifoldDSA-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Manifold DSA';
+    src: url('manifolddsa/ManifoldDSA-BoldItalic.eot');
+    src: url('manifolddsa/ManifoldDSA-BoldItalic.eot?#iefix') format('embedded-opentype'),
+        url('manifolddsa/ManifoldDSA-BoldItalic.woff2') format('woff2'),
+        url('manifolddsa/ManifoldDSA-BoldItalic.woff') format('woff'),
+        url('manifolddsa/ManifoldDSA-BoldItalic.ttf') format('truetype');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Manifold DSA';
+    src: url('manifolddsa/ManifoldDSA-Heavy.eot');
+    src: url('manifolddsa/ManifoldDSA-Heavy.eot?#iefix') format('embedded-opentype'),
+        url('manifolddsa/ManifoldDSA-Heavy.woff2') format('woff2'),
+        url('manifolddsa/ManifoldDSA-Heavy.woff') format('woff'),
+        url('manifolddsa/ManifoldDSA-Heavy.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Manifold DSA';
+    src: url('manifolddsa/ManifoldDSA-Medium.eot');
+    src: url('manifolddsa/ManifoldDSA-Medium.eot?#iefix') format('embedded-opentype'),
+        url('manifolddsa/ManifoldDSA-Medium.woff2') format('woff2'),
+        url('manifolddsa/ManifoldDSA-Medium.woff') format('woff'),
+        url('manifolddsa/ManifoldDSA-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Manifold DSA';
+    src: url('manifolddsa/ManifoldDSA-ExtraBoldItalic.eot');
+    src: url('manifolddsa/ManifoldDSA-ExtraBoldItalic.eot?#iefix') format('embedded-opentype'),
+        url('manifolddsa/ManifoldDSA-ExtraBoldItalic.woff2') format('woff2'),
+        url('manifolddsa/ManifoldDSA-ExtraBoldItalic.woff') format('woff'),
+        url('manifolddsa/ManifoldDSA-ExtraBoldItalic.ttf') format('truetype');
+    font-weight: 800;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Manifold DSA';
+    src: url('manifolddsa/ManifoldDSA-DemiBold.eot');
+    src: url('manifolddsa/ManifoldDSA-DemiBold.eot?#iefix') format('embedded-opentype'),
+        url('manifolddsa/ManifoldDSA-DemiBold.woff2') format('woff2'),
+        url('manifolddsa/ManifoldDSA-DemiBold.woff') format('woff'),
+        url('manifolddsa/ManifoldDSA-DemiBold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Manifold DSA';
+    src: url('manifolddsa/ManifoldDSA-HeavyItalic.eot');
+    src: url('manifolddsa/ManifoldDSA-HeavyItalic.eot?#iefix') format('embedded-opentype'),
+        url('manifolddsa/ManifoldDSA-HeavyItalic.woff2') format('woff2'),
+        url('manifolddsa/ManifoldDSA-HeavyItalic.woff') format('woff'),
+        url('manifolddsa/ManifoldDSA-HeavyItalic.ttf') format('truetype');
+    font-weight: 900;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Manifold DSA';
+    src: url('manifolddsa/ManifoldDSA-BoldItalic.eot');
+    src: url('manifolddsa/ManifoldDSA-BoldItalic.eot?#iefix') format('embedded-opentype'),
+        url('manifolddsa/ManifoldDSA-BoldItalic.woff2') format('woff2'),
+        url('manifolddsa/ManifoldDSA-BoldItalic.woff') format('woff'),
+        url('manifolddsa/ManifoldDSA-BoldItalic.ttf') format('truetype');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Manifold DSA';
+    src: url('manifolddsa/ManifoldDSA-ExtraBoldItalic.eot');
+    src: url('manifolddsa/ManifoldDSA-ExtraBoldItalic.eot?#iefix') format('embedded-opentype'),
+        url('manifolddsa/ManifoldDSA-ExtraBoldItalic.woff2') format('woff2'),
+        url('manifolddsa/ManifoldDSA-ExtraBoldItalic.woff') format('woff'),
+        url('manifolddsa/ManifoldDSA-ExtraBoldItalic.ttf') format('truetype');
+    font-weight: 800;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Manifold DSA';
+    src: url('manifolddsa/ManifoldDSA-RegularItalic.eot');
+    src: url('manifolddsa/ManifoldDSA-RegularItalic.eot?#iefix') format('embedded-opentype'),
+        url('manifolddsa/ManifoldDSA-RegularItalic.woff2') format('woff2'),
+        url('manifolddsa/ManifoldDSA-RegularItalic.woff') format('woff'),
+        url('manifolddsa/ManifoldDSA-RegularItalic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Manifold DSA';
+    src: url('manifolddsa/ManifoldDSA-DemiBold.eot');
+    src: url('manifolddsa/ManifoldDSA-DemiBold.eot?#iefix') format('embedded-opentype'),
+        url('manifolddsa/ManifoldDSA-DemiBold.woff2') format('woff2'),
+        url('manifolddsa/ManifoldDSA-DemiBold.woff') format('woff'),
+        url('manifolddsa/ManifoldDSA-DemiBold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Manifold DSA';
+    src: url('manifolddsa/ManifoldDSA-LightItalic.eot');
+    src: url('manifolddsa/ManifoldDSA-LightItalic.eot?#iefix') format('embedded-opentype'),
+        url('manifolddsa/ManifoldDSA-LightItalic.woff2') format('woff2'),
+        url('manifolddsa/ManifoldDSA-LightItalic.woff') format('woff'),
+        url('manifolddsa/ManifoldDSA-LightItalic.ttf') format('truetype');
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Manifold DSA';
+    src: url('manifolddsa/ManifoldDSA-MediumItalic.eot');
+    src: url('manifolddsa/ManifoldDSA-MediumItalic.eot?#iefix') format('embedded-opentype'),
+        url('manifolddsa/ManifoldDSA-MediumItalic.woff2') format('woff2'),
+        url('manifolddsa/ManifoldDSA-MediumItalic.woff') format('woff'),
+        url('manifolddsa/ManifoldDSA-MediumItalic.ttf') format('truetype');
+    font-weight: 500;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Manifold DSA';
+    src: url('manifolddsa/ManifoldDSA-Medium.eot');
+    src: url('manifolddsa/ManifoldDSA-Medium.eot?#iefix') format('embedded-opentype'),
+        url('manifolddsa/ManifoldDSA-Medium.woff2') format('woff2'),
+        url('manifolddsa/ManifoldDSA-Medium.woff') format('woff'),
+        url('manifolddsa/ManifoldDSA-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Manifold DSA';
+    src: url('manifolddsa/ManifoldDSA-DemiBoldItalic.eot');
+    src: url('manifolddsa/ManifoldDSA-DemiBoldItalic.eot?#iefix') format('embedded-opentype'),
+        url('manifolddsa/ManifoldDSA-DemiBoldItalic.woff2') format('woff2'),
+        url('manifolddsa/ManifoldDSA-DemiBoldItalic.woff') format('woff'),
+        url('manifolddsa/ManifoldDSA-DemiBoldItalic.ttf') format('truetype');
+    font-weight: 600;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Manifold DSA';
+    src: url('manifolddsa/ManifoldDSA-Regular.eot');
+    src: url('manifolddsa/ManifoldDSA-Regular.eot?#iefix') format('embedded-opentype'),
+        url('manifolddsa/ManifoldDSA-Regular.woff2') format('woff2'),
+        url('manifolddsa/ManifoldDSA-Regular.woff') format('woff'),
+        url('manifolddsa/ManifoldDSA-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Manifold DSA';
+    src: url('manifolddsa/ManifoldDSA-Heavy.eot');
+    src: url('manifolddsa/ManifoldDSA-Heavy.eot?#iefix') format('embedded-opentype'),
+        url('manifolddsa/ManifoldDSA-Heavy.woff2') format('woff2'),
+        url('manifolddsa/ManifoldDSA-Heavy.woff') format('woff'),
+        url('manifolddsa/ManifoldDSA-Heavy.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Manifold DSA';
+    src: url('manifolddsa/ManifoldDSA-Light.eot');
+    src: url('manifolddsa/ManifoldDSA-Light.eot?#iefix') format('embedded-opentype'),
+        url('manifolddsa/ManifoldDSA-Light.woff2') format('woff2'),
+        url('manifolddsa/ManifoldDSA-Light.woff') format('woff'),
+        url('manifolddsa/ManifoldDSA-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Manifold DSA';
+    src: url('manifolddsa/ManifoldDSA-ExtraBold.eot');
+    src: url('manifolddsa/ManifoldDSA-ExtraBold.eot?#iefix') format('embedded-opentype'),
+        url('manifolddsa/ManifoldDSA-ExtraBold.woff2') format('woff2'),
+        url('manifolddsa/ManifoldDSA-ExtraBold.woff') format('woff'),
+        url('manifolddsa/ManifoldDSA-ExtraBold.ttf') format('truetype');
+    font-weight: 800;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Manifold DSA';
+    src: url('manifolddsa/ManifoldDSA-ExtraBold.eot');
+    src: url('manifolddsa/ManifoldDSA-ExtraBold.eot?#iefix') format('embedded-opentype'),
+        url('manifolddsa/ManifoldDSA-ExtraBold.woff2') format('woff2'),
+        url('manifolddsa/ManifoldDSA-ExtraBold.woff') format('woff'),
+        url('manifolddsa/ManifoldDSA-ExtraBold.ttf') format('truetype');
+    font-weight: 800;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Manifold DSA';
+    src: url('manifolddsa/ManifoldDSA-Regular.eot');
+    src: url('manifolddsa/ManifoldDSA-Regular.eot?#iefix') format('embedded-opentype'),
+        url('manifolddsa/ManifoldDSA-Regular.woff2') format('woff2'),
+        url('manifolddsa/ManifoldDSA-Regular.woff') format('woff'),
+        url('manifolddsa/ManifoldDSA-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Manifold DSA';
+    src: url('manifolddsa/ManifoldDSA-DemiBoldItalic.eot');
+    src: url('manifolddsa/ManifoldDSA-DemiBoldItalic.eot?#iefix') format('embedded-opentype'),
+        url('manifolddsa/ManifoldDSA-DemiBoldItalic.woff2') format('woff2'),
+        url('manifolddsa/ManifoldDSA-DemiBoldItalic.woff') format('woff'),
+        url('manifolddsa/ManifoldDSA-DemiBoldItalic.ttf') format('truetype');
+    font-weight: 600;
+    font-style: italic;
+    font-display: swap;
+}
+

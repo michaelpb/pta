@@ -1,12 +1,29 @@
-<nav class="navbar navbar-expand-md navbar-light me-auto">
+<nav class="navbar navbar-expand-md navbar-dark me-auto pta-navbar">
     <div class="container">
-        <a href="{{ .Site.Home.RelPermalink }}" class="no-underline pta-navbar_logo ms-auto">
+        <!-- DESKTOP -->
+        <a href="{{ .Site.Home.RelPermalink }}" class="no-underline pta-navbar_logo ms-auto d-none d-sm-none d-md-inline">
             {{ with .Site.Params.site_logo }}
-                <img src="{{ . }}" alt="{{ $.Site.Title }}" />
+                <img src="{{ . }}" alt="{{ $.Site.Params.site_logo_alt }}" />
             {{ else }}
             {{ end }}
-            {{ .Site.Title }}
+
+            {{ $title := replace .Site.Title " " "<br />" }}
+            {{ $title | safeHTML }}
         </a>
+
+        <!-- MOBILE -->
+        <span class="d-inline d-sm-inline">
+            <button class="navbar-toggler me-auto  no-underline pta-navbar_logo ms-auto" type="button" data-bs-toggle="collapse" 
+                data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" 
+                aria-expanded="false" aria-label="Toggle navigation">
+                {{ with .Site.Params.site_logo }}
+                    <img src="{{ . }}" alt="{{ $.Site.Params.site_logo_alt }}" />
+                {{ else }}
+                {{ end }}
+                {{ .Site.Title }}
+            </button>
+        </span>
+
         <button class="navbar-toggler me-auto" type="button" data-bs-toggle="collapse" 
             data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" 
             aria-expanded="false" aria-label="Toggle navigation">
@@ -25,7 +42,7 @@
                     {{ end }}
                 ">
                     <a class="
-                        no-underline pta-navbar_link nav-link
+                        no-underline  nav-link pta-navbar_link
                         {{ if .Params.as_button }}
                             pta-button
                         {{ end }}
