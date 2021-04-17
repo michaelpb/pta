@@ -1,52 +1,55 @@
-<nav class="pv3 ph3 ph4-ns pta-navbar" role="navigation">
-  <div class="flex-l justify-between items-center center pta-navbar_inner">
-    <a href="{{ .Site.Home.RelPermalink }}" class="f3 fw2 no-underline dib pta-navbar_logo">
-      {{ with .Site.Params.site_logo }}
-        <img src="{{ . }}" alt="{{ $.Site.Title }}" />
-      {{ else }}
-      {{ end }}
-      {{ .Site.Title }}
-    </a>
-    <div class="flex-l items-center v-base">
-
-        {{ $currentPage := . }}
-        {{ range .Site.Menus.nav }}
-            <li class="list f5 f4-ns fw4 dib pr3
-                {{ if $currentPage.IsMenuCurrent "nav" . }}
-                    pta-navbar_link-wrapper__active
-                {{ end }}
-                {{ if .Params.as_button }}
-                    pta-button-wrapper
-                {{ end }}
-            ">
-                <a class="
-                    no-underline pta-navbar_link 
-                    {{ if .Params.as_button }}
-                        pta-button
-                    {{ end }}
-                    {{ if $currentPage.IsMenuCurrent "nav" . }}
-                        pta-navbar_link__active
-                    {{ end }}
-                "
-                href="{{ .URL }}" title="{{ .Name }} page">
-                    {{ .Pre }}
-                    {{ .Name }}
-                </a>
-            </li>
-
-            {{ if .HasChildren }}
-                <ul class="sub-menu">
-                    {{ range .Children }}
-                        <li class="{{ if $currentPage.IsMenuCurrent "nav" . }}active{{ end }}">
-                            <a href="{{ .URL }}">{{ .Name }}</a>
-                        </li>
-                    {{ end }}
-                </ul>
+<nav class="navbar navbar-expand-md navbar-light me-auto">
+    <div class="container">
+        <a href="{{ .Site.Home.RelPermalink }}" class="no-underline pta-navbar_logo ms-auto">
+            {{ with .Site.Params.site_logo }}
+                <img src="{{ . }}" alt="{{ $.Site.Title }}" />
+            {{ else }}
             {{ end }}
-        {{ end }}
-      {{ partial "i18nlist.html" . }}
-
-      {{/* {{ partialCached "social-follow.html" . }} */}}
+            {{ .Site.Title }}
+        </a>
+        <button class="navbar-toggler me-auto" type="button" data-bs-toggle="collapse" 
+            data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" 
+            aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse justify-content-end" id="navbarSupportedContent">
+            <ul class="navbar-nav me-auto mb-2">
+                {{ $currentPage := . }}
+                {{ range .Site.Menus.nav }}
+                <li class="list nav-item
+                    {{ if $currentPage.IsMenuCurrent "nav" . }}
+                        pta-navbar_link-wrapper__active
+                    {{ end }}
+                    {{ if .Params.as_button }}
+                        pta-button-wrapper
+                    {{ end }}
+                ">
+                    <a class="
+                        no-underline pta-navbar_link nav-link
+                        {{ if .Params.as_button }}
+                            pta-button
+                        {{ end }}
+                        {{ if $currentPage.IsMenuCurrent "nav" . }}
+                            pta-navbar_link__active
+                        {{ end }}
+                    "
+                    href="{{ .URL }}" title="{{ .Name }} page">
+                        {{ .Pre }}
+                        {{ .Name }}
+                    </a>
+                </li>
+                {{ if .HasChildren }}
+                    <ul class="sub-menu">
+                        {{ range .Children }}
+                            <li class="{{ if $currentPage.IsMenuCurrent "nav" . }}active{{ end }}">
+                                <a href="{{ .URL }}">{{ .Name }}</a>
+                            </li>
+                        {{ end }}
+                    </ul>
+                {{ end }}
+                {{ end }}
+            </ul>
+            {{ partial "i18nlist.html" . }}
+        </div>
     </div>
-  </div>
 </nav>
