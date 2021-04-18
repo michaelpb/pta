@@ -46,9 +46,9 @@
     {{ block "header" . }}{{ partial "site-header.html" .}}{{ end }}
 
     <main class="pta-main" role="main">
-        <div class="center pta-main_inner">
+        {{ if not .Params.page_contents_skip_container }} <div class="container"> {{ end }}
             {{ block "main" . }}{{ end }}
-        </div>
+        {{ if not .Params.page_contents_skip_container }} </div> {{ end }}
     </main>
 
     {{ block "footer" . }}{{ partialCached "site-footer.html" . }}{{ end }}

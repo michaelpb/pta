@@ -18,10 +18,12 @@
         <div class="pta-jumbotron">
             <div class="row p-3">
                 {{ $featured_video := .Param "featured_video"}}
-                <div class="col-lg-6 pta-jumbotron_title">
-                    <span class="pta-jumbotron_title__toptext">{{ .Params.jumbotron_copy_top }}</span> <br />
-                    <span class="pta-jumbotron_title__midtext">{{ .Params.jumbotron_copy_middle }}</span> <br />
-                    <span class="pta-jumbotron_title__endtext">{{ .Params.jumbotron_copy_bottom }}</span>
+                <div class="col-lg-6">
+                    <div class="pta-jumbotron_title">
+                        <span class="pta-jumbotron_title__toptext">{{ .Params.jumbotron_copy_top }}</span> <br />
+                        <span class="pta-jumbotron_title__midtext">{{ .Params.jumbotron_copy_middle }}</span> <br />
+                        <span class="pta-jumbotron_title__endtext">{{ .Params.jumbotron_copy_bottom }}</span>
+                    </div>
                 </div>
 
                 <div class="col-lg-6">

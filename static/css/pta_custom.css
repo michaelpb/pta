@@ -20,6 +20,8 @@
     --gray3: #8C8989;
     --gray4: #C1C0BF;
 
+    --purple: #492b7f;
+
     --navbar-height: 134px;
 }
 
@@ -51,20 +53,17 @@ body {
 
 .pta-videobg {
     position: absolute;
-    top: var(--navbar-height);
+    top: var(--desktop-navbar-height);
+    left: 0;
     width: 1600px;
     min-width: 100%;
-    left: 0;
+    /*min-height: 450px;*/
+    margin: auto 0;
     z-index: -1;
     overflow: hidden;
     display: block;
 }
 
-/*
-@media (min-width: 992px) { .pta-videobg { width: 200%; } }
-@media (min-width: 1200px) { .pta-videobg { width: 200%; top: -400px; } }
-@media (min-width: 1600px) { .pta-videobg { width: 100%; top: var(--navbar-height); } }
-*/
 
 .u--jumbotron-outer-wrapper {
     background: rgba(255, 255, 255, 0.8);
@@ -126,6 +125,22 @@ body {
     display: inline-block;
 }
 
+.pta-button__form {
+    margin-top: -10px;
+    background: white;
+    color: black;
+    text-transform: uppercase;
+    font-weight: bold;
+    border: 2px solid black;
+}
+
+.pta-input {
+    background: white;
+    color: var(--offblack);
+    border: 2px solid var(--offblack) !important;
+    height: 60px;
+}
+
 .pta-button:hover {
     box-shadow: 2px 2px 0 0 white;
     color: var(--ebdsa) !important;
@@ -183,24 +198,46 @@ body {
 .pta-jumbotron_title {
     font-size: 6.5rem;
     line-height: 0.8;
-    font-weight: 900;
+    font-weight: 800;
     font-family: var(--header-font) !important;
+    text-align: center;
+    background: var(--ebdsa-tint3);
+    border: 3px solid var(--ebdsa);
+    padding: 20px;
 }
 
 .pta-jumbotron_title__toptext {
-    color: black;
+    color: white;
+    /*text-shadow: 0 0 10px black;*/
+    -webkit-text-stroke: 3px var(--purple);
+    -webkit-text-fill-color: white;
 }
 
 .pta-jumbotron_title__midtext {
-    font-size: 0.7em;
-    color: rgba(0, 0, 0, 0.5);
+    color: var(--ebdsa);
+    border-top: 3px solid var(--ebdsa);
+    border-bottom: 3px solid var(--ebdsa);
+    display: inline-block;
+    line-height: 1.1;
+    font-size: 0.3em;
+    position: relative; /* quick hack */
+    top: -20px;
 }
 
+@media (max-width: 992px) {
+    /* Fix alignment for smaller sizes */
+    .pta-jumbotron_title__midtext {
+        position: static;
+        font-size: 0.5em;
+    }
+}
+
+
 .pta-jumbotron_title__endtext {
-    color: var(--ebdsa);
-    /*text-shadow: 0 0 2px black;*/
-    /*-webkit-text-stroke: 1px black;
-    -webkit-text-fill-color: white;*/
+    color: white;
+    /*text-shadow: 0 0 10px black;*/
+    -webkit-text-stroke: 3px var(--purple);
+    -webkit-text-fill-color: white;
 }
 
 .pta-jumbotron_title {
@@ -246,6 +283,9 @@ body {
     align-items: baseline;
 }
 
+.u--bg-tint3 {
+    background-color: var(--ebdsa-tint3);
+}
 
 @media screen and (min-width: 768px) {
     .pta-navbar_link { margin-left: 5px; }
