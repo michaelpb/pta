@@ -10,27 +10,15 @@ menu:
 
 ### What We’re About
 
-
-
 The working class deserves a right to mobility. For decades our public transportation systems have been plagued by budget cuts and reduced service, making it difficult to access our cities. The People’s Transit Alliance (PTA) is an East Bay DSA project fighting to build transit that serves the people. We are organizing for transit systems that working-class people deserve. This means green and fare-free transit, good union jobs, and an accessible transit system that prioritizes the transit-dependent ridership.
 
-
-
-### Origin
-
-
+### **Origin**
 
 PTA emerged from Jovanka Beckles’ successful campaign to the AC Transit Board in November 2020. AC Transit is governed by a democratically elected seven-member board of directors that determines all questions of policy for the bus system. This includes setting service levels, routes, and fares, as well as labor contracts for AC Transit workers. We knew that having a progressive candidate representing a progressive agenda could be transformative for this transit system. 
 
-
-
 We formed a movement- and class struggle-based campaign where we engaged additional organizers from ATU 192, the Sunrise Movement, and the Richmond Progressive Alliance. DSA’s involvement brought a new batch of socialist organizers into transit work. With huge community support, Jovanka Beckles’ was elected and we now endorse and support her work at AC Transit.
 
-
-
-### In Community
-
-
+### **In Community**
 
 The Alliance also works with transit coalitions such as the Voices for Public Transportation, Bay Area activists, and progressives candidates in order to coordinate regionally on transit related issues such as restoring service to pre-pandemic levels. We bring socialist solutions and strategies to the table in any coalition we are a part of. 
 
