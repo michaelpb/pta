@@ -8,7 +8,7 @@ menu:
 ---
 <!--StartFragment-->
 
-### Overview
+### **Overview**
 
 We are currently running an active campaign around transit recovery and are in the research and development phases of two other campaigns:
 
@@ -16,7 +16,7 @@ We are currently running an active campaign around transit recovery and are in t
 * R&D - Fare-Free Transit - We demand that no person has to pay fares to access public transit
 * R&D - Zero-Emission Buses - We demand that AC Transit workers are given adequate resources and support as the agency transition to zero-emission buses 
 
-### Transit Recovery
+### **Transit Recovery**
 
 When the pandemic began in the Spring of 2020 AC Transit drastically reduced service. Fewer busses means more riders are getting passed up and finding alternative methods to access our East Bay cities. Inadequate service levels means that AC Transit riders cannot depend on public transportation to make it to work, medical appointments or school. Without an ability to get around, much of our community remains trapped. 
 
@@ -24,7 +24,7 @@ The very future of public transportation itself is at risk if service is not res
 
 AC Transit has indicated that it will not restore service until September 2022 even though the population is expected to be vaccinated and return to work and school much sooner. At PTA, we are actively building a coalition with labor, riders, and elected champions of service restoration to push AC Transit to drastically reduce this timeline. We stand in solidarity with workers of other agencies in our collective demand to bring our busses back. 
 
-### Fare-Free
+### **Fare-Free**
 
 Fare-free transit is a system which does not require passengers to pay a fare to ride. A fully implemented fare-free transit system would abolish fare for all users at all times. Some cities have carried out partial fare-free transit systems, waiving fees for certain users such as seniors, students or low-income riders. There are both national and international examples of fully fare-free systems and the movement is building throughout many large US cities such as Los Angeles and Boston.
 
@@ -40,10 +40,10 @@ Fare-free in short:
 
 At PTA, we are engaging in many activities to make fare-free a possibility at AC Transit. We are currently researching existing fare-free systems, possible funding sources, and new ways to imagine safety onboard. We are also engaging with transit workers to understand how a fare-free system might impact them and researching solutions to any adverse effects. 
 
-### Zero-Emission Buses
+### **Zero-Emission Buses**
 
 AC Transit has been a leader in the transition to zero-emission busses by currently having 23 hydrogen powered busses and 7 battery electric busses of its 635 fleet, with plans to replace all diesel busses by 2040. The transition to zero-emission busses by 2040 would positively impact the health of California residents, avoiding tens of thousands of asthma attacks, among other medical issues caused by pollution. Heavy duty busses and trucks make up only 7% of California’s roads, but contribute about 20% of carbon emissions within the state.  
 
-AT PTA, we want to ensure that AC Transit stays on track to complete the given timeline and provides workers with safe working conditions and resources in this process. AC Transit is failing ATU 192 workers in providing adequate training, access to safety gear and safe working conditions. We stand by ATU 192 workers in these demands and are currently working on an article that addresses these demands in detail.
+AT PTA, we want to ensure that AC Transit stays on track to complete the given timeline and provides workers with safe working conditions and resources in this process. ATU 192 workers deserve adequate training, access to safety gear and safe working conditions. We stand by ATU 192 workers in these demands and are currently working on an article that addresses these demands in detail.
 
 <!--EndFragment-->
