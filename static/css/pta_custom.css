@@ -21,6 +21,8 @@
     --gray4: #C1C0BF;
     --gray5: whiteSmoke;
 
+    --peach: #FCD4B7;
+
     --purple: #492b7f;
 
     --navbar-height: 134px;
@@ -226,7 +228,7 @@ body {
     font-weight: 800;
     font-family: var(--header-font) !important;
     text-align: center;
-    background: var(--ebdsa-tint3);
+    background-color: var(--peach);
     border: 3px solid var(--ebdsa);
     padding: 20px;
 }
@@ -330,8 +332,8 @@ body {
     align-items: baseline;
 }
 
-.u--bg-tint3 {
-    background-color: var(--ebdsa-tint3);
+.u--bg-peach {
+    background-color: var(--peach);
 }
 
 @media screen and (min-width: 768px) {
