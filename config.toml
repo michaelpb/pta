@@ -23,7 +23,7 @@ enableRobotsTXT = true
 
 [params]
   favicon = ""
-  site_logo = "/images/logos/shaking_hands_as_transit.svg.png"
+  site_logo = "/images/logos/bus_and_transit_map_sans_bg.svg.png"
   site_logo_alt = "PTA Logo - Two hands shaking hands, composed of bus transit routes"
   description = "Free Transit Now!"
   facebook = "https://www.facebook.com/JovankaForThePeople/"
