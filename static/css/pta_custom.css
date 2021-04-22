@@ -19,6 +19,7 @@
     --gray2: #605C5C;
     --gray3: #8C8989;
     --gray4: #C1C0BF;
+    --gray5: whiteSmoke;
 
     --purple: #492b7f;
 
@@ -267,6 +268,23 @@ body {
     max-width: 500px;
 }
 
+.pta-bulletin-sidebar {
+    padding: 40px;
+    margin-top: 30px;
+    background: var(--gray5);
+    color: black;
+}
+@media screen and (max-width: 768px) {
+    .pta-bulletin-sidebar {
+        padding: 3px;
+    }
+}
+
+.pta-bulletin-sidebar h1 {
+    text-transform: uppercase;
+    font-weight: 700;
+    font-size: 1.8rem;
+}
 
 .pta-main {
     /*background: var(--offwhite-bg);*/

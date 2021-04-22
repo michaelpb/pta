@@ -3,25 +3,23 @@
 {{/* -------------------------------------------- */}}
 
 {{ define "main" }}
-  <article class="pta-bulletin-info">
-    <section class="pta-left-aside">
-      {{ .Content }}
-    </section>
-
-    <div class="pta-right-aside">
-        <aside class="flex-ns flex-wrap justify-around mt5">
-        {{ range .Paginator.Pages }}
-            <div class="relative w-100 w-60-l mb4 bg-white">
-            {{/*
-            Note we can use `.Render` here for items just in this section, instead of a partial to pull in items for the list page. https://gohugo.io/functions/render/
-            */}}
-            {{ .Render "summary" }}
+    <div class="row">
+        <div class="col-md-5">
+            <div class="pta-bulletin-sidebar">
+                {{ .Content }}
             </div>
-        {{ end }}
-        </aside>
+        </div>
+        <div class="col-md-7">
+            <aside class="flex-ns flex-wrap justify-around mt5">
+                {{ range .Paginator.Pages }}
+                    <div class="relative w-100 w-60-l mb4 bg-white">
+                        {{/* Note we can use `.Render` here for items just in this section, instead of a partial to pull in items for the list page. https://gohugo.io/functions/render/ */}}
+                        {{ .Render "summary" }}
+                    </div>
+                {{ end }}
+            </aside>
+            {{ template "_internal/pagination.html" . }}
+        </div>
     </div>
-
-    {{ template "_internal/pagination.html" . }}
-
   </article>
 {{ end }}
