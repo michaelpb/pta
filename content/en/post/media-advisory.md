@@ -13,7 +13,9 @@ May 4, 2021
 
 Contact: Media Contact Joty Dhaliwal (e) [pta@eastbaydsa.org](mailto:pta@eastbaydsa.org) (m) 415-269-5217
 
-## Transit riders, labor, community to MTC: Unlock $1.7 B NOW for support to working people, jobs & rider safety
+## <p style="text-align: center;">Transit riders, labor, community to MTC: Unlock $1.7 B NOW for support to working people, jobs & rider safety</p>
+
+
 
 On March 11, President Biden signed a $1.9 trillion rescue bill, sending $1.7 billion to the Bay Area for transit. This money is intended to create union jobs and to provide services vital to working people’s daily lives. The time to do that is now, as working families struggle to recover from the health and economic impacts of the global pandemic.
 
