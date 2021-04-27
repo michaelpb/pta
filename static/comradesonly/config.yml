@@ -7,7 +7,7 @@ media_folder: "static/images/uploads"
 public_folder: "images/uploads"
 publish_mode: editorial_workflow
 local_backend: true # comment to disable local admin
-logo_url: "https://peoplestransit.netlify.app/images/logo_traced.png"
+logo_url: "https://peoplestransit.org/static/images/logos/bus_and_transit_map.svg.png"
 
 collections: # A list of collections the CMS should be able to edit
   - name: "post" # Used in routes, ie.: /admin/collections/:slug/edit
@@ -39,7 +39,7 @@ collections: # A list of collections the CMS should be able to edit
           - {label: "Jumbotron Call-to-Action Button URL", name: "jumbotron_cta_button_destination", widget: "string"}
           - {label: "Xtra Column 1", name: "xtra_column_1", widget: "markdown", required: false}
           - {label: "Xtra Column 2", name: "xtra_column_2", widget: "markdown", required: false}
-          - {label: "Body", name: "body", widget: "text"}
+          #- {label: "Body", name: "body", widget: "text"}
 
       - file: "content/en/about/_index.md"
         label: "About (EN)"
