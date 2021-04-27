@@ -37,6 +37,8 @@ collections: # A list of collections the CMS should be able to edit
           - {label: "Jumbotron Copy Right", name: "jumbotron_copy_pullquote", widget: "text"}
           - {label: "Jumbotron Call-to-Action Button Text", name: "jumbotron_copy_cta_button", widget: "string"}
           - {label: "Jumbotron Call-to-Action Button URL", name: "jumbotron_cta_button_destination", widget: "string"}
+          - {label: "Xtra Column 1", name: "xtra_column_1", widget: "markdown", required: false}
+          - {label: "Xtra Column 2", name: "xtra_column_2", widget: "markdown", required: false}
           - {label: "Body", name: "body", widget: "text"}
 
       - file: "content/en/about/_index.md"
@@ -53,7 +55,7 @@ collections: # A list of collections the CMS should be able to edit
         fields:
           - {label: "Title", name: "title", widget: "string"}
           - {label: "Cover Image", name: "featured_image", widget: "image", required: false}
-          - {label: "Body", name: "body", widget: "markdown"}
+          - {label: "Body (left-side)", name: "body", widget: "markdown"}
 
       - file: "content/en/campaigns/_index.md"
         label: "Campaigns (EN)"
