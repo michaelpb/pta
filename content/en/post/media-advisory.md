@@ -9,7 +9,7 @@ featured_image: images/uploads/more-narrow-rectangle.png
 
 May 4, 2021
 
-Contact: Media Contact Joty Dhaliwal (e) [pta@eastbaydsa.org](mailto:pta@eastbaydsa.org) (m) 415-269-5217
+Press Contact: Joty Dhaliwal (e) [pta@eastbaydsa.org](mailto:pta@eastbaydsa.org) (m) 415-269-5217
 
 ## <p style="text-align: center;">Transit riders, labor, community to MTC: Unlock $1.7 B NOW for support to working people, jobs & rider safety</p>
 
@@ -23,9 +23,9 @@ Instead of creating good union jobs and restoring pre-pandemic service levels ra
 
 **When:**  Thursday May 6th @ 12:30pm-1:30pm. 
 
-**Where:** Salesforce Transit Center, Beale and Mission, San Francisco for press conference, then march 2 blocks to MTC headquarters.
+**Where:** Salesforce Transit Center, 123 Beale Street (near Beale and Mission), San Francisco for press conference, then march 2 blocks to MTC headquarters.
 
-**What:** Press conference speakers will include Liz Ortega of the Alameda Labor Council, Jovanka Beckles of the AC Transit board, and transit rider Regina Islas. Labor, riders and the community will then march with a banner to [MTC HQ](https://www.google.com/maps/@37.7879997,-122.3919422,3a,75y,124.88h,82.44t/data=!3m7!1e1!3m5!1s8tOyoZhjCby23sZm83HkdQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3D8tOyoZhjCby23sZm83HkdQ%26cb_client%3Dmaps_sv.tactile.gps%26w%3D203%26h%3D100%26yaw%3D224.81616%26pitch%3D0%26thumbfov%3D100!7i16384!8i8192) and hang it at the overpass near the building. At the building, they will also be given paper and markers in order to reflect on what transit means to them and to red tape their answers to the building wall.
+**What:** Press conference speakers will include Liz Ortega of the Alameda Labor Council, Jovanka Beckles of the AC Transit board, and transit rider Regina Islas. Labor, riders and the community will then march to [MTC HQ](https://www.google.com/maps/@37.7879997,-122.3919422,3a,75y,124.88h,82.44t/data=!3m7!1e1!3m5!1s8tOyoZhjCby23sZm83HkdQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3D8tOyoZhjCby23sZm83HkdQ%26cb_client%3Dmaps_sv.tactile.gps%26w%3D203%26h%3D100%26yaw%3D224.81616%26pitch%3D0%26thumbfov%3D100!7i16384!8i8192) and hang a banner at the overpass near the building. At the building, they will also be given paper and markers in order to reflect on what transit means to them and to red tape their answers to the building wall.
 
 **Who:**  Co-hosts include SF Transit Riders, Contra Costa Labor Council, Amalgamated Transit Union, East Bay DSA, San Francisco DSA, Sunrise, and others.
 
