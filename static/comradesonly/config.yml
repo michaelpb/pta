@@ -7,7 +7,7 @@ media_folder: "static/images/uploads"
 public_folder: "/images/uploads"
 publish_mode: editorial_workflow
 local_backend: true # comment to disable local admin
-logo_url: "https://peoplestransit.org/static/images/logos/bus_and_transit_map.svg.png"
+logo_url: "https://peoplestransit.org/images/logos/bus_and_transit_map.svg.png"
 
 collections: # A list of collections the CMS should be able to edit
   - name: "post" # Used in routes, ie.: /admin/collections/:slug/edit
