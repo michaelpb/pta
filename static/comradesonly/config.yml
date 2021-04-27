@@ -4,7 +4,7 @@ backend:
   repo: michaelpb/pta
 
 media_folder: "static/images/uploads"
-public_folder: "images/uploads"
+public_folder: "/images/uploads"
 publish_mode: editorial_workflow
 local_backend: true # comment to disable local admin
 logo_url: "https://peoplestransit.org/static/images/logos/bus_and_transit_map.svg.png"
