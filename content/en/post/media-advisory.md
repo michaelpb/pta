@@ -35,6 +35,4 @@ Who:  Co-hosts include SF Transit Riders, Contra Costa Labor Council, Amalgamat
 
 <!--EndFragment-->
 
-
-
 ![](images/uploads/hey-mtc-event-flyer.png)
