@@ -1,7 +1,7 @@
 ---
 title: Media Advisory
 date: 2021-04-27T03:15:35.907Z
-featured_image: images/uploads/more-narrow-rectangle.png
+featured_image: /images/uploads/more-narrow-rectangle.png
 ---
 <!--StartFragment-->
 
