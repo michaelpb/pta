@@ -1,5 +1,5 @@
 ---
-title: "Bulletin #1 - February 2021"
+title: Bulletin
 type: page
 menu:
   nav:
