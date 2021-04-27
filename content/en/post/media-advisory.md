@@ -5,8 +5,6 @@ featured_image: images/uploads/artboard-1-copy-4.png
 ---
 <!--StartFragment-->
 
-## Media Advisory
-
 ## For Immediate Release
 
 May 4, 2021
@@ -33,6 +31,6 @@ Instead of creating good union jobs and restoring pre-pandemic service levels ra
 
 \###
 
-<!--EndFragment-->
-
 ![](images/uploads/hey-mtc-event-flyer.png)
+
+<!--EndFragment-->
