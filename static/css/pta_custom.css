@@ -39,12 +39,18 @@ h1, h2, h3, h4, h5, h6 {
 
 body {
     overflow-x: hidden;
+
+    /*
+        Without "overflow-anchor", Chrome-based browsers cause the navbar to
+        shift to the left on refresh (very bizarre bug only on Chrome)
+        https://stackoverflow.com/questions/59524026
+    */
+    overflow-anchor: none;
 }
 
 .pta-navbar {
     background: var(--ebdsa);
     color: white;
-    position: -webkit-sticky;
     position: sticky !important;
     top: 0;
     z-index: 100;

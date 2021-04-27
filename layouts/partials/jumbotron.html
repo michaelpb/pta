@@ -2,9 +2,6 @@
 {{ $featured_video := .Params.jumbotron_video }}
 {{ $featured_video_safari := .Params.jumbotron_video_safari }}
 {{ if $featured_video }}
-    {{/* Trimming the slash and adding absURL make sure the image works no matter where our site lives */}}
-    {{ $featured_video := (trim $featured_video "/") | absURL }}
-    {{ $featured_video_safari := (trim $featured_video_safari "/") | absURL }}
     <video autoplay muted loop class="pta-videobg">
         <source src="{{ $featured_video }}" type="video/webm">
         {{ if $featured_video_safari }}
@@ -41,3 +38,7 @@
     </div>
 </div>
 
+
+{{/* DEAD CODE, to absolutize the video URLs (no longer needed) */}}
+{{/*{{ $featured_video := (trim $featured_video "/") | absURL }} */}}
+{{/*{{ $featured_video_safari := (trim $featured_video_safari "/") | absURL }}*/}}
