@@ -13,7 +13,7 @@ May 4, 2021
 
 Contact: Media Contact Joty Dhaliwal (e) [pta@eastbaydsa.org](mailto:pta@eastbaydsa.org) (m) 415-269-5217
 
-<p style="text-align: center;">## Transit riders, labor, community to MTC: Unlock $1.7 B NOW for support to working people, jobs & rider safety</p>
+## <p style="text-align: center;">Transit riders, labor, community to MTC: Unlock $1.7 B NOW for support to working people, jobs & rider safety</p>
 
 
 
