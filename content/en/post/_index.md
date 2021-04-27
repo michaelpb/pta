@@ -1,10 +1,11 @@
 ---
-title: Bulletin
+title: "Bulletin #1 - February 2021"
 type: page
 menu:
   nav:
     title: Bulletin
     weight: 30
+date: 2021-03-01T01:36:33.956Z
 ---
 # Transit Corridor Bulletin
 
