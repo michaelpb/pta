@@ -31,6 +31,6 @@ Instead of creating good union jobs and restoring pre-pandemic service levels ra
 
 \###
 
-![](images/uploads/hey-mtc-event-flyer.png)
+![](/images/uploads/artboard-1-copy-4.png)
 
 <!--EndFragment-->
