@@ -51,7 +51,7 @@ body {
 .pta-navbar {
     background: var(--ebdsa);
     color: white;
-    position: sticky !important;
+    /*position: sticky !important;*/
     top: 0;
     z-index: 100;
 }
@@ -342,6 +342,41 @@ body {
     background-color: var(--peach);
 }
 
+.u--overlap-200 {
+    height: 200px;
+    margin-top: -200px;
+}
+
+.pta-card {
+    --pta-card-margin: 3px;
+    border: 10px solid var(--offblack);
+    border-radius: 1px;
+    z-index: 1;
+    position: relative;
+    background: white;
+    box-shadow: 10px 10px 0 var(--gray3);
+}
+.pta-card p,
+.pta-card h1,
+.pta-card h2,
+.pta-card h3,
+.pta-card h4 {
+    margin: var(--pta-card-margin);
+    margin-right: calc(var(--pta-card-margin) * 3);
+}
+
+.pta-card h1,
+.pta-card h2,
+.pta-card h3,
+.pta-card h4 {
+    font-weight: 800;
+    /*
+    padding: 0;
+    background-color: var(--offblack);
+    color: white;
+    */
+}
+
 @media screen and (min-width: 768px) {
     .pta-navbar_link { margin-left: 5px; }
     .pta-navbar {
@@ -353,6 +388,10 @@ body {
 }
 @media screen and (min-width: 1200px) {
     .pta-navbar_link { margin-left: 50px; }
+    .pta-card {
+        --pta-card-margin: 15px;
+        text-align: justify;
+    }
 }
 
 

@@ -6,22 +6,25 @@
 
 {{ if .Params.xtra_column_1 | or .Params.xtra_column_2 }}
     <div class="container">
-        <div class="row">
-            {{ if .Params.xtra_column_2 }}
-                <div class="col-md-6"  style="background: white">
-                    {{ .Params.xtra_column_1 | markdownify }}
+        <div class="pta-card">
+            <div class="row">
+                {{ if .Params.xtra_column_2 }}
+                    <div class="col-md-7">
+                        {{ .Params.xtra_column_1 | markdownify }}
+                    </div>
+                    <div class="col-md-5">
+                        {{ .Params.xtra_column_2 | markdownify }}
+                    </div>
+                {{ else }}
+                    <div class="col-md-3"></div>
+                    <div class="col-md-6">
+                        {{ .Params.xtra_column_1 | markdownify }}
+                    </div>
+                {{ end }}
                 </div>
-                <div class="col-md-6" style="background: white">
-                    {{ .Params.xtra_column_2 | markdownify }}
-                </div>
-            {{ else }}
-                <div class="col-md-3"></div>
-                <div class="col-md-6" style="background: white">
-                    {{ .Params.xtra_column_1 | markdownify }}
-                </div>
-            {{ end }}
             </div>
         </div>
     </div>
+    <div class="u--overlap-200 u--bg-peach"></div>
 {{ end }}
 
