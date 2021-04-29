@@ -27,7 +27,7 @@ Instead of creating good union jobs and restoring pre-pandemic service levels ra
 
 **What:** Press conference speakers will include Liz Ortega of the Alameda Labor Council, Jovanka Beckles of the AC Transit board, and transit rider Regina Islas. Labor, riders and the community will then march to [MTC HQ](https://www.google.com/maps/@37.7879997,-122.3919422,3a,75y,124.88h,82.44t/data=!3m7!1e1!3m5!1s8tOyoZhjCby23sZm83HkdQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3D8tOyoZhjCby23sZm83HkdQ%26cb_client%3Dmaps_sv.tactile.gps%26w%3D203%26h%3D100%26yaw%3D224.81616%26pitch%3D0%26thumbfov%3D100!7i16384!8i8192) and hang a banner at the overpass near the building. At the building, they will also be given paper and markers in order to reflect on what transit means to them and to red tape their answers to the building wall.
 
-**Who:** Co-hosts include SF Transit Riders, East Bay and SF DSA, Public Advocates, Amalgamated Transit Union, Sunrise Movement Bay Area, San Francisco Labor Council, Contra Costa Labor Council, Silicon Valley Youth Climate Action, San Mateo Labor Council, Transport Workers Union Local 250A, and others.
+**Who:** Co-hosts include SF Transit Riders, East Bay and SF DSA, Public Advocates, Amalgamated Transit Union, Transport Workers Union Local 250A, Sunrise Movement Bay Area, Urban Habitat, Genesis, Working Partnerships USA, Silicon Valley Youth Climate Action, San Francisco Labor Council, Contra Costa Labor Council, San Mateo Labor Council, North Bay Labor Council, Alameda Labor Council, and others.
 
 
 
