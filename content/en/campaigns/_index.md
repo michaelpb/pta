@@ -18,15 +18,15 @@ We are currently running an active campaign around transit recovery and are in t
 
 ### **Transit Recovery**
 
-When the pandemic began in the Spring of 2020 AC Transit drastically reduced service. Fewer buses means more riders are getting passed up and finding alternative methods to access our East Bay cities. Inadequate service levels means that AC Transit riders cannot depend on public transportation to make it to work, medical appointments or school. Without an ability to get around, much of our community remains trapped. 
+When the pandemic began in the Spring of 2020 AC Transit drastically reduced service. Fewer busses means more riders are getting passed up and finding alternative methods to access our East Bay cities. Inadequate service levels means that AC Transit riders cannot depend on public transportation to make it to work, medical appointments or school. Without an ability to get around, much of our community remains trapped. 
 
-The very future of public transportation itself is at risk if service is not restored as soon as possible. Service before the pandemic was already infrequent, unreliable and considered a last resort by many. When agencies cut service, it further accentuates these problems. Restoring service to pre-pandemic levels is the first step in building a worker and rider centered transit system for all. Simply put, this means we need more service and more buses on the streets. 
+The very future of public transportation itself is at risk if service is not restored as soon as possible. Service before the pandemic was already infrequent, unreliable and considered a last resort by many. When agencies cut service, it further accentuates these problems. Restoring service to pre-pandemic levels is the first step in building a worker and rider centered transit system for all. Simply put, this means we need more service and more busses on the streets. 
 
-AC Transit has indicated that it will not restore service until September 2022 even though the population is expected to be vaccinated and return to work and school much sooner. At PTA, we are actively building a coalition with labor, riders, and elected champions of service restoration to push AC Transit to drastically reduce this timeline. We stand in solidarity with workers of other agencies in our collective demand to bring our buses back. 
+AC Transit has indicated that it will not restore service until September 2022 even though the population is expected to be vaccinated and return to work and school much sooner. At PTA, we are actively building a coalition with labor, riders, and elected champions of service restoration to push AC Transit to drastically reduce this timeline. We stand in solidarity with workers of other agencies in our collective demand to bring our busses back. 
 
 ### **Hey MTC! Rally**
 
-As part of our transit recovery campaingn, on May 6th 2021 we co-organized a rally with over two dozen community and labor organizations representing transit workers and riders to demand that the Metropolitan Transportation Commission (MTC) allocate the $1.7B in Bay Area transit recovery funds from the American Rescue Plan Act. 
+As part of our transit recovery campaign, on May 6th 2021 we co-organized a rally with over two dozen community and labor organizations representing transit workers and riders to demand that the Metropolitan Transportation Commission (MTC) allocate the $1.7B in Bay Area transit recovery funds from the American Rescue Plan Act. 
 
 These ARP funds are a life-line for Bay Area transit to recover from the COVID-19 pandemic, but transit agencies can only spend this stimulus money if MTC allocates it. Without increased spending, agencies will continue to offer insufficient service to meet demand. The ARP funds are one of the most important tools to prevent this from happening.
 
@@ -35,6 +35,18 @@ These ARP funds are a life-line for Bay Area transit to recover from the COVID-1
 ![](/images/uploads/copy-of-6e1a0263.jpg)
 
 ![](/images/uploads/copy-of-6e1a0431.jpg)
+
+![](/images/uploads/copy-of-6e1a0459.jpg)
+
+![](/images/uploads/copy-of-6e1a0466.jpg)
+
+![](/images/uploads/copy-of-6e1a0481.jpg)
+
+![](/images/uploads/copy-of-6e1a0473.jpg)
+
+![](/images/uploads/copy-of-6e1a0496.jpg)
+
+![](/images/uploads/signal-2021-05-07-160638.jpeg)
 
 ### **Fare-Free**
 
