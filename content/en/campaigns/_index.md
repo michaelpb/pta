@@ -30,7 +30,7 @@ As part of our transit recovery campaign, on May 6th 2021 we co-organized a rall
 
 These ARP funds are a life-line for Bay Area transit to recover from the COVID-19 pandemic, but transit agencies can only spend this stimulus money if MTC allocates it. Without increased spending, agencies will continue to offer insufficient service to meet demand. The ARP funds are one of the most important tools to prevent this from happening.
 
-“Public transit all over the Bay Area has been hit hard by the COVID-19 pandemic. Revenue shortfalls, social distancing safety requirements, and reduced demand have led to fewer buses running on the streets,” said Nathan Swedlow, member of the People’s Transit Alliance, another co-host. “Demand is beginning to return to pre-pandemic levels as counties reopen. Service levels around the region haven’t increased to accommodate the need, and overcrowded buses are regularly passing up riders, leaving them waiting on the street.”
+“Public transit all over the Bay Area has been hit hard by the COVID-19 pandemic. Revenue shortfalls, social distancing safety requirements, and reduced demand have led to fewer buses running on the streets,” said Nathan Swedlow, member of the People’s Transit Alliance. “Demand is beginning to return to pre-pandemic levels as counties reopen. Service levels around the region haven’t increased to accommodate the need, and overcrowded buses are regularly passing up riders, leaving them waiting on the street.”
 
 ![](/images/uploads/copy-of-6e1a0263.jpg)
 
