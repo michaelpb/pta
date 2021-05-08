@@ -22,4 +22,20 @@ We formed a movement- and class struggle-based campaign where we engaged additio
 
 The Alliance also works with transit coalitions such as the Voices for Public Transportation, Bay Area activists, and progressives candidates in order to coordinate regionally on transit related issues such as restoring service to pre-pandemic levels. We bring socialist solutions and strategies to the table in any coalition we are a part of. 
 
+### **In The News**
+
+Check out these articles about us!
+
+Mercury News - "Why the Bay Area still hasn’t spent $1.7 billion in COVID stimulus money "
+
+https://www.mercurynews.com/2021/05/06/why-the-bay-area-still-hasnt-spent-1-7b-in-covid-stimulus-money/
+
+SF Examiner - "Transit advocates want MTC to release $1.7 billion from American Rescue Plan"
+
+https://www.sfexaminer.com/news/transit-advocates-want-mtc-to-release-1-7-billion-from-american-rescue-plan/
+
+KPFA 94.1 May 7th Evening News
+
+https://kpfa.org/episode/the-pacifica-evening-news-weekdays-may-7-2021/
+
 <!--EndFragment-->
