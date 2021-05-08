@@ -36,6 +36,18 @@ These ARP funds are a life-line for Bay Area transit to recover from the COVID-1
 
 ![](/images/uploads/copy-of-6e1a0431.jpg)
 
+![](/images/uploads/copy-of-6e1a0459.jpg)
+
+![](/images/uploads/copy-of-6e1a0466.jpg)
+
+![](/images/uploads/copy-of-6e1a0481.jpg)
+
+![](/images/uploads/copy-of-6e1a0473.jpg)
+
+![](/images/uploads/copy-of-6e1a0496.jpg)
+
+![](/images/uploads/signal-2021-05-07-160638.jpeg)
+
 ### **Fare-Free**
 
 Fare-free transit is a system which does not require passengers to pay a fare to ride. A fully implemented fare-free transit system would abolish fare for all users at all times. Some cities have carried out partial fare-free transit systems, waiving fees for certain users such as seniors, students or low-income riders. There are both national and international examples of fully fare-free systems and the movement is building throughout many large US cities such as Los Angeles and Boston.
