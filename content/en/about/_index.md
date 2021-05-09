@@ -20,7 +20,7 @@ We formed a movement- and class struggle-based campaign where we engaged additio
 
 ### **In Community**
 
-The Alliance also works with transit coalitions such as the Voices for Public Transportation, Bay Area activists, and progressives candidates in order to coordinate regionally on transit related issues such as restoring service to pre-pandemic levels. We bring socialist solutions and strategies to the table in any coalition we are a part of. 
+PTA also works with transit coalitions such as the Voices for Public Transportation, Bay Area activists, and progressives candidates in order to coordinate regionally on transit related issues such as restoring service to pre-pandemic levels. We bring socialist solutions and strategies to the table in any coalition we are a part of. 
 
 ### **In The News**
 
