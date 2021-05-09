@@ -46,7 +46,9 @@ These ARP funds are a life-line for Bay Area transit to recover from the COVID-1
 
 {{< figure src="/images/uploads/copy-of-6e1a0466.jpg" >}}
 
-{{< figure src="/images/uploads/signal-2021-05-07-160638.jpeg" >}}
+{{< figure src="/images/uploads/copy-of-6e1a0605.jpg">}}
+
+{{< figure src="images/uploads/copy-of-6e1a0123.jpg">}}
 
 ### **Fare-Free**
 
