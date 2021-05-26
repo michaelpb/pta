@@ -26,6 +26,14 @@ PTA also works with transit coalitions such as the Voices for Public Transportat
 
 Check out these articles about us!
 
+SF Streetsblog - "Transit Riders and Unions to MTC: Fork it Over"
+
+https://sf.streetsblog.org/2021/05/20/riders-and-unions-to-mtc-fork-it-over/
+
+San Jose Inside - "Transit Advocates are Pushing MTC to Release $1.7 Billion in Federal Funding to Grow Services"
+
+https://www.sanjoseinside.com/news/transit-advocates-are-pushing-mtc-to-release-1-7-billion-in-federal-funding-to-grow-services/
+
 Mercury News - "Why the Bay Area still hasn’t spent $1.7 billion in COVID stimulus money "
 
 https://www.mercurynews.com/2021/05/06/why-the-bay-area-still-hasnt-spent-1-7b-in-covid-stimulus-money/
