@@ -24,7 +24,7 @@ If you take the time to email us, let us know what mode of transportation you us
 
 PTA is entirely volunteer-run. This means we need you, a volunteer, to join! In particular, we are in need of these roles:
 
-* Writers - We publish a monthly bulletin and it's a great format for someone who loves writing and having a consistent volunteer rhythem and expectation. We also need writers for writing press releases, media advisaries, and occasional articles on transit topics from a socialist lens. For online and print distribution.
+* Writers - We publish a monthly bulletin and it's a great format for someone who loves writing and having a consistent volunteer rhythm and expectation. We also need writers for writing press releases, media advisories, and occasional articles on transit topics from a socialist lens. For online and print distribution.
 * Watchdogging - We attend AC Transit meeting every other Wednesday evening and give public comment on important agenda items. Our would would always benefit from having more voices at these meetings! The Tuesday before a meeting we review the agenda together, discuss the issues and have a lively chat during the meetings themselves. We also occasionally attend MTC (Metropolitan Transit Commission) meetings and give public comment.
 * Fare-free researchers and proposal writers - We’re currently researching and drafting a ballot measure to have free fares, more service and reimagined public safety at AC Transit. We are particularly on the look out for comrades with legal background.
 * Social Media - Always love to have more comrades feeding into our Twitter feed.
