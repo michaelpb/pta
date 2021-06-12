@@ -33,7 +33,7 @@ PTA is entirely volunteer-run. This means we need you, a volunteer, to join! In 
 
 With that being said, you don’t need any particular skills or even more than a few hours to be a huge help to our movement. Power flows from the people, so get involved! We strive to actively mentor. Email us at [pta@eastbaydsa.org](mailto:pta@eastbaydsa.org) if you are interested.
 
-### Events
+### **Events**
 
 **Red Square: Transit for the People**
 
