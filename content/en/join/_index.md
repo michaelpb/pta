@@ -27,7 +27,7 @@ PTA is entirely volunteer-run. This means we need you, a volunteer, to join! In 
 * Writers - We publish a monthly bulletin and it's a great format for someone who loves writing and having a consistent volunteer rhythm and expectation. We also need writers for writing press releases, media advisories, and occasional articles on transit topics from a socialist lens. For online and print distribution.
 * Watchdogging - We attend AC Transit meeting every other Wednesday evening and give public comment on important agenda items. Our would would always benefit from having more voices at these meetings! The Tuesday before a meeting we review the agenda together, discuss the issues and have a lively chat during the meetings themselves. We also occasionally attend MTC (Metropolitan Transit Commission) meetings and give public comment.
 * Fare-free researchers and proposal writers - We’re currently researching and drafting a ballot measure to have free fares, more service and reimagined public safety at AC Transit. We are particularly on the look out for comrades with legal background.
-* Reimagining Public Safety - Inspired by ACT-LA's publication [Metro as Sanctuary](http://allianceforcommunitytransit.org/metro-as-a-sanctuary/), we are researching alternatives to policing that ultimate provider safer transit experiences for workers and riders.
+* Reimagining Public Safety - Inspired by ACT-LA's publication [Metro as Sanctuary](http://allianceforcommunitytransit.org/metro-as-a-sanctuary/), we are researching alternatives to policing that provide safer transit experiences for workers and riders.
 * Social Media - Always love to have more comrades feeding into our Twitter feed.
 * Meme Lord - Everyone loves memes!
 
