@@ -27,9 +27,40 @@ PTA is entirely volunteer-run. This means we need you, a volunteer, to join! In 
 * Writers - We publish a monthly bulletin and it's a great format for someone who loves writing and having a consistent volunteer rhythm and expectation. We also need writers for writing press releases, media advisories, and occasional articles on transit topics from a socialist lens. For online and print distribution.
 * Watchdogging - We attend AC Transit meeting every other Wednesday evening and give public comment on important agenda items. Our would would always benefit from having more voices at these meetings! The Tuesday before a meeting we review the agenda together, discuss the issues and have a lively chat during the meetings themselves. We also occasionally attend MTC (Metropolitan Transit Commission) meetings and give public comment.
 * Fare-free researchers and proposal writers - We’re currently researching and drafting a ballot measure to have free fares, more service and reimagined public safety at AC Transit. We are particularly on the look out for comrades with legal background.
+* Reimagining Public Safety - Inspired by ACT-LA's publication [Metro as Sanctuary](http://allianceforcommunitytransit.org/metro-as-a-sanctuary/), we are researching alternatives to policing that ultimate provider safer transit experiences for workers and riders.
 * Social Media - Always love to have more comrades feeding into our Twitter feed.
 * Meme Lord - Everyone loves memes!
 
 With that being said, you don’t need any particular skills or even more than a few hours to be a huge help to our movement. Power flows from the people, so get involved! We strive to actively mentor. Email us at [pta@eastbaydsa.org](mailto:pta@eastbaydsa.org) if you are interested.
+
+### Events
+
+**Red Square: Transit for the People**
+
+**July 13, 2021**
+
+Be it via car, bus, train, or bike, everyone uses some form of transportation as a daily part of their lives. But how does this connect to socialism, class struggle, and racial justice?\
+\
+Join the People’s Transit Alliance and Political Education to learn about how public transportation is an important site for socialist organizing. From public transit’s role as a unionized labor sector to its crucial position as a tool in the fight for ecosocialism and collective struggle, it’s clear that the stakes of how we move around where we live are high.\
+\
+We will reflect on transportation’s role in capitalism and how it might be transformed, important moments in socialist history that engage transit, and all the possible angles for organizing class struggle and winning a transit system that exists for and through the working class.\
+\
+See you there!
+
+RSVP on the East Bay DSA [Calendar](https://www.eastbaydsa.org/events/1940/2021-07-13-red-square-transit-for-the-people/).
+
+Join Zoom Meeting
+
+<https://us02web.zoom.us/j/85330903556?pwd=SFF2em5aa0RueHdLZVgwR1AySGxndz09>
+
+Meeting ID: 853 3090 3556
+
+Passcode: transit
+
+One tap mobile
+
+[+16699006833](tel:+16699006833),,85330903556#,,,,*8361536# US (San Jose)
+
+[+12532158782](tel:+12532158782),,85330903556#,,,,*8361536# US (Tacoma)
 
 <!--EndFragment-->
