@@ -47,6 +47,6 @@ The People’s Transit Alliance and the Political Education Committee of the Eas
 \
 We reflected on transportation’s role in capitalism and how it might be transformed, important moments in socialist history that engage transit, and a few possible angles for organizing class struggle and winning a transit system that exists for and through the working class.
 
-You can watch a recording of the first part of the Night School here: https://www.youtube.com/watch?v=8Guds-yRuEk
+You can watch a recording of the first part of the Night School here: <https://www.youtube.com/watch?v=8Guds-yRuEk>
 
 <!--EndFragment-->
