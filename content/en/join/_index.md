@@ -35,7 +35,7 @@ PTA is entirely volunteer-run. This means we need you, a volunteer, to join! In 
 
 With that being said, you don’t need any particular skills or even more than a few hours to be a huge help to our movement. Power flows from the people, so get involved! We strive to actively mentor. Email us at [pta@eastbaydsa.org](mailto:pta@eastbaydsa.org) if you are interested.
 
-### **Events**
+### **Past Events**
 
 **Red Square: Transit for the People**
 
@@ -43,26 +43,10 @@ With that being said, you don’t need any particular skills or even more than a
 
 Be it via car, bus, train, or bike, everyone uses some form of transportation as a daily part of their lives. But how does this connect to socialism, class struggle, and racial justice?\
 \
-Join the People’s Transit Alliance and Political Education to learn about how public transportation is an important site for socialist organizing. From public transit’s role as a unionized labor sector to its crucial position as a tool in the fight for ecosocialism and collective struggle, it’s clear that the stakes of how we move around where we live are high.\
+The People’s Transit Alliance and the Political Education Committee of the East Bay DSA hosted this Night School to discuss how public transportation is an important site for socialist organizing. From public transit’s role as a unionized labor sector to its crucial position as a tool in the fight for ecosocialism and collective struggle, it’s clear that the stakes of how we move around where we live are high.\
 \
-We will reflect on transportation’s role in capitalism and how it might be transformed, important moments in socialist history that engage transit, and all the possible angles for organizing class struggle and winning a transit system that exists for and through the working class.\
-\
-See you there!
+We reflected on transportation’s role in capitalism and how it might be transformed, important moments in socialist history that engage transit, and a few possible angles for organizing class struggle and winning a transit system that exists for and through the working class.
 
-RSVP on the East Bay DSA [Calendar](https://www.eastbaydsa.org/events/1940/2021-07-13-red-square-transit-for-the-people/).
-
-Join Zoom Meeting
-
-<https://us02web.zoom.us/j/85330903556?pwd=SFF2em5aa0RueHdLZVgwR1AySGxndz09>
-
-Meeting ID: 853 3090 3556
-
-Passcode: transit
-
-One tap mobile
-
-[+16699006833](tel:+16699006833),,85330903556#,,,,*8361536# US (San Jose)
-
-[+12532158782](tel:+12532158782),,85330903556#,,,,*8361536# US (Tacoma)
+You can watch a recording of the first part of the Night School here: https://www.youtube.com/watch?v=8Guds-yRuEk
 
 <!--EndFragment-->
