@@ -1,8 +1,35 @@
 ---
-title: Test
+title: Example "Custom Page" showing off the features
 breadcrumbs:
   - title: Campaigns
     url: /campaigns/
+  - title: Best Campaign
+    url: /c/example-url-for-some-other-page
+galleryImages:
+  - alt: AltTesting Stuff time
+    image: /images/uploads/artboard-1-copy-4.png
+    caption: Lorem ipsum
+    url: http://zombo.com
+  - alt: AltTesting Stuff time
+    image: /images/uploads/artboard-1-copy-4.png
+    caption: Lorem ipsum
+    url: http://zombo.com
+  - alt: AltTesting Stuff time
+    image: /images/uploads/artboard-1-copy-4.png
+    caption: Example of no link...
+  - alt: AltTesting Stuff time
+    image: /images/uploads/artboard-1-copy-4.png
+  - alt: AltTesting Stuff time
+    image: /images/uploads/artboard-1-copy-4.png
+    caption: Do you like this image???
+    url: http://zombo.com
+  - alt: AltTesting Stuff time
+    image: /images/uploads/artboard-1-copy-4.png
+    url: http://zombo.com
+  - alt: AltTesting Stuff time
+    image: /images/uploads/artboard-1-copy-4.png
+    caption: Do you like this image???
+    url: http://zombo.com
 ---
 # Inque pascas
 

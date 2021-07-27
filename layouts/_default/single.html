@@ -1,9 +1,12 @@
 {{ define "header" }}
    {{/* We can override any block in the baseof file be defining it in the template */}}
   {{ partial "page-header.html" . }}
+
 {{ end }}
 
 {{ define "main" }}
+
+
   {{ $section := .Site.GetPage "section" .Section }}
   <article class="flex-l flex-wrap justify-between mw8 center ph3">
     <header class="mt4 w-100">
@@ -86,5 +89,47 @@
       {{- partial "menu-contextual.html" . -}}
     </aside>
 
+
+    <!-- "Gallery" feature below -->
+
   </article>
+
+
+  {{ if .Params.galleryImages }}
+    {{ if gt (len .Params.galleryImages) 0 }}
+      <div class="row">
+        {{ range .Params.galleryImages }}
+          <div class="col-lg-3 col-md-4 col-sm-6 mb-4 mb-lg-0">
+            <figure class="card mr-1 mt-2 mb-4 shadow display-relative">
+              <!--
+                {{ $original := print "static" .image }}
+                {{ $original }}
+                {{ $originalImg := .Resources.Get $original }}
+                {{ $originalImg }}
+                {{ if $originalImg }}
+                    {{ $thumbnailImg := $originalImg.Fill "600x400" }}
+                    {{ $thumbnailImg }}
+                {{end}}
+              -->
+
+              <img src="{{ .image }}" alt="{{ .alt }}" />
+
+              {{ if .url }}
+                <a href="{{.url}}" class="stretched-link"></a>
+              {{ end }}
+              {{ if .caption |or .url  }}
+                <div class="pta-image-caption">
+                  <h4>{{ .caption }}</h4>
+                  {{ if .url }}
+                    <a href="{{.url}}" class="text-white">Read more...</a>
+                  {{ end }}
+                </div>
+              {{ end }}
+
+            </figure>
+          </div>
+        {{ end }}
+      </div>
+    {{ end }}
+  {{ end }}
 {{ end }}

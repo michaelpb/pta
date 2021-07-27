@@ -28,10 +28,12 @@ collections: # A list of collections the CMS should be able to edit
     create: true
     fields:
       - {label: "Title", name: "title", widget: "string"}
+      - {label: "Cover Image", name: "featured_image", widget: "image", required: false}
       - {label: "Body", name: "body", widget: "markdown"}
       - label: "Breadcrumbs"
         name: "breadcrumbs"
         widget: "list"
+        summary: '{{fields.title}} ({{fields.url}})'
         hint: "Adding one or more 'breadcrumbs' creates a series of links at the top of the page, in order to communicate to users a hierarchical organizational structure."
         fields:
           - {label: "Title", name: "title", widget: "string"}
@@ -41,16 +43,15 @@ collections: # A list of collections the CMS should be able to edit
         widget: "list"
         hint: "Aliases allow for extra public-facing URL paths that redirect to the canonical URL path (eg the one at /c/). Use this to make more memorable URLs, eg '/jan18rsvp'."
         field: {label: "URL path:", name: "url", widget: "string"}
-      - {label: "Cover Image", name: "featured_image", widget: "image", required: false}
       - label: "Gallery"
         name: "galleryImages"
         widget: "list"
-        collapsed: true
-        summary: '{{fields.image}}'
+        summary: '{{fields.caption}} ({{fields.image}})'
         fields:
-        - {label: "Image", name: "image", widget: "image"}
-        - {label: "Description", name: "description", widget: "markdown"}
-        - {label: "URL Link", name: "url", widget: "string", default: ''}
+        - {label: "Image", name: "image", widget: "image", required: true}
+        - {label: "Image Description", name: "alt", widget: "string", required: true, hint: "Specify 'alt-attribute' description, to be used by screen-readers."}
+        - {label: "Caption", name: "caption", widget: "string", required: false}
+        - {label: "URL Link", name: "url", widget: "string", required: false}
 
   - name: "pages"
     label: "Pages"
