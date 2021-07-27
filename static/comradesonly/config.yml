@@ -22,6 +22,36 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Tags", name: "tags", widget: "list", required: false}
       - {label: "Body", name: "body", widget: "markdown"}
 
+  - name: "c"
+    label: "Custom Page"
+    folder: "content/en/c/"
+    create: true
+    fields:
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Body", name: "body", widget: "markdown"}
+      - label: "Breadcrumbs"
+        name: "breadcrumbs"
+        widget: "list"
+        hint: "Adding one or more 'breadcrumbs' creates a series of links at the top of the page, in order to communicate to users a hierarchical organizational structure."
+        fields:
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "URL", name: "url", widget: "string"}
+      - label: "Aliases"
+        name: "aliases"
+        widget: "list"
+        hint: "Aliases allow for extra public-facing URL paths that redirect to the canonical URL path (eg the one at /c/). Use this to make more memorable URLs, eg '/jan18rsvp'."
+        field: {label: "URL path:", name: "url", widget: "string"}
+      - {label: "Cover Image", name: "featured_image", widget: "image", required: false}
+      - label: "Gallery"
+        name: "galleryImages"
+        widget: "list"
+        collapsed: true
+        summary: '{{fields.image}}'
+        fields:
+        - {label: "Image", name: "image", widget: "image"}
+        - {label: "Description", name: "description", widget: "markdown"}
+        - {label: "URL Link", name: "url", widget: "string", default: ''}
+
   - name: "pages"
     label: "Pages"
     files:
@@ -30,16 +60,8 @@ collections: # A list of collections the CMS should be able to edit
         name: "landing"
         fields:
           - {label: "Title", name: "title", widget: "string"}
-          - {label: "Description", name: "description", widget: "string"}
-          - {label: "Jumbotron Copy Left (Top)", name: "jumbotron_copy_top", widget: "string"}
-          - {label: "Jumbotron Copy Left (Middle)", name: "jumbotron_copy_middle", widget: "string"}
-          - {label: "Jumbotron Copy Left (Bottom)", name: "jumbotron_copy_bottom", widget: "string"}
-          - {label: "Jumbotron Copy Right", name: "jumbotron_copy_pullquote", widget: "text"}
-          - {label: "Jumbotron Call-to-Action Button Text", name: "jumbotron_copy_cta_button", widget: "string"}
-          - {label: "Jumbotron Call-to-Action Button URL", name: "jumbotron_cta_button_destination", widget: "string"}
-          - {label: "Xtra Column 1", name: "xtra_column_1", widget: "markdown", required: false}
-          - {label: "Xtra Column 2", name: "xtra_column_2", widget: "markdown", required: false}
-          #- {label: "Body", name: "body", widget: "text"}
+          - {label: "Cover Image", name: "featured_image", widget: "image", required: false}
+          - {label: "Body", name: "body", widget: "markdown"}
 
       - file: "content/en/about/_index.md"
         label: "About (EN)"

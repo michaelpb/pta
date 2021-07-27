@@ -9,11 +9,13 @@
             {{ $current := . }}
             {{ range .Site.Menus.main }}
                 {{ $active := eq .Title $current.Title }}
-                <li class="list">
-                    <a class="white no-underline" href="{{ .URL }}" title="{{ .Name }} page">
-                    {{ .Name }}
-                    </a>
-                </li>
+                {{ if gt (len .Name) 2 }}
+                    <li class="list">
+                        <a class="white no-underline" href="{{ .URL }}" title="{{ .Name }} page">
+                        {{ .Name }}
+                        </a>
+                    </li>
+                {{ end }}
           {{ end }}
         </ul>
       {{ end }}

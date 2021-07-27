@@ -7,33 +7,55 @@
   {{ $section := .Site.GetPage "section" .Section }}
   <article class="flex-l flex-wrap justify-between mw8 center ph3">
     <header class="mt4 w-100">
-      <aside class="instapaper_ignoref b helvetica tracked">
-          {{/*
-          CurrentSection allows us to use the section title instead of
-          inferring from the folder.
-          https://gohugo.io/variables/page/#section-variables-and-methods
-          */}}
-        {{with .CurrentSection.Title }}{{. | upper }}{{end}}
-      </aside>
-      {{ partial "social-share.html" . }}
-      <h1 class="f1 athelas mt3 mb1">
-        {{- .Title -}}
-      </h1>
-      {{ with .Params.author }}
-      <p class="tracked">
-          By <strong>
-          {{ if reflect.IsSlice . }}
-              {{ delimit . ", " | markdownify }}
-          {{else}}
-              {{ . | markdownify }}
+
+      {{ if ne .CurrentSection.Title "Cs" }}
+          {{/* MPB: For Bulletin page */}}
+          <aside class="instapaper_ignoref b helvetica tracked">
+            {{with .CurrentSection.Title }}{{. | upper }}{{end}}
+          </aside>
+
+          {{ partial "social-share.html" . }}
+          <h1 class="f1 athelas mt3 mb1">
+            {{- .Title -}}
+          </h1>
+      {{ else }}
+          {{/* MPB: For Custom Page */}}
+
+          {{ if gt (len .Params.breadcrumbs) 0 }}
+            <nav aria-label="breadcrumb">
+              <ol class="breadcrumb">
+                {{ range .Params.breadcrumbs }}
+                    <li class="breadcrumb-item"><a href="{{ .url }}">{{ .title }}</a></li>
+                {{ end }}
+                <li class="breadcrumb-item active" aria-current="page">{{ .Title }}</li>
+              </ol>
+            </nav>
           {{ end }}
-          </strong>
-      </p>
+
+          <h1 class="f1 mt5 mb2">
+            {{- .Title -}}
+          </h1>
       {{ end }}
-      {{/* Hugo uses Go's date formatting is set by example. Here are two formats */}}
-      <time class="f6 mv4 dib tracked" {{ printf `datetime="%s"` (.Date.Format "2006-01-02T15:04:05Z07:00") | safeHTMLAttr }}>
-        {{- .Date.Format "January 2, 2006" -}}
-      </time>
+
+
+      {{ with .Params.author }}
+          <p class="tracked">
+              By <strong>
+              {{ if reflect.IsSlice . }}
+                  {{ delimit . ", " | markdownify }}
+              {{else}}
+                  {{ . | markdownify }}
+              {{ end }}
+              </strong>
+          </p>
+      {{ end }}
+
+      {{ if .Date }}
+          {{/* Hugo uses Go's date formatting is set by example. Here are two formats */}}
+          <time class="f6 mv4 dib tracked" {{ printf `datetime="%s"` (.Date.Format "2006-01-02T15:04:05Z07:00") | safeHTMLAttr }}>
+            {{- .Date.Format "January 2, 2006" -}}
+          </time>
+      {{ end }}
 
       {{/*
           Show "reading time" and "word count" but only if one of the following are true:
@@ -46,6 +68,7 @@
         <span class="f6 mv4 dib tracked"> - {{ .WordCount}} words</span>
       {{ end }}
     </header>
+
     <div class="nested-copy-line-height lh-copy {{ $.Param "post_content_classes"  | default "serif"}} f4 nested-links nested-img mid-gray pr4-l w-two-thirds-l">
       {{- .Content -}}
       {{- partial "tags.html" . -}}
