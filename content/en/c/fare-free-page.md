@@ -5,13 +5,13 @@ aliases:
 ---
 <!--StartFragment-->
 
-Our goal:  To win a free, accessible, and reliable public transit system for the East Bay’s multiracial working class through a progressive tax measure.
+**Our goal:**  To win a free, accessible, and reliable public transit system for the East Bay’s multiracial working class through a progressive tax measure.
 
-What is Fare Free?
+## What is Fare Free?
 
 A fare-free transit system is any system which does not require a passenger-fare to ride. A fully fare-free system abolishes fares for all riders, at all times, within a given transit service area. Partial fare-free systems waive fares for certain riders (for instance, youth or low income riders), during certain times, or on particular lines. In the US, Kansas City has fully removed fares and the movement is growing with LA Metro and other transit systems beginning feasibility studies.
 
-Why Have Fare Free?
+## Why Have Fare Free?
 
 By removing fares, we can ensure that everyone has access to the transportation needed to live healthy,fulfilling, and dignified lives. The idea of the “Right to the City” entails that all residents can travel freely to vital urban services such as jobs, education, and healthcare as often as they would like and fare-free studies have noticed that residents make more of these kinds of journeys overall. 
 
@@ -24,7 +24,7 @@ Other benefits:
 * Addresses climate change - Fares lead to an uptick in transit ridership and a growing ridership results in reductions in carbon pollution as cars account for about 40% of California's CO2 emissions. Fewer cars also means less traffic
 * Urban vibrancy - Makes a city feel more “alive”, the kind of city that residents are proud to be a part of and that scores highly in livability metric
 
-An Even Broader Why:
+## An Even Broader Why:
 
 Public transit in the US often began as private entities where fares were required for operations. A strong labor and rider movement was required to turn these private entities into public institutions. In the case of AC Transit, the system became a public service in 1960, but still held onto the notion of fares. A strong labor and ridership movement will again be required in order for transit to exist fully in the public realm, as a free service for all, in a similar way to schools, libraries, community parks, firefighting and police services.
 
@@ -35,7 +35,7 @@ In short, fare free:
 * Democratizes the service, making it equally available to everyone regardless of income, to use as often as they like
 * Increases ridership and decreases street congestion, accidents and pollution
 
-How: A Ballot Initiative Process 
+## How: A Ballot Initiative Process 
 
 We believe the most realistic way to win this is through a voter-initiated ballot measure. A voter-initiated ballot measure allows us to control what goes into the law. It also means that the measure would only need 50% +1 of the vote to pass instead of a 2/3rds majority vote.
 
