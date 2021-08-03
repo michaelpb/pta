@@ -11,12 +11,10 @@ date: 2021-03-01T01:36:33.956Z
 
 <!--StartFragment-->
 
-We write a monthly to quaterly bulletin to inform our community about the ins and outs of Bay Area public transportation. 
+We write a quarterly bulletin to inform our community about the politics of public transportation with an emphasis on how it affects the Bay Area. 
 
-A critical tool in this fight is an understanding of the agencies that fund and plan our transportation system. AC Transit, the Metropolitan Transportation Commission, Santa Clara Valley Transit Authority, and the dozens of other Bay Area agencies rely on abstract bureaucracy, anti-democratic procedures, and a lack of mass public engagement to make decisions that don’t serve working people. We intend to put pressure on these agencies and force them to provide what we know to be our right: a comprehensive, accessible, reliable, equitable, and efficient public transportation system.
-
-Right now, our coverage focuses primarily on the AC Transit Board and the MTC Board. We cover the main takeaways of each board meeting and their potential to affect workers and riders. By keeping tabs on the Boards’ decisions, we can better understand ways to organize around our demands. 
-
-The meetings themselves are long and involve bureaucratic procedures that might not make sense to visitors. We hope that providing consistent coverage we are able to help equip riders, organizers, and workers with a resource to lean on for deciphering and participating in these public meetings. Knowledge is power, and we aim to be a tool for disseminating knowledge to build up people power.
+A critical tool in this fight is an understanding and analysis of how the contemporary state of public transportation does not serve working people. From deep dives into the the agencies that fund and plan our transportation system to analyses of funding, urban development, and operations, we intend to shed light on the obscure, abstract, and complicated aspects of public transportation. In so doing, we intend to build power to put pressure on transit systems and transform them into we know to be our right: comprehensive, accessible, reliable, equitable, and efficient public transportation systems.
+ 
+We hope that providing consistent coverage we are able to help equip riders, organizers, and workers with a resource to lean on for deciphering and participating in the fight for public transportation. Knowledge is power, and people can't build power without it.
 
 <!--EndFragment-->
