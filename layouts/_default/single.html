@@ -24,15 +24,17 @@
       {{ else }}
           {{/* MPB: For Custom Page */}}
 
-          {{ if gt (len .Params.breadcrumbs) 0 }}
-            <nav aria-label="breadcrumb">
-              <ol class="breadcrumb">
-                {{ range .Params.breadcrumbs }}
-                    <li class="breadcrumb-item"><a href="{{ .url }}">{{ .title }}</a></li>
-                {{ end }}
-                <li class="breadcrumb-item active" aria-current="page">{{ .Title }}</li>
-              </ol>
-            </nav>
+          {{ if .Params.breadcrumbs }}
+            {{ if gt (len .Params.breadcrumbs) 0 }}
+                <nav aria-label="breadcrumb">
+                <ol class="breadcrumb">
+                    {{ range .Params.breadcrumbs }}
+                        <li class="breadcrumb-item"><a href="{{ .url }}">{{ .title }}</a></li>
+                    {{ end }}
+                    <li class="breadcrumb-item active" aria-current="page">{{ .Title }}</li>
+                </ol>
+                </nav>
+            {{ end }}
           {{ end }}
 
           <h1 class="f1 mt5 mb2">

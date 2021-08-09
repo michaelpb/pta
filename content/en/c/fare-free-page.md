@@ -1,7 +1,7 @@
 ---
 title: "Fare-Free Page "
 aliases:
-  - https://peoplestransit.org/farefree
+  - /farefree
 ---
 <!--StartFragment-->
 
