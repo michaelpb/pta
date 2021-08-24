@@ -3,8 +3,6 @@ title: Hey MTC! Rally
 aliases:
   - /mtcrally
 ---
-### **Hey MTC! Rally**
-
 On May 6th 2021, as part of our transit recovery campaign, we co-organized a rally with over two dozen community and labor organizations representing transit workers and riders to demand that the Metropolitan Transportation Commission (MTC) allocate the $1.7B in Bay Area transit recovery funds from the American Rescue Plan Act. 
 
 These ARP funds are a life-line for Bay Area transit to recover from the COVID-19 pandemic, but transit agencies can only spend this stimulus money if MTC allocates it. Without increased spending, agencies will continue to offer insufficient service to meet demand. The ARP funds are one of the most important tools to prevent this from happening.
