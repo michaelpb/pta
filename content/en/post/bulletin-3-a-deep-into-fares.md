@@ -1,5 +1,5 @@
 ---
-title: "Bulletin #3 - A Deep Into Fares"
+title: "Bulletin #3 - A Deep Dive Into Fares"
 date: 2021-06-22T02:26:12.386Z
 ---
 <!--StartFragment-->
