@@ -26,12 +26,6 @@ AC Transit has indicated that it will not restore service until September 2022 e
 
 **If you are interested in learning more about our work around developing a Rider's Budget, read more [here](https://peoplestransit.org/c/a-riders-budget/).** 
 
-<!--StartFragment-->
-
-[{{< figure src="/images/uploads/copy-of-6e1a0459.jpg" >}}](https://peoplestransit.org/c/hey-mtc-rally/)
-
-<!--EndFragment-->
-
 ![][(/images/uploads/copy-of-6e1a0459.jpg)](https://peoplestransit.org/c/hey-mtc-rally/)
 
 **You can see documentation from the May 6th rally where we demanded the American Rescue Plan funds are given to agencies [here](https://peoplestransit.org/c/hey-mtc-rally/).**
