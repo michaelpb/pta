@@ -24,7 +24,9 @@ The very future of public transportation itself is at risk if service is not res
 
 AC Transit has indicated that it will not restore service until September 2022 even though the population is expected to be vaccinated and return to work and school much sooner. At PTA, we are actively building a coalition with labor, riders, and elected champions of service restoration to push AC Transit to drastically reduce this timeline. We stand in solidarity with workers of other agencies in our collective demand to bring our busses back. 
 
-**You can see documentation from May 6th rally where we demanded the American Rescue Plan funds are given to agencies [here](https://peoplestransit.org/c/hey-mtc-rally/).**
+**If you are interested in learning more about our work around developing a Rider's Budget, read more here.** 
+
+**You can see documentation from the May 6th rally where we demanded the American Rescue Plan funds are given to agencies [here](https://peoplestransit.org/c/hey-mtc-rally/).**
 
 ### **Fare-Free**
 
