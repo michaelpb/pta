@@ -30,13 +30,6 @@ AC Transit has indicated that it will not restore service until September 2022 e
 
 **You can see documentation from the May 6th rally where we demanded the American Rescue Plan funds are given to agencies [here](https://peoplestransit.org/c/hey-mtc-rally/).**
 
-<FIGURE>
-
-<FIGCAPTION>Hey MTC! Rally</FIGCAPTION>
-<IMG SRC="/images/uploads/copy-of-6e1a0459.jpg">
-
-</FIGURE>
-
 ### **Fare-Free**
 
 Fare-free transit is a system which does not require passengers to pay a fare to ride. A fully implemented fare-free transit system would abolish fare for all users at all times. Some cities have carried out partial fare-free transit systems, waiving fees for certain users such as seniors, students or low-income riders. There are both national and international examples of fully fare-free systems and the movement is building throughout many large US cities such as Los Angeles and Boston.
