@@ -1,5 +1,5 @@
 ---
-title: "Fare-Free Page "
+title: Fare-Free Transit
 aliases:
   - /farefree
 ---
