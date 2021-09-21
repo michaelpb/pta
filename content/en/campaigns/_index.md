@@ -14,7 +14,6 @@ We are currently running an active campaign around transit recovery and are in t
 
 * **Active - Transit Recovery - We demand that public transit service is restored to pre-pandemic levels**
 * R&D - Fare-Free Transit - We demand that no person has to pay fares to access public transit
-* R&D - Zero-Emission Buses - We demand that AC Transit workers are given adequate resources and support as the agency transition to zero-emission buses 
 
 ### **Transit Recovery**
 
@@ -28,8 +27,6 @@ AC Transit has indicated that it will not restore service until September 2022 e
 
 **You can see documentation from the May 6th rally where we demanded the American Rescue Plan funds are given to agencies [here](https://peoplestransit.org/c/hey-mtc-rally/).**
 [![](/images/uploads/copy-of-6e1a0459.jpg)](https://peoplestransit.org/c/hey-mtc-rally/)
-
-
 
 ### **Fare-Free**
 
@@ -46,11 +43,5 @@ Fare-free in short:
 * Leads to service expansion that in turn leads a more frequent and reliable system as well good union jobs
 
 At PTA, we are engaging in many activities to make fare-free a possibility at AC Transit. We are currently researching existing fare-free systems, possible funding sources, and new ways to imagine safety onboard. We are also engaging with transit workers to understand how a fare-free system might impact them and researching solutions to any adverse effects. 
-
-### **Zero-Emission Buses**
-
-AC Transit has been a leader in the transition to zero-emission busses by currently having 23 hydrogen powered busses and 7 battery electric busses of its 635 fleet, with plans to replace all diesel busses by 2040. The transition to zero-emission busses by 2040 would positively impact the health of California residents, avoiding tens of thousands of asthma attacks, among other medical issues caused by pollution. Heavy duty busses and trucks make up only 7% of California’s roads, but contribute about 20% of carbon emissions within the state.  
-
-AT PTA, we want to ensure that AC Transit stays on track to complete the given timeline and provides workers with safe working conditions and resources in this process. ATU 192 workers deserve adequate training, access to safety gear and safe working conditions. We stand by ATU 192 workers in these demands and are currently working on an article that addresses these demands in detail.
 
 <!--EndFragment-->
