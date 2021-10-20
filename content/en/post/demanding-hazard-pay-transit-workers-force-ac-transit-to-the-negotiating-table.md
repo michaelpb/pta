@@ -1,5 +1,6 @@
 ---
-title: Demanding hazard pay, transit workers force AC Transit to the negotiating table
+title: "Article: Demanding hazard pay, transit workers force AC Transit to the
+  negotiating table"
 date: 2021-08-06T02:29:14.190Z
 ---
 <!--StartFragment-->
