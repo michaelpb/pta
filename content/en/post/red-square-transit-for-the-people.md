@@ -1,5 +1,5 @@
 ---
-title: "Red Square: Transit for the People"
+title: "Politcal Education: Transit for the People"
 description: Be it via car, bus, train, or bike, everyone uses some form of
   transportation as a daily part of their lives. But how does this connect to
   socialism, class struggle, and racial justice?
