@@ -7,7 +7,7 @@ menu:
     weight: 30
 date: 2021-03-01T01:36:33.956Z
 ---
-# Transit Corridor Bulletin
+## Knowledge is power, and people can't build power without it.
 
 <!--StartFragment-->
 
@@ -17,6 +17,6 @@ A critical tool in this fight is an understanding and analysis of how the contem
 
 We hope that providing consistent coverage and political education we are able to help equip riders, organizers, and workers with resources to lean on for deciphering and participating in the fight for public transportation. 
 
-Knowledge is power, and people can't build power without it.
+
 
 <!--EndFragment-->
