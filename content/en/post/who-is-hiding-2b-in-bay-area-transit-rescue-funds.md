@@ -1,5 +1,5 @@
 ---
-title: Who is hiding $2b in Bay Area transit rescue funds?
+title: "Article: Who is hiding $2b in Bay Area transit rescue funds?"
 date: 2021-05-05T04:53:31.961Z
 featured_image: /images/uploads/artboard-1-copy-4.png
 ---
