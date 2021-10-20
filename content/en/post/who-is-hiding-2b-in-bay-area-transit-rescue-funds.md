@@ -5,7 +5,7 @@ featured_image: /images/uploads/artboard-1-copy-4.png
 ---
 <!--StartFragment-->
 
-*By Annie Lloyd and Joty Dhaliwal*
+*By Joty Dhaliwal and Annie Lloyd*
 
 As vaccinations increase and California reopens, local governments and boards will be responsible for their jurisdiction’s recovery from the COVID-19 pandemic. The $1.9 trillion COVID relief spending package President Biden signed into law on March 11 provides a crucial lifeline for this recovery, but there is a hitch: State and local implementation is required to “turn on the money hose” to deliver jobs and vital services to struggling working-class communities of color. 
 
