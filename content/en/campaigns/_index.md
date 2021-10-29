@@ -15,17 +15,24 @@ We are currently running an active campaign around transit recovery and are in t
 * **Active - Transit Recovery - We demand that public transit service is restored to pre-pandemic levels**
 * R&D - Fare-Free Transit - We demand that no person has to pay fares to access public transit
 
-### **Transit Recovery**
+### **A Rider's Budget**
 
-When the pandemic began in the Spring of 2020 AC Transit drastically reduced service. Fewer busses means more riders are getting passed up and finding alternative methods to access our East Bay cities. Inadequate service levels means that AC Transit riders cannot depend on public transportation to make it to work, medical appointments or school. Without an ability to get around, much of our community remains trapped. 
+**The what and why**
 
-The very future of public transportation itself is at risk if service is not restored as soon as possible. Service before the pandemic was already infrequent, unreliable and considered a last resort by many. When agencies cut service, it further accentuates these problems. Restoring service to pre-pandemic levels is the first step in building a worker and rider centered transit system for all. Simply put, this means we need more service and more busses on the streets. 
+The COVID pandemic brought our public bus system to the brink of collapse. Many routes and service hours that were cut still have not been restored. Ridership has dwindled due to infrequent service and high fares. Exacerbating the issue, AC Transit’s hiring freeze over the pandemic has resulted in a transit worker shortage requiring rapid hiring and training in order to even have enough drivers to bring bus service back to pre-pandemic levels. 
 
-AC Transit has indicated that it will not restore service until September 2022 even though the population is expected to be vaccinated and return to work and school much sooner. At PTA, we are actively building a coalition with labor, riders, and elected champions of service restoration to push AC Transit to drastically reduce this timeline. We stand in solidarity with workers of other agencies in our collective demand to bring our busses back. 
+Fortunately, over $110 million in federal rescue funds is on the way to AC Transit– the transit agency has already received $66 million, and will receive another $44 million this fiscal year. This money is intended to restore public transit. However, AC Transit is not taking the rapid action required to spend these funds and to get transit back up and running. It is instead keeping the money in the bank for future budget shortfalls.
+
+This is why riders and transit workers demand that:
+
+* AC Transit must spend the first $66 million now to hire and train transit workers, restore service including paratransit, reduce fares and provide [hazard pay to the frontline transit workers](https://eastbaymajority.com/ac-transit-jovanka-beckles-covid-hazard-pay-bus-drivers/) who kept AC Transit moving throughout the pandemic. 
+* AC Transit must make a plan for the next $44 million now, in public meetings that give transit workers and riders a democratic say in how and when those tens of millions of dollars are spent.
+
+**What we’re doing**
+
+At the People’s Transit Alliance, we are organizing regular canvassing events where we are talking to riders about these priorities and listening to their experiences both before and during the pandemic. We are developing various ways that riders can mobilize and demand a transit system that truly serves the riders and workers. We want to support the development of a class consciousness of riders.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/A0k0UQmN364" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-**If you are interested in learning more about our work around developing a Rider's Budget, read more [here](https://peoplestransit.org/c/a-riders-budget/).** 
 
 ### **Fare-Free**
 
