@@ -29,7 +29,7 @@ AC Transit has indicated that it will not restore service until September 2022 e
 
 ### **Fare-Free**
 
-**What It Is**
+**What it is**
 
 Fare-free transit is a system which does not require passengers to pay a fare to ride. A fully implemented fare-free transit system would abolish fare for all users at all times. Some cities have carried out partial fare-free transit systems, waiving fees for certain users such as seniors, students or low-income riders. There are both national and international examples of fully fare-free systems and the movement is building throughout many large US cities such as Los Angeles and Boston.
 
@@ -45,9 +45,9 @@ Fare-free in short:
 * Increases ridership and decreases street congestion, accidents and pollution
 * Leads to service expansion that in turn leads a more frequent and reliable system as well good union jobs
 
-**At People's Transit Alliance**
+**What we’re doing**
 
-We're engaging in many activities to make fare-free a possibility at AC Transit. We are currently researching existing fare-free systems, possible funding sources, and new ways to imagine safety onboard. We are also engaging with transit workers to understand how a fare-free system might impact them and researching solutions to any adverse effects. 
+At People's Transit Alliance, we're engaging in many activities to make fare-free a possibility at AC Transit. We are currently researching existing fare-free systems, possible funding sources, and new ways to imagine safety onboard. We are also engaging with transit workers to understand how a fare-free system might impact them and researching solutions to any adverse effects. 
 
 ### **Past Campaigns and Actions**
 
