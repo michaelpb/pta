@@ -10,9 +10,10 @@ menu:
 
 ### **Overview**
 
-We are currently running an active campaign around transit recovery and are in the research and development phases of two other campaigns:
+We are currently running two active campaigns and are in the research and development stages of one campaign:
 
-* **Active - Transit Recovery - We demand that public transit service is restored to pre-pandemic levels**
+* **Active - Rider’s Budget - We’re demanding that AC Transit spends the federal stimulus funds on priorities that benefits riders and workers**
+* **Active - Hazard Pay - We support Bay Area transit workers in their demand for hazard pay**
 * R&D - Fare-Free Transit - We demand that no person has to pay fares to access public transit
 
 ### **A Rider's Budget**
