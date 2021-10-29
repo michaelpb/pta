@@ -59,7 +59,11 @@ At People's Transit Alliance, we're engaging in many activities to make fare-fre
 
 ### **Past Campaigns and Actions**
 
-You can see documentation from the May 6th rally where we demanded the American Rescue Plan funds are given to agencies [here](https://peoplestransit.org/c/hey-mtc-rally/).
+When the federal stimulus funds were announced in March 2021 and the Bay Area Metropolitan Transit Commission (MTC) began to imply that they were thinking to save these funds for a "rainy" day instead of distributing it the Bay Area transit agency for much needed pandemic revoery support, we began pressuring the commission through a variety of tactics.
+
+We wrote an article that shared the stakes at play, you can find that [here](https://eastbaymajority.com/bay-area-transit-stimulus-bailout-arp-mtc-ac-transit/).
+
+Our efforts culimated in a rally on May 6th, you can find the documentation from [here](https://peoplestransit.org/c/hey-mtc-rally/).
 [![](/images/uploads/copy-of-6e1a0459.jpg)](https://peoplestransit.org/c/hey-mtc-rally/)
 
 <!--EndFragment-->
