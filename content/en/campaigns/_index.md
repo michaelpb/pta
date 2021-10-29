@@ -63,7 +63,7 @@ When the federal stimulus funds were announced in March 2021 and the Bay Area Me
 
 We wrote an article that shared the stakes at play, you can find that [here](https://eastbaymajority.com/bay-area-transit-stimulus-bailout-arp-mtc-ac-transit/).
 
-Our efforts culimated in a rally on May 6th, you can find the documentation from [here](https://peoplestransit.org/c/hey-mtc-rally/).
+Our efforts culimated in a rally on May 6th, you can the documentation of it [here](https://peoplestransit.org/c/hey-mtc-rally/).
 [![](/images/uploads/copy-of-6e1a0459.jpg)](https://peoplestransit.org/c/hey-mtc-rally/)
 
 <!--EndFragment-->
