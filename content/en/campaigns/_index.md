@@ -69,11 +69,13 @@ At People's Transit Alliance, we're engaging in many activities to make fare-fre
 
 ### **Past Campaigns and Actions**
 
-When the federal stimulus funds were announced in March 2021 and the Bay Area Metropolitan Transit Commission (MTC) began to imply that they were thinking to save these funds for a "rainy" day instead of distributing it the Bay Area transit agency for much needed pandemic revoery support, we began pressuring the commission through a variety of tactics.
+Federal stimulus funds were received March 2021 with the intention to support transit agencies in recovering from the toll of the pandemic. The Bay Area Metropolitan Transportation Commission (MTC) delayed the distribution of this lifeline for months, implying they might save these funds for an unknown "rainy" day and not recognizing the "rainy" day was now. We began pressuring the commission through a variety of tactics including watchdogging meetings, running a communications campaign and mobilizing a coalition of transit advocates.
 
-We wrote an article that shared the stakes at play, you can find that [here](https://eastbaymajority.com/bay-area-transit-stimulus-bailout-arp-mtc-ac-transit/).
+Our efforts culminated in a rally on May 6th, you can the documentation of it [here](https://peoplestransit.org/c/hey-mtc-rally/).
 
-Our efforts culimated in a rally on May 6th, you can the documentation of it [here](https://peoplestransit.org/c/hey-mtc-rally/).
+This [a](https://eastbaymajority.com/bay-area-transit-stimulus-bailout-arp-mtc-ac-transit/)rticle we wrote shares more context on MTC's delay and it's implications.
+
+
 [![](/images/uploads/copy-of-6e1a0459.jpg)](https://peoplestransit.org/c/hey-mtc-rally/)
 
 <!--EndFragment-->
