@@ -10,9 +10,9 @@ menu:
 
 ### **Overview**
 
-We are currently running two active campaigns and are in the research and development stages of one campaign:
+We are currently running two active campaigns and are in the research and development stages of a third campaign:
 
-* **Active - Rider’s Budget - We’re demanding that AC Transit spends the federal stimulus funds on priorities that benefits riders and workers**
+* **Active - Rider’s Budget - We’re demanding that AC Transit spends the American Rescue Plan (ARP) funds on priorities that benefit riders and workers**
 * **Active - Hazard Pay - We support Bay Area transit workers in their demand for hazard pay**
 * R&D - Fare-Free Transit - We demand that no person has to pay fares to access public transit
 
