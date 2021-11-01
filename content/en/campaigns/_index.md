@@ -18,6 +18,8 @@ We are currently running two active campaigns and are in the research and develo
 
 ### **A Rider's Budget**
 
+{{< youtube id="A0k0UQmN364">}}
+
 **The what and why**
 
 The COVID pandemic brought our public bus system to the brink of collapse. Many routes and service hours that were cut still have not been restored. Ridership has dwindled due to infrequent service and high fares. Exacerbating the issue, AC Transit’s hiring freeze over the pandemic has resulted in a transit worker shortage requiring rapid hiring and training in order to even have enough drivers to bring bus service back to pre-pandemic levels. 
@@ -33,8 +35,6 @@ This is why riders and transit workers demand that:
 
 At the People’s Transit Alliance, we are organizing regular canvassing events where we are talking to riders about these priorities and listening to their experiences both before and during the pandemic. We are developing various ways that riders can mobilize and demand a transit system that truly serves the riders and workers. We want to support the development of a class consciousness of riders.
 
-{{< youtube id="A0k0UQmN364" title="A New Hugo Site in Under Two Minutes" >}}
-
 ### **Hazard Pay Now**
 
 Transit workers cannot work from home. Since the first outbreak of COVID-19 in March 2020, front-line workers for transit agencies in the Bay Area have risked their health and safety to keep our cities moving. They have worked under constant fear of getting sick, and many have had to severely limit - or completely eliminate - time spent with children, grandchildren, family members and friends due to the risk of spreading COVID-19. In addition, front-line transit workers, like all essential workforces in the Bay Area, are disproportionately POC, and are therefore already more vulnerable to getting sick and dying from the virus. While Black workers make up only 6% of the Bay Area’s essential workers, they make up [23% of all transit workers in the region](https://sff.org/bay-areas-essential-workers-are-disproportionately-people-of-color-women-and-immigrants-new-study-finds/).  
@@ -48,6 +48,8 @@ As transit in our region begins to expand back to pre-pandemic levels, we must c
 **What we’re doing**
 
 The People’s Transit Alliance stands in solidarity with transit workers demanding retroactive hazard pay. We have been supporting local chapters of the Amalgamated Transit Union, Local 192 and 265 by capturing the stories of individual workers and raising awareness of this campaign. By listening to their demands, discussing and assisting with the development of targeted strategies including the organization of rallies, we hope to win this campaign and get hazard pay for transit workers around the Bay.
+
+{{< youtube id="Dws4etsXWkY">}}
 
 ### **Fare-Free**
 
