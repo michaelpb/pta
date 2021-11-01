@@ -10,7 +10,9 @@ menu:
 
 ### **What We’re About**
 
-The working class deserves a right to mobility. For decades our public transportation systems have been plagued by budget cuts and reduced service, making it difficult to access our cities. The People’s Transit Alliance (PTA) is an East Bay DSA project fighting to build transit that serves the people. We are organizing for transit systems that working-class people deserve. This means green and fare-free transit, good union jobs, and an accessible transit system that prioritizes the transit-dependent ridership.
+The working class deserves a right to mobility. For decades our public transportation systems have been plagued by budget cuts and reduced service, making it difficult to access our cities.
+
+The People’s Transit Alliance is an East Bay DSA project fighting for a public transit system that serves the people, both riders and workers. We are organizing for public transit systems that working-class people deserve. This means green and fare-free transit, good union jobs, and an accessible transit system that prioritizes the transit-dependent ridership.
 
 ### **Origin**
 
