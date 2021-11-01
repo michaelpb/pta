@@ -33,12 +33,10 @@ This is why riders and transit workers demand that:
 
 At the People’s Transit Alliance, we are organizing regular canvassing events where we are talking to riders about these priorities and listening to their experiences both before and during the pandemic. We are developing various ways that riders can mobilize and demand a transit system that truly serves the riders and workers. We want to support the development of a class consciousness of riders.
 
+{{< youtube id="A0k0UQmN364" title="A New Hugo Site in Under Two Minutes" >}}
+
 ```md
-
-
 {{< youtube id="A0k0UQmN364" title="Join Us In Demanding a Riders Budget" >}}
-
-
 ```
 
 ### **Hazard Pay Now**
