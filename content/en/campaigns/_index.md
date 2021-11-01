@@ -35,10 +35,6 @@ At the People’s Transit Alliance, we are organizing regular canvassing events 
 
 {{< youtube id="A0k0UQmN364" title="A New Hugo Site in Under Two Minutes" >}}
 
-```md
-{{< youtube id="A0k0UQmN364" title="Join Us In Demanding a Riders Budget" >}}
-```
-
 ### **Hazard Pay Now**
 
 Transit workers cannot work from home. Since the first outbreak of COVID-19 in March 2020, front-line workers for transit agencies in the Bay Area have risked their health and safety to keep our cities moving. They have worked under constant fear of getting sick, and many have had to severely limit - or completely eliminate - time spent with children, grandchildren, family members and friends due to the risk of spreading COVID-19. In addition, front-line transit workers, like all essential workforces in the Bay Area, are disproportionately POC, and are therefore already more vulnerable to getting sick and dying from the virus. While Black workers make up only 6% of the Bay Area’s essential workers, they make up [23% of all transit workers in the region](https://sff.org/bay-areas-essential-workers-are-disproportionately-people-of-color-women-and-immigrants-new-study-finds/).  
