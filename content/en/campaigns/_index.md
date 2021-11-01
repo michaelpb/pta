@@ -35,6 +35,8 @@ At the People’s Transit Alliance, we are organizing regular canvassing events 
 
 ### **Hazard Pay Now**
 
+{{< youtube id="Dws4etsXWkY">}}
+
 Transit workers cannot work from home. Since the first outbreak of COVID-19 in March 2020, front-line workers for transit agencies in the Bay Area have risked their health and safety to keep our cities moving. They have worked under constant fear of getting sick, and many have had to severely limit - or completely eliminate - time spent with children, grandchildren, family members and friends due to the risk of spreading COVID-19. In addition, front-line transit workers, like all essential workforces in the Bay Area, are disproportionately POC, and are therefore already more vulnerable to getting sick and dying from the virus. While Black workers make up only 6% of the Bay Area’s essential workers, they make up [23% of all transit workers in the region](https://sff.org/bay-areas-essential-workers-are-disproportionately-people-of-color-women-and-immigrants-new-study-finds/).  
 
 **Why Transit Workers Deserve Hazard Pay**
@@ -46,8 +48,6 @@ As transit in our region begins to expand back to pre-pandemic levels, we must c
 **What we’re doing**
 
 The People’s Transit Alliance stands in solidarity with transit workers demanding retroactive hazard pay. We have been supporting local chapters of the Amalgamated Transit Union, Local 192 and 265 by capturing the stories of individual workers and raising awareness of this campaign. By listening to their demands, discussing and assisting with the development of targeted strategies including the organization of rallies, we hope to win this campaign and get hazard pay for transit workers around the Bay.
-
-{{< youtube id="Dws4etsXWkY">}}
 
 ### **Fare-Free**
 
