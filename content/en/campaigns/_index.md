@@ -18,7 +18,7 @@ We are currently running two active campaigns and are in the research and develo
 
 ### **A Rider's Budget**
 
-{{< youtube id="A0k0UQmN364" title="A New Hugo Site in Under Two Minutes" >}}
+{{< youtube id="A0k0UQmN364">}}
 
 **The what and why**
 
@@ -48,6 +48,8 @@ As transit in our region begins to expand back to pre-pandemic levels, we must c
 **What we’re doing**
 
 The People’s Transit Alliance stands in solidarity with transit workers demanding retroactive hazard pay. We have been supporting local chapters of the Amalgamated Transit Union, Local 192 and 265 by capturing the stories of individual workers and raising awareness of this campaign. By listening to their demands, discussing and assisting with the development of targeted strategies including the organization of rallies, we hope to win this campaign and get hazard pay for transit workers around the Bay.
+
+{{< youtube id="Dws4etsXWkY">}}
 
 ### **Fare-Free**
 
