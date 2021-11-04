@@ -4,12 +4,12 @@ date: 2021-11-03T20:33:19.773Z
 ---
 <!--StartFragment-->
 
-In this political education session we’ll watch Against the Tide, an eleven minute segment from a larger ten part documentary series called Golden Lands, Working Hands, about the history of the California labor movement. This segment covers the rise of public sector unionism, focusing especially on teachers and their ultimately successful push for a statewide collective bargaining law for education employees in K-12 and community college.  
+In this political education session we watched Against the Tide, an eleven minute segment from a larger ten part documentary series called Golden Lands, Working Hands, about the history of the California labor movement. This segment covers the rise of public sector unionism, focusing especially on teachers and their ultimately successful push for a statewide collective bargaining law for education employees in K-12 and community college.  
 
 \
 You can watch Against the Tide at this link: <https://www.youtube.com/watch?v=UwAlwGaFUeg&t=2s>
 
-<!--StartFragment-->
+Questions to reflect on below and in the notes section are some comments that came up in our discussion.
 
 # Discussion Questions / Reflection Points
 
