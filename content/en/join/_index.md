@@ -36,6 +36,6 @@ With that being said, you don’t need any particular skills or even more than a
 
 ### **Actions**
 
-![](/images/uploads/hazard-pay-event-flyer.png)
+![](/images/uploads/dec-4th-event-flyer-v2.png)
 
 <!--EndFragment-->
