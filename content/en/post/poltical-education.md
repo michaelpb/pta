@@ -1,5 +1,5 @@
 ---
-title: "Poltical Education: "
+title: "Poltical Education: Organizing in the Public Sector"
 date: 2021-11-03T20:33:19.773Z
 ---
 <!--StartFragment-->
