@@ -33,7 +33,7 @@ This is why riders and transit workers demand that:
 
 At the People’s Transit Alliance, we are organizing regular canvassing events where we are talking to riders about these priorities and listening to their experiences both before and during the pandemic. We ultimately want to support the development of a class consciousness of workers and riders that has the power to demand and fight for a transit system that meets their needs.
 
-Email us to join our next canvassign event and sign onto the demand at[ tinyurl.com/ridersbudget](< tinyurl.com/ridersbudget>)
+Email us to join our next canvassing event and sign onto the demand at[ www.tinyurl.com/ridersbudget](www.tinyurl.com/ridersbudget)
 
 ### **Hazard Pay Now**
 
@@ -72,8 +72,6 @@ Fare-free in short:
 **What we’re doing**
 
 At People's Transit Alliance, we're engaging in many activities to make fare-free a possibility at AC Transit. We are currently researching existing fare-free systems, possible funding sources, and new ways to imagine safety onboard. We are also engaging with transit workers to understand how a fare-free system might impact them and researching solutions to any adverse effects. 
-
-
 
 ### **Past Campaigns and Actions**
 
