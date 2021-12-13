@@ -51,6 +51,10 @@ As transit in our region begins to expand back to pre-pandemic levels, we must c
 
 The People’s Transit Alliance stands in solidarity with transit workers demanding retroactive hazard pay. We have been supporting local chapters of the Amalgamated Transit Union, Local 192 and 265 by capturing the stories of individual workers and raising awareness of this campaign. By listening to their demands, discussing and assisting with the development of targeted strategies including the organization of rallies, we hope to win this campaign and get hazard pay for transit workers around the Bay.
 
+{{< youtube id="50pP4xij5VE">}}
+
+{{< youtube id="clQwrOJT1aU">}}
+
 ### **Fare-Free**
 
 Fare-free transit is a system which does not require passengers to pay a fare to ride. A fully implemented fare-free transit system would abolish fare for all users at all times. Some cities have carried out partial fare-free transit systems, waiving fees for certain users such as seniors, students or low-income riders. There are both national and international examples of fully fare-free systems and the movement is building throughout many large US cities such as Los Angeles and Boston.
@@ -68,6 +72,8 @@ Fare-free in short:
 **What we’re doing**
 
 At People's Transit Alliance, we're engaging in many activities to make fare-free a possibility at AC Transit. We are currently researching existing fare-free systems, possible funding sources, and new ways to imagine safety onboard. We are also engaging with transit workers to understand how a fare-free system might impact them and researching solutions to any adverse effects. 
+
+
 
 ### **Past Campaigns and Actions**
 
