@@ -31,7 +31,9 @@ This is why riders and transit workers demand that:
 
 **What we’re doing**
 
-At the People’s Transit Alliance, we are organizing regular canvassing events where we are talking to riders about these priorities and listening to their experiences both before and during the pandemic. We are developing various ways that riders can mobilize and demand a transit system that truly serves riders and workers. We ultimately want to support the development of a class consciousness of riders that has the power to demand and fight for a transit system that meets their needs.
+At the People’s Transit Alliance, we are organizing regular canvassing events where we are talking to riders about these priorities and listening to their experiences both before and during the pandemic. We ultimately want to support the development of a class consciousness of workers and riders that has the power to demand and fight for a transit system that meets their needs.
+
+Email us to join our next canvassign event and sign onto the demand at[ tinyurl.com/ridersbudget](< tinyurl.com/ridersbudget>)
 
 ### **Hazard Pay Now**
 
