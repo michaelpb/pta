@@ -36,6 +36,8 @@ With that being said, you don’t need any particular skills or even more than a
 
 ### **Actions**
 
-![](/images/uploads/dec-4th-event-flyer-v2.png)
+Our next canvassign event is on December 18th! New organizers always welcome. More info and RSVP at [www.tinyurl.com/ridercanvass](www.tinyurl.com/ridercanvass)
+
+![](/images/uploads/1w8a2912.jpg)
 
 <!--EndFragment-->
