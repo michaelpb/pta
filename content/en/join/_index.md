@@ -24,29 +24,20 @@ If you take the time to email us, let us know what mode of transportation you us
 
 PTA is entirely volunteer-run. This means we need you, a volunteer, to join! In particular, we are in need of these roles:
 
-* **Writers** - We publish a quarterly bulletin and it's a great format for someone who loves writing and having a consistent volunteer rhythm and expectation. We also need writers for writing press releases, media advisories, and occasional articles on transit topics from a socialist lens. For online and print distribution.
+* **Canvassers** - Related to the Riders Budget campaign, you can participate by talking to riders about this demand.
+* **Communications** - We publish articles, design graphics, maintain a Twitter feed, and make memes.
 * **Watchdogging** - We attend AC Transit meeting every other Wednesday evening and give public comment on important agenda items. Our would would always benefit from having more voices at these meetings! The Tuesday before a meeting we review the agenda together, discuss the issues and have a lively chat during the meetings themselves. We also occasionally attend MTC (Metropolitan Transit Commission) meetings and give public comment.
 * **Librarian/archivist/informationalist** - As we develop and execute campaigns we develop a lot of useful tools and information that needs to be archived in ways that are legible and accessible to existing and new members and eventually become frameworks for other organizers. 
 * **Members coordinator** - Someone who keeps an eye out for our existing members and supports new members. This could include doing  1:1s with interested new members, check-ins with existing members, coordinating socials, and sharing PTA updates.
-* **Fare-free researchers and proposal writers** - We’re currently researching and drafting a ballot measure to have free fares, more service and reimagined public safety at AC Transit. We are particularly on the look out for comrades with legal backgrounds.
-* **Reimagining Public Safety** - Inspired by ACT-LA's publication [Metro as Sanctuary](http://allianceforcommunitytransit.org/metro-as-a-sanctuary/), we are researching alternatives to policing that provide safer transit experiences for workers and riders.
-* **Social Media** - Always appreciate having more comrades feeding into our Twitter feed.
-* **Meme Lord** - Everyone loves memes!
+* Fare-free researchers and proposal writers - This campaign is currently on pause, but we welcome anyone interested in seeing AC Transit go fare-free.
+* Reimagining Public Safety - This campaign is also currently on pause, but was inspired by ACT-LA's publication [Metro as Sanctuary](http://allianceforcommunitytransit.org/metro-as-a-sanctuary/) and we were researching alternatives to policing that provide safer transit experiences for workers and riders. Again, we would still love to hear from anyone interested in this campaign!
 
 With that being said, you don’t need any particular skills or even more than a few hours to be a huge help to our movement. Power flows from the people, so get involved! We strive to actively mentor. Email us at [pta@eastbaydsa.org](mailto:pta@eastbaydsa.org) if you are interested.
 
-### **Past Events**
+### **Actions**
 
-**Red Square: Transit for the People**
+Our next canvassing event is on December 18th! New organizers always welcome. More info and RSVP at [www.tinyurl.com/ridercanvass](www.tinyurl.com/ridercanvass)
 
-**July 13, 2021**
-
-Be it via car, bus, train, or bike, everyone uses some form of transportation as a daily part of their lives. But how does this connect to socialism, class struggle, and racial justice?\
-\
-The People’s Transit Alliance and the Political Education Committee of the East Bay DSA hosted this Night School to discuss how public transportation is an important site for socialist organizing. From public transit’s role as a unionized labor sector to its crucial position as a tool in the fight for ecosocialism and collective struggle, it’s clear that the stakes of how we move around where we live are high.\
-\
-We reflected on transportation’s role in capitalism and how it might be transformed, important moments in socialist history that engage transit, and a few possible angles for organizing class struggle and winning a transit system that exists for and through the working class.
-
-You can watch a recording of the first part of the Night School here: <https://www.youtube.com/watch?v=Rc3lEqwHIug>
+![](/images/uploads/1w8a2912.jpg)
 
 <!--EndFragment-->

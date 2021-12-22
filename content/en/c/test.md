@@ -92,9 +92,6 @@ bodyAfterGallery: >
 Lorem markdownum ab Alpheias: tremore, et Subaris succeditis Indigetes remansit!
 Terret equi fallitis *currusque aequora*.
 
-Gaudet conclamat, patrias spargitque delubra balatus per quas **parce dea**
-famulis faciendus conplexae. Aure *amat feras fidem*. Decus modo tanti lapis sit
-loquor Ulixes, mille nitar, virides. Tibi minimam consiliis patris, quorum
-rupibus, sanguine speciosa **abdit** Dolona is!
+{{< youtube id="w7Ft2ymGmfc" title="A New Hugo Site in Under Two Minutes" >}}
 
 # AND NOW FOR A GALLERY....

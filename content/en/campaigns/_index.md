@@ -10,47 +10,50 @@ menu:
 
 ### **Overview**
 
-We are currently running an active campaign around transit recovery and are in the research and development phases of two other campaigns:
+We are currently running two active campaigns and are in the research and development stages of a third campaign:
 
-* **Active - Transit Recovery - We demand that public transit service is restored to pre-pandemic levels**
+* **Active - Rider’s Budget - We’re demanding that AC Transit spends the American Rescue Plan (ARP) funds on priorities that benefit riders and workers**
+* **Active - Hazard Pay - We support Bay Area transit workers in their demand for hazard pay**
 * R&D - Fare-Free Transit - We demand that no person has to pay fares to access public transit
-* R&D - Zero-Emission Buses - We demand that AC Transit workers are given adequate resources and support as the agency transition to zero-emission buses 
 
-### **Transit Recovery**
+### **A Rider's Budget**
 
-When the pandemic began in the Spring of 2020 AC Transit drastically reduced service. Fewer busses means more riders are getting passed up and finding alternative methods to access our East Bay cities. Inadequate service levels means that AC Transit riders cannot depend on public transportation to make it to work, medical appointments or school. Without an ability to get around, much of our community remains trapped. 
+{{< youtube id="A0k0UQmN364">}}
 
-The very future of public transportation itself is at risk if service is not restored as soon as possible. Service before the pandemic was already infrequent, unreliable and considered a last resort by many. When agencies cut service, it further accentuates these problems. Restoring service to pre-pandemic levels is the first step in building a worker and rider centered transit system for all. Simply put, this means we need more service and more busses on the streets. 
+The COVID pandemic brought our public bus system to the brink of collapse. Many routes and service hours that were cut still have not been restored. Ridership has dwindled due to infrequent service and high fares. Exacerbating the issue, AC Transit’s hiring freeze over the pandemic has resulted in a transit worker shortage requiring rapid hiring and training in order to even have enough drivers to bring bus service back to pre-pandemic levels. 
 
-AC Transit has indicated that it will not restore service until September 2022 even though the population is expected to be vaccinated and return to work and school much sooner. At PTA, we are actively building a coalition with labor, riders, and elected champions of service restoration to push AC Transit to drastically reduce this timeline. We stand in solidarity with workers of other agencies in our collective demand to bring our busses back. 
+Fortunately, over $110 million in federal rescue funds is on the way to AC Transit– the transit agency has already received $66 million, and will receive another $44 million this fiscal year. This money is intended to restore public transit and yet AC Transit is not taking the rapid action required to spend these funds in order to get transit back up and running. AC Transit has instead been implying that they may keep the money in the bank for future budget shortfalls.
 
-### **Hey MTC! Rally**
+This is why riders and transit workers demand that:
 
-On May 6th 2021, as part of our transit recovery campaign, we co-organized a rally with over two dozen community and labor organizations representing transit workers and riders to demand that the Metropolitan Transportation Commission (MTC) allocate the $1.7B in Bay Area transit recovery funds from the American Rescue Plan Act. 
+* AC Transit spend the first $66 million now to hire and train transit workers, restore service including paratransit, reduce fares and provide [hazard pay to the frontline transit workers](https://eastbaymajority.com/ac-transit-jovanka-beckles-covid-hazard-pay-bus-drivers/) who kept AC Transit moving throughout the pandemic. 
+* AC Transit make a plan for the next $44 million now, in public meetings that give transit workers and riders a democratic say in how and when those tens of millions of dollars are spent.
 
-These ARP funds are a life-line for Bay Area transit to recover from the COVID-19 pandemic, but transit agencies can only spend this stimulus money if MTC allocates it. Without increased spending, agencies will continue to offer insufficient service to meet demand. The ARP funds are one of the most important tools to prevent this from happening.
+**What we’re doing**
 
-“Public transit all over the Bay Area has been hit hard by the COVID-19 pandemic. Revenue shortfalls, social distancing safety requirements, and reduced demand have led to fewer buses running on the streets,” said Nathan Swedlow, member of the People’s Transit Alliance. “Demand is beginning to return to pre-pandemic levels as counties reopen. Service levels around the region haven’t increased to accommodate the need, and overcrowded buses are regularly passing up riders, leaving them waiting on the street.” 
+At the People’s Transit Alliance, we are organizing regular canvassing events where we are talking to riders about these priorities and listening to their experiences both before and during the pandemic. We ultimately want to support the development of a class consciousness of workers and riders that has the power to demand and fight for a transit system that meets their needs.
 
-Link to video[ here](https://www.youtube.com/watch?app=desktop&v=5rPv9oagqGg&ab_channel=PeoplesTransitAlliance).
+Email us to join our next canvassing event and sign onto the demand at[ www.tinyurl.com/ridersbudget](www.tinyurl.com/ridersbudget)
 
-{{< figure src="/images/uploads/copy-of-6e1a0263.jpg" >}}
+### **Hazard Pay Now**
 
-{{< figure src="/images/uploads/copy-of-6e1a0431.jpg" >}}
+{{< youtube id="Dws4etsXWkY">}}
 
-{{< figure src="/images/uploads/copy-of-6e1a0459.jpg" >}}
+Transit workers cannot work from home. Since the first outbreak of COVID-19 in March 2020, front-line workers for transit agencies in the Bay Area have risked their health and safety to keep our cities moving. They have worked under constant fear of getting sick, and many have had to severely limit - or completely eliminate - time spent with children, grandchildren, family members and friends due to the risk of spreading COVID-19. In addition, front-line transit workers, like all essential workforces in the Bay Area, are disproportionately POC, and are therefore already more vulnerable to getting sick and dying from the virus. While Black workers make up only 6% of the Bay Area’s essential workers, they make up [23% of all transit workers in the region](https://sff.org/bay-areas-essential-workers-are-disproportionately-people-of-color-women-and-immigrants-new-study-finds/).  
 
-{{< figure src="/images/uploads/copy-of-6e1a0481.jpg" >}}
+**Why Transit Workers Deserve Hazard Pay**
 
-{{< figure src="/images/uploads/copy-of-6e1a0473.jpg" >}}
+Transit workers are often referred to as front-line essential workers, who provide a critical service for our cities and metropolitan regions. During the pandemic, this was even more evident, as the continuity of transit service was necessary to meet the needs of riders who used transit services to access health services, work sites, grocery stores and other essential places throughout the pandemic.
 
-{{< figure src="/images/uploads/copy-of-6e1a0496.jpg" >}}
+As transit in our region begins to expand back to pre-pandemic levels, we must center the roles of front-line transit staff. Providing hazard pay is a necessary action to compensate transit workers for the physical and emotional trauma of working during the pandemic. Despite the praise that transit workers have received, there has yet to be any material benefit for their sacrifices during COVID-19 for these workforces among any of the major Bay Area transit agencies.  This is why transit workers around the Bay Area are making their voices heard and demanding that they receive retroactive hazard pay from their employers. 
 
-{{< figure src="/images/uploads/copy-of-6e1a0466.jpg" >}}
+**What we’re doing**
 
-{{< figure src="/images/uploads/copy-of-6e1a0605.jpg">}}
+The People’s Transit Alliance stands in solidarity with transit workers demanding retroactive hazard pay. We have been supporting local chapters of the Amalgamated Transit Union, Local 192 and 265 by capturing the stories of individual workers and raising awareness of this campaign. By listening to their demands, discussing and assisting with the development of targeted strategies including the organization of rallies, we hope to win this campaign and get hazard pay for transit workers around the Bay.
 
-{{< figure src="/images/uploads/copy-of-6e1a0123.jpg">}}
+{{< youtube id="50pP4xij5VE">}}
+
+{{< youtube id="clQwrOJT1aU">}}
 
 ### **Fare-Free**
 
@@ -66,12 +69,18 @@ Fare-free in short:
 * Increases ridership and decreases street congestion, accidents and pollution
 * Leads to service expansion that in turn leads a more frequent and reliable system as well good union jobs
 
-At PTA, we are engaging in many activities to make fare-free a possibility at AC Transit. We are currently researching existing fare-free systems, possible funding sources, and new ways to imagine safety onboard. We are also engaging with transit workers to understand how a fare-free system might impact them and researching solutions to any adverse effects. 
+**What we’re doing**
 
-### **Zero-Emission Buses**
+At People's Transit Alliance, we're engaging in many activities to make fare-free a possibility at AC Transit. We are currently researching existing fare-free systems, possible funding sources, and new ways to imagine safety onboard. We are also engaging with transit workers to understand how a fare-free system might impact them and researching solutions to any adverse effects. 
 
-AC Transit has been a leader in the transition to zero-emission busses by currently having 23 hydrogen powered busses and 7 battery electric busses of its 635 fleet, with plans to replace all diesel busses by 2040. The transition to zero-emission busses by 2040 would positively impact the health of California residents, avoiding tens of thousands of asthma attacks, among other medical issues caused by pollution. Heavy duty busses and trucks make up only 7% of California’s roads, but contribute about 20% of carbon emissions within the state.  
+### **Past Campaigns and Actions**
 
-AT PTA, we want to ensure that AC Transit stays on track to complete the given timeline and provides workers with safe working conditions and resources in this process. ATU 192 workers deserve adequate training, access to safety gear and safe working conditions. We stand by ATU 192 workers in these demands and are currently working on an article that addresses these demands in detail.
+In March 2021, the Bay Area received $1.7 billion in American Rescue Plan funds in order to support transit agencies in recovering from the impacts of the pandemic. The Bay Area Metropolitan Transportation Commission (MTC) delayed the distribution of this lifeline for months, implying they might save these funds for an unknown "rainy" day, failing to see the dire state transit agencies have been in and how that "rainy" day is now. We began pressuring the commission through a variety of tactics including watchdogging meetings, running a communications campaign and mobilizing a coalition of transit advocates.
+
+This [](https://eastbaymajority.com/bay-area-transit-stimulus-bailout-arp-mtc-ac-transit/)[article](https://eastbaymajority.com/bay-area-transit-stimulus-bailout-arp-mtc-ac-transit/) we wrote shares more context on MTC's delay and it's implications.
+
+Our efforts culminated in a rally on May 6th, you can the documentation of it [here](https://peoplestransit.org/c/hey-mtc-rally/).
+
+[![](/images/uploads/copy-of-6e1a0459.jpg)](https://peoplestransit.org/c/hey-mtc-rally/)
 
 <!--EndFragment-->
