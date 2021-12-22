@@ -52,6 +52,7 @@ collections: # A list of collections the CMS should be able to edit
         - {label: "Image Description", name: "alt", widget: "string", required: true, hint: "Specify 'alt-attribute' description, to be used by screen-readers."}
         - {label: "Caption", name: "caption", widget: "string", required: false}
         - {label: "URL Link", name: "url", widget: "string", required: false}
+      - {label: "Body (After Gallery)", name: "bodyAfterGallery", widget: "markdown", required: false}
 
   - name: "pages"
     label: "Pages"

@@ -134,4 +134,21 @@
       </div>
     {{ end }}
   {{ end }}
+
+
+    {{ if .Params.bodyAfterGallery }}
+        {{/* MPB: For "/c/" Content Pages, to allow "after gallery" content */}}
+
+        {{ with .Params.bodyAfterGallery }}
+            {{/* (MPB: Duplicate HTML from above) -----v */}}
+            <article class="flex-l flex-wrap justify-between mw8 center ph3">
+                <div class="nested-copy-line-height lh-copy {{ $.Param "post_content_classes"  | default "serif"}} f4 nested-links nested-img mid-gray pr4-l w-two-thirds-l">
+                    {{ . | markdownify }}
+                </div>
+            </article>
+        {{ end }}
+    {{ end }}
+
 {{ end }}
+
+
