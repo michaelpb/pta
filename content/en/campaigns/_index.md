@@ -20,8 +20,6 @@ We are currently running two active campaigns and are in the research and develo
 
 {{< youtube id="A0k0UQmN364">}}
 
-
-
 The COVID pandemic brought our public bus system to the brink of collapse. Many routes and service hours that were cut still have not been restored. Ridership has dwindled due to infrequent service and high fares. Exacerbating the issue, AC Transit’s hiring freeze over the pandemic has resulted in a transit worker shortage requiring rapid hiring and training in order to even have enough drivers to bring bus service back to pre-pandemic levels. 
 
 Fortunately, over $110 million in federal rescue funds is on the way to AC Transit– the transit agency has already received $66 million, and will receive another $44 million this fiscal year. This money is intended to restore public transit and yet AC Transit is not taking the rapid action required to spend these funds in order to get transit back up and running. AC Transit has instead been implying that they may keep the money in the bank for future budget shortfalls.
@@ -36,6 +34,8 @@ This is why riders and transit workers demand that:
 At the People’s Transit Alliance, we are organizing regular canvassing events where we are talking to riders about these priorities and listening to their experiences both before and during the pandemic. We ultimately want to support the development of a class consciousness of workers and riders that has the power to demand and fight for a transit system that meets their needs.
 
 Email us to join our next canvassing event and sign onto the demand at[ www.tinyurl.com/ridersbudget](www.tinyurl.com/ridersbudget)
+
+
 
 ### **Hazard Pay Now**
 
