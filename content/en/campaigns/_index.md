@@ -43,13 +43,15 @@ Transit workers cannot work from home. Since the first outbreak of COVID-19 in M
 
 **Why Transit Workers Deserve Hazard Pay**
 
-Transit workers are often referred to as front-line essential workers, who provide a critical service for our cities and metropolitan regions. During the pandemic, this was even more evident, as the continuity of transit service was necessary to meet the needs of riders who used transit services to access health services, work sites, grocery stores and other essential places throughout the pandemic.
+Transit workers are often referred to as front-line essential workers, who provide a critical service for our cities and metropolitan regions. During the pandemic, this was even more evident, as the continuity of transit service was necessary to meet the needs of riders who used transit services to access health services, work sites, grocery stores and other essential places.
 
-As transit in our region begins to expand back to pre-pandemic levels, we must center the roles of front-line transit staff. Providing hazard pay is a necessary action to compensate transit workers for the physical and emotional trauma of working during the pandemic. Despite the praise that transit workers have received, there has yet to be any material benefit for their sacrifices during COVID-19 for these workforces among any of the major Bay Area transit agencies.  This is why transit workers around the Bay Area are making their voices heard and demanding that they receive retroactive hazard pay from their employers. 
+As transit in our region begins to expand back to pre-pandemic levels, we must center the roles of front-line transit staff. Providing hazard pay is a necessary action to compensate transit workers for the physical and emotional trauma of working during the pandemic. Despite the praise that transit workers from all major Bay Area transit agencies have received, [only San Jose’s VTA has awarded them any kind of material benefit](https://www.mercurynews.com/2022/01/07/after-disastrous-year-vta-employees-to-receive-raises-and-3500-bonus-despite-looming-deficit/) for sacrifices made during COVID-19.  This is why transit workers around the Bay Area are making their voices heard and demanding that they receive retroactive hazard pay from their employers. 
 
 **What we’re doing**
 
 The People’s Transit Alliance stands in solidarity with transit workers demanding retroactive hazard pay. We have been supporting local chapters of the Amalgamated Transit Union, Local 192 and 265 by capturing the stories of individual workers and raising awareness of this campaign. By listening to their demands, discussing and assisting with the development of targeted strategies including the organization of rallies, we hope to win this campaign and get hazard pay for transit workers around the Bay.
+
+Some promising results so far are ATU 265’s recent contract agreement which includes a $3,500 “appreciation bonus” and 10% raise over 3 years. This comes in the wake of a [union-led, PTA-supported hazard pay rally on October 22nd, 2021](https://sanfrancisco.cbslocal.com/video/6134192-transit-workers-protest-in-san-jose-for-hazard-pay/).
 
 {{< youtube id="50pP4xij5VE">}}
 
