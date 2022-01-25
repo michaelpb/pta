@@ -57,24 +57,6 @@ Some promising results so far are ATU 265’s recent contract agreement which in
 
 {{< youtube id="clQwrOJT1aU">}}
 
-### **Fare-Free**
-
-Fare-free transit is a system which does not require passengers to pay a fare to ride. A fully implemented fare-free transit system would abolish fare for all users at all times. Some cities have carried out partial fare-free transit systems, waiving fees for certain users such as seniors, students or low-income riders. There are both national and international examples of fully fare-free systems and the movement is building throughout many large US cities such as Los Angeles and Boston.
-
-A fare-free transit system would encourage community members to use public transportation more often, increasing livability metrics. Growth of ridership could mean a decrease in street congestion, a problem that has been plaguing the Bay Area for years. Fare-free would also be instrumental in helping low-income communities as 65% of AC Transit’s riders come from households earning less than $50,000 a year. By removing fees from our transit system, we can ensure that everyone has the ability to access their needs efficiently.
-
-Fare-free in short:
-
-* Places transit in the same category of public services as schools, libraries, community parks, firefighting and police services
-* Increases city vibrancy and livability
-* Democratizes the service, making it equally available to everyone regardless of income, to use as often as they like
-* Increases ridership and decreases street congestion, accidents and pollution
-* Leads to service expansion that in turn leads a more frequent and reliable system as well good union jobs
-
-**What we’re doing**
-
-At People's Transit Alliance, we're engaging in many activities to make fare-free a possibility at AC Transit. We are currently researching existing fare-free systems, possible funding sources, and new ways to imagine safety onboard. We are also engaging with transit workers to understand how a fare-free system might impact them and researching solutions to any adverse effects. 
-
 ### **Past Campaigns and Actions**
 
 In March 2021, the Bay Area received $1.7 billion in American Rescue Plan funds in order to support transit agencies in recovering from the impacts of the pandemic. The Bay Area Metropolitan Transportation Commission (MTC) delayed the distribution of this lifeline for months, implying they might save these funds for an unknown "rainy" day, failing to see the dire state transit agencies have been in and how that "rainy" day is now. We began pressuring the commission through a variety of tactics including watchdogging meetings, running a communications campaign and mobilizing a coalition of transit advocates.
