@@ -33,11 +33,15 @@ This is why riders and transit workers demand that:
 
 At the People’s Transit Alliance, we are organizing regular canvassing events where we are talking to riders about these priorities and listening to their experiences both before and during the pandemic. We ultimately want to support the development of a class consciousness of workers and riders that has the power to demand and fight for a transit system that meets their needs.
 
-Email us to join our next canvassing event and sign onto the demand at[ www.tinyurl.com/ridersbudget](www.tinyurl.com/ridersbudget)
+Email us to join our next canvassing event and sign onto the demand at[ tinyurl.com/ridersbudget](https://tinyurl.com/ridersbudget)
+
+
 
 ### **Hazard Pay Now**
 
 {{< youtube id="Dws4etsXWkY">}}
+
+
 
 Transit workers cannot work from home. Since the first outbreak of COVID-19 in March 2020, front-line workers for transit agencies in the Bay Area have risked their health and safety to keep our cities moving. They have worked under constant fear of getting sick, and many have had to severely limit - or completely eliminate - time spent with children, grandchildren, family members and friends due to the risk of spreading COVID-19. In addition, front-line transit workers, like all essential workforces in the Bay Area, are disproportionately POC, and are therefore already more vulnerable to getting sick and dying from the virus. While Black workers make up only 6% of the Bay Area’s essential workers, they make up [23% of all transit workers in the region](https://sff.org/bay-areas-essential-workers-are-disproportionately-people-of-color-women-and-immigrants-new-study-finds/).  
 
@@ -53,7 +57,11 @@ The People’s Transit Alliance stands in solidarity with transit workers demand
 
 Some promising results so far are ATU 265’s recent contract agreement which includes a $3,500 “appreciation bonus” and 10% raise over 3 years. This comes in the wake of a [union-led, PTA-supported hazard pay rally on October 22nd, 2021](https://sanfrancisco.cbslocal.com/video/6134192-transit-workers-protest-in-san-jose-for-hazard-pay/).
 
+
+
 {{< youtube id="50pP4xij5VE">}}
+
+
 
 {{< youtube id="clQwrOJT1aU">}}
 
