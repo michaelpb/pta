@@ -221,6 +221,13 @@ body {
     margin-right: 20px;
 }
 
+/* Hide navbar image on small screens */
+@media (max-width: 430px) {
+    .pta-navbar_logo > img {
+        display: none;
+    }
+}
+
 
 .pta-platform img {
     height: 200px;
