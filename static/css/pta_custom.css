@@ -314,6 +314,12 @@ body {
     max-width: 500px;
 }
 
+@media (max-width: 992px) {
+    .pta-jumbotron_pullquote {
+        text-align: center;
+    }
+}
+
 .pta-bulletin-sidebar {
     padding: 40px;
     margin-top: 30px;
