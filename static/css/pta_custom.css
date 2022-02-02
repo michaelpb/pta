@@ -135,7 +135,7 @@ body {
 .pta-navbar_link {
     font-family: var(--logo-font);
     text-transform: uppercase;
-    font-size: 1.8rem;
+    font-size: 1.4rem;
     padding: 10px;
     font-weight: 800;
     color: white !important;
@@ -205,10 +205,12 @@ body {
 
 
 .pta-navbar_logo {
+    display: flex;
+    align-items: center;
     font-family: var(--logo-font);
     text-transform: uppercase;
     color: white !important;
-    font-size: 2.1rem;
+    font-size: 1.6rem;
     font-weight: 600;
     min-width: 320px;
     text-align: left;
@@ -216,9 +218,8 @@ body {
 }
 
 .pta-navbar_logo > img {
-    height: 128px;
+    height: 88px;
     float: left;
-    margin-top: -10px;
     margin-right: 20px;
 }
 
@@ -424,9 +425,6 @@ body {
 
 @media screen and (min-width: 768px) {
     .pta-navbar_link { margin-left: 5px; }
-    .pta-navbar {
-        margin-left: -130px; /* quick fix for alignment */
-    }
 }
 @media screen and (min-width: 992px) {
     .pta-navbar_link { margin-left: 20px; }
@@ -454,7 +452,7 @@ body {
         margin-right: 10px;
     }
     .pta-navbar_link {
-        margin-top: 30px;
+        margin-top: 5px;
     }
     .pta-header {
         padding-bottom: 10px;
