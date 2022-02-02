@@ -79,8 +79,6 @@ enableRobotsTXT = true
 #    name = "Join"
 #    url = "/join/"
 #    weight = 40
-#    [menu.main.params]
-#      asButton = true
 #
 
 

@@ -6,7 +6,6 @@ menu:
     title: Join
     weight: 40
     params:
-      as_button: true
 ---
 <!--StartFragment-->
 
