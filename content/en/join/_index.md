@@ -36,7 +36,7 @@ With that being said, you don’t need any particular skills or even more than a
 
 ### **Actions**
 
-Our next canvassing event is on December 18th! New organizers always welcome. More info and RSVP at [www.tinyurl.com/ridercanvass](www.tinyurl.com/ridercanvass)
+Our next canvassing event is on February 12th! New organizers always welcome. More info and RSVP at [tinyurl.com/ridercanvass](https://tinyurl.com/ridercanvass)
 
 ![](/images/uploads/1w8a2912.jpg)
 
