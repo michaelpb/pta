@@ -1,20 +1,10 @@
-{{/* FEATURED VIDEO - For the index */}}
-{{ $featured_video := .Params.jumbotron_video }}
-{{ $featured_video_safari := .Params.jumbotron_video_safari }}
-{{ if $featured_video }}
-    <video autoplay muted loop class="pta-videobg">
-        <source src="{{ $featured_video }}" type="video/webm">
-        {{ if $featured_video_safari }}
-            <source src="{{ $featured_video_safari }}" type="video/mp4">
-        {{ end }}
-    </video>
-{{ end }}
+<div class="pta-videobg"> images here </div>
 
 <div class="u--jumbotron-outer-wrapper">
     <div class="container">
         <div class="pta-jumbotron">
             <div class="row p-3">
-                {{ $featured_video := .Param "featured_video"}}
+                <!-- @elliotcobb - Add image slideshow here -->
                 <div class="col-lg-6">
                     <div class="pta-jumbotron_title">
                         <span class="pta-jumbotron_title__toptext">{{ .Params.jumbotron_copy_top }}</span> <br />
@@ -37,8 +27,3 @@
         </div>
     </div>
 </div>
-
-
-{{/* DEAD CODE, to absolutize the video URLs (no longer needed) */}}
-{{/*{{ $featured_video := (trim $featured_video "/") | absURL }} */}}
-{{/*{{ $featured_video_safari := (trim $featured_video_safari "/") | absURL }}*/}}

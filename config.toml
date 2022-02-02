@@ -37,7 +37,6 @@ enableRobotsTXT = true
   slack = ""
   stackoverflow = ""
   rss = ""
-  #featured_video = "/videos/jb_video_reenc.webm"
   recent_posts_number = 2
   custom_css = [
     "fonts/manifolddsa.css",
