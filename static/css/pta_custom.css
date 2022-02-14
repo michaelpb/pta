@@ -3,25 +3,25 @@
     /*--logo-font: "Teko", sans-serif;*/
     /*--header-font: "Teko", sans-serif;/
     /*--body-font: "Lora", serif;*/
-    --header-font: "Manifold DSA", sans-serif;
-    --body-font: "Manifold DSA", sans-serif;
-    --logo-font: "Manifold DSA", sans-serif;
+    --header-font: 'Manifold DSA', sans-serif;
+    --body-font: 'Manifold DSA', sans-serif;
+    --logo-font: 'Manifold DSA', sans-serif;
     --offwhite-bg: #f7f7f7;
     --container-width: 70rem;
 
     /* https://design.dsausa.org/national-identity/color-palette/ */
-    --ebdsa: #EC1F27;
-    --ebdsa-tint1: #F04C53;
-    --ebdsa-tint2: #F4797E;
-    --ebdsa-tint3: #FBD2D4;
-    --offblack: #231F20;
-    --gray1: #3B3838;
-    --gray2: #605C5C;
-    --gray3: #8C8989;
-    --gray4: #C1C0BF;
+    --ebdsa: #ec1f27;
+    --ebdsa-tint1: #f04c53;
+    --ebdsa-tint2: #f4797e;
+    --ebdsa-tint3: #fbd2d4;
+    --offblack: #231f20;
+    --gray1: #3b3838;
+    --gray2: #605c5c;
+    --gray3: #8c8989;
+    --gray4: #c1c0bf;
     --gray5: whiteSmoke;
 
-    --peach: #FCD4B7;
+    --peach: #fcd4b7;
 
     --purple: #492b7f;
 
@@ -29,12 +29,17 @@
 }
 
 body {
-  font-family: var(--body-font);
-  min-height: calc(100vh + 1px);
+    font-family: var(--body-font);
+    min-height: calc(100vh + 1px);
 }
 
-h1, h2, h3, h4, h5, h6 {
-  font-family: var(--header-font) !important;
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: var(--header-font) !important;
 }
 
 body {
