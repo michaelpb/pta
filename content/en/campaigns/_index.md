@@ -53,7 +53,11 @@ The People’s Transit Alliance stands in solidarity with transit workers demand
 
 Some promising results so far are ATU 265’s recent contract agreement which includes a $3,500 “appreciation bonus” and 10% raise over 3 years. This comes in the wake of a [union-led, PTA-supported hazard pay rally on October 22nd, 2021](https://sanfrancisco.cbslocal.com/video/6134192-transit-workers-protest-in-san-jose-for-hazard-pay/).
 
+Interview with Robert
+
 {{< youtube id="50pP4xij5VE">}}
+
+Interview with Jennifer
 
 {{< youtube id="clQwrOJT1aU">}}
 
