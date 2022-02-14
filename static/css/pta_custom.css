@@ -51,36 +51,8 @@ body {
 .pta-navbar {
     background: var(--ebdsa);
     color: white;
-    /*position: sticky !important;*/
     top: 0;
     z-index: 100;
-}
-
-/* @elliotcobb - maybe use this to style image slideshow */
-.pta-videobg {
-    position: absolute;
-    top: var(--desktop-navbar-height);
-    left: 0;
-    width: 1600px;
-    min-width: 100%;
-    /*min-height: 450px;*/
-    margin: auto 0;
-    z-index: -1;
-    overflow: hidden;
-    display: block;
-}
-
-
-.u--jumbotron-outer-wrapper {
-    background: rgba(255, 255, 255, 0.8);
-    min-height: 580px;
-    padding-top: 20px;
-}
-
-@media (min-width: 768px) {
-    .u--jumbotron-outer-wrapper {
-        padding-top: 100px;
-    }
 }
 
 /* Extremely messy float-based layout for headers / sections */
@@ -116,17 +88,10 @@ body {
         margin-top: 10px;
         border-radius: 5px;
         float: left;
-        /*box-shadow: 10px 10px 0 var(--gray3);*/
-        /*border: 2px solid var(--offblack);*/
-    }
-    .u--float-figures > figure:first-of-type {
-        /*clear: both;*/
     }
 }
 
-
 .pta-header {
-    /*background: rgba(0, 0, 0, 0.8);*/
     color: black;
     margin-bottom: -10px;
     padding-bottom: 50px;
@@ -227,82 +192,89 @@ body {
     z-index: 1;
 }
 
+.pta-jumbotron {
+    min-height: 580px;
+    position: relative;
+    width: 100%;
+}
+
+.pta-jumbotron_backgroundImg,
+.pta-jumbotron_whiteScreen,
+.pta-jumbotron_text {
+    bottom: 0;
+    left: 0;
+    position: absolute;
+    right: 0;
+    top: 0;
+}
+
+.pta-jumbotron_backgroundImg {
+    background-image: url('/images/jumbotron/posters.jpg');
+    background-position-x: center;
+    background-position-y: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    /* 0.5s should be the same as the ONE_HALF_SECOND timeout in jumbotron.js */
+    transition: opacity 0.5s linear;
+    z-index: 0;
+}
+
+.pta-jumbotron_whiteScreen {
+    background: rgba(255, 255, 255, 0.8);
+    z-index: 1;
+}
+
+.pta-jumbotron_text {
+    z-index: 2;
+}
+
+.pta-jumbotron_wrapper {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    opacity: 1;
+    padding: 60px 10px 20px 10px;
+}
+
 .pta-jumbotron_title {
-    font-size: 6.5rem;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
     line-height: 0.8;
     font-weight: 800;
     font-family: var(--header-font) !important;
-    text-align: center;
     background-color: var(--peach);
     border: 3px solid var(--ebdsa);
-    padding: 20px;
+    padding: 35px;
 }
 
-.pta-jumbotron_title__toptext {
+.pta-jumbotron_title__toptext,
+.pta-jumbotron_title__endtext {
     color: white;
-    /*text-shadow: 0 0 10px black;*/
+    font-size: 75px;
     -webkit-text-stroke: 3px var(--purple);
     -webkit-text-fill-color: white;
 }
 
 .pta-jumbotron_title__midtext {
-    color: var(--ebdsa);
-    border-top: 3px solid var(--ebdsa);
     border-bottom: 3px solid var(--ebdsa);
+    border-top: 3px solid var(--ebdsa);
+    color: var(--ebdsa);
     display: inline-block;
+    font-size: 25px;
     line-height: 1.1;
-    font-size: 0.3em;
-    position: relative; /* quick hack */
+    margin: 15px 0 10px 0;
     top: -20px;
 }
 
-@media (max-width: 992px) {
-    /* Fix alignment for smaller sizes */
-    .pta-jumbotron_title__midtext {
-        position: static;
-        font-size: 0.5em;
-    }
-}
-
-
-.pta-jumbotron_title__endtext {
-    color: white;
-    /*text-shadow: 0 0 10px black;*/
-    -webkit-text-stroke: 3px var(--purple);
-    -webkit-text-fill-color: white;
-}
-
-.pta-jumbotron_title {
-    /*
-    background: black;
-    color: white;
-    height: 230px;
-    width: 230px;
-    */
-    /*box-shadow: 40px 40px 0 10px rgba(0, 0, 0, 0.8);*/
-}
-
-/*
-.pta-jumbotron_title__endtext {
-    color: white;
-    color: var(--ebdsa);
-    margin: 0;
-    line-height: 0.3;
-    width: 80px;
-    display: inline-block;
-}
-*/
-
 .pta-jumbotron_pullquote {
-    text-align: left;
-    font-size: 1.8rem;
-    max-width: 500px;
-}
-
-@media (max-width: 992px) {
-    .pta-jumbotron_pullquote {
-        text-align: center;
-    }
+    color: var(--ebdsa);
+    font-size: 1.2rem;
+    margin: 20px 0;
+    max-width: 420px;
+    text-align: center;
 }
 
 .pta-bulletin-sidebar {
@@ -330,7 +302,6 @@ body {
 .pta-footer {
     background: var(--ebdsa);
 }
-
 
 .pta-navbar_inner,
 .pta-jumbotron_inner,
@@ -396,7 +367,7 @@ body {
 :hover > .pta-image-caption,
 :hover > .pta-image-caption:hover,
 .pta-image-caption ~ a:hover {
-    background: rgba(0, 0, 0, 1.0);
+    background: rgba(0, 0, 0, 1);
 }
 
 @media screen and (min-width: 768px) {
@@ -430,7 +401,6 @@ body {
 
     .pta-jumbotron_title {
         font-size: 2.5rem;
-        margin-right: 10px;
     }
     .pta-navbar_link {
         margin-top: 5px;

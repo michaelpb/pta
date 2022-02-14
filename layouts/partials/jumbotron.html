@@ -1,26 +1,38 @@
-<img alt="something - change later" class="pta-videobg" src="{{ .Params.jumbotron_background_img }}" />
-<div class="u--jumbotron-outer-wrapper">
-    <div class="container">
-        <div class="pta-jumbotron">
-            <div class="row p-3">
-                <div class="col-lg-6">
-                    <div class="pta-jumbotron_title">
-                        <span class="pta-jumbotron_title__toptext">{{ .Params.jumbotron_copy_top }}</span> <br />
-                        <span class="pta-jumbotron_title__midtext">{{ .Params.jumbotron_copy_middle }}</span> <br />
-                        <span class="pta-jumbotron_title__endtext">{{ .Params.jumbotron_copy_bottom }}</span>
-                    </div>
+<!-- Add js to cycle through background photos -->
+<script src="{{ .Params.jumbotron_js }}" type="text/javascript"></script>
+
+<div class="pta-jumbotron">
+    <div class="pta-jumbotron_backgroundImg"></div>
+    <div class="pta-jumbotron_whiteScreen"></div>
+    <div class="container pta-jumbotron_text">
+        <div class="pta-jumbotron_wrapper">
+            <div class="pta-jumbotron_title">
+                <span class="pta-jumbotron_title__toptext"
+                    >{{ .Params.jumbotron_copy_top }}</span
+                >
+                <br />
+                <span class="pta-jumbotron_title__midtext"
+                    >{{ .Params.jumbotron_copy_middle }}</span
+                >
+                <br />
+                <span class="pta-jumbotron_title__endtext"
+                    >{{ .Params.jumbotron_copy_bottom }}</span
+                >
+            </div>
+            <div
+                class="d-flex flex-column align-items-center justify-content-center"
+            >
+                <div class="pta-jumbotron_pullquote">
+                    {{ .Params.jumbotron_copy_pullquote | markdownify }}
                 </div>
 
-                <div class="col-lg-6">
-                    <div class="pta-jumbotron_pullquote">
-                        {{ .Params.jumbotron_copy_pullquote | markdownify }}
-                    </div>
-
-                    <!--<a href="/join/" class="no-underline f2 tc db w-100 pv3 bg-animate bg-dark-red hover-bg-red white br2">-->
-                    <a href="{{ .Params.jumbotron_cta_button_destination }}" class="pta-button pta-button__jumbo">
-                        {{ .Params.jumbotron_copy_cta_button }}
-                    </a>
-                </div>
+                <!--<a href="/join/" class="no-underline f2 tc db w-100 pv3 bg-animate bg-dark-red hover-bg-red white br2">-->
+                <a
+                    href="{{ .Params.jumbotron_cta_button_destination }}"
+                    class="pta-button"
+                >
+                    {{ .Params.jumbotron_copy_cta_button }}
+                </a>
             </div>
         </div>
     </div>
