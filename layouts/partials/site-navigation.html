@@ -12,16 +12,14 @@
         </a>
 
         <!-- MOBILE -->
-        <span class="d-inline d-sm-inline">
-            <button class="navbar-toggler me-auto  no-underline pta-navbar_logo ms-auto" type="button" data-bs-toggle="collapse" 
-                data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" 
-                aria-expanded="false" aria-label="Toggle navigation">
+        <span class="d-inline d-sm-inline d-md-none">
+            <a href="{{ .Site.Home.RelPermalink }}" class="ms-auto no-underline pta-navbar_logo">
                 {{ with .Site.Params.site_logo }}
                     <img src="{{ . }}" alt="{{ $.Site.Params.site_logo_alt }}" />
                 {{ else }}
                 {{ end }}
                 {{ .Site.Title }}
-            </button>
+            </a>
         </span>
 
         <button class="navbar-toggler me-auto" type="button" data-bs-toggle="collapse" 

@@ -135,47 +135,25 @@ body {
 .pta-navbar_link {
     font-family: var(--logo-font);
     text-transform: uppercase;
-    font-size: 1.4rem;
+    font-size: 1.2rem;
     padding: 10px;
-    font-weight: 800;
+    font-weight: 600;
     color: white !important;
 }
 
-
 .pta-button {
-    padding: 15px;
+    padding: 10px 15px;
     font-family: var(--logo-font);
-    font-weight: 700;
-    border: 1px solid var(--ebdsa);
-    border-radius: 1px;
+    font-weight: 600;
+    border-radius: 6px;
     text-decoration: none;
-    background-color: rgba(255, 255, 255, 0);
-    box-shadow: 6px 6px 0 0 white;
+    background-color: var(--purple);
     color: white;
-    transition: box-shadow 0.2s
-        ,color 0.3s
-        ,background-color 0.3s
-        ;
-}
-
-.pta-button.pta-navbar_link {
-    border-color: white;
-    letter-spacing: 3px;
-    font-weight: 400;
-}
-
-.pta-button__jumbo {
-    background-color: rgba(255, 255, 255, 1.0);
-    box-shadow: 6px 6px 0 0 var(--ebdsa);
-    border: 3px solid black;
-    color: black;
-    font-size: 1.4rem;
-    display: inline-block;
 }
 
 .pta-button__form {
     margin-top: -10px;
-    background: white;
+    background-color: white;
     color: black;
     text-transform: uppercase;
     font-weight: bold;
@@ -190,19 +168,18 @@ body {
 }
 
 .pta-button:hover {
-    box-shadow: 2px 2px 0 0 white;
-    color: var(--ebdsa) !important;
-    background-color: rgba(255, 255, 255, 1.0);
+    background-color: rgb(87, 58, 139);
+    color: white;
 }
 
-.pta-button__jumbo:hover {
-    box-shadow: 2px 2px 0 0 var(--ebdsa);
+.pta-button__form:hover {
+    background-color: ghostwhite;
+    color: black;
 }
 
 .pta-navbar_link__active {
     text-decoration: overline !important;
 }
-
 
 .pta-navbar_logo {
     display: flex;
@@ -224,12 +201,11 @@ body {
 }
 
 /* Hide navbar image on small screens */
-@media (max-width: 430px) {
+@media (max-width: 425px) {
     .pta-navbar_logo > img {
         display: none;
     }
 }
-
 
 .pta-platform img {
     height: 200px;
@@ -424,23 +400,28 @@ body {
 }
 
 @media screen and (min-width: 768px) {
-    .pta-navbar_link { margin-left: 5px; }
+    .pta-navbar_link {
+        margin-left: 5px;
+    }
 }
 @media screen and (min-width: 992px) {
-    .pta-navbar_link { margin-left: 20px; }
+    .pta-navbar_link {
+        margin-left: 20px;
+    }
 }
 @media screen and (min-width: 1200px) {
-    .pta-navbar_link { margin-left: 50px; }
+    .pta-navbar_link {
+        margin-left: 50px;
+    }
     .pta-card {
         --pta-card-margin: 15px;
         text-align: justify;
     }
 }
 
-
 @media screen and (max-width: 768px) {
     .pta-navbar_logo {
-        font-size: 1.5rem;
+        font-size: 1.3rem;
         min-width: 100px;
     }
     .pta-navbar_logo > img {
