@@ -44,6 +44,7 @@ enableRobotsTXT = true
     "css/bootstrap.min.css",
   ]
   custom_js = ["js/bootstrap.min.js"]
+  jumbotron_js = ["js/jumbotron.js"]
   google_fonts = [
     #["Bebas Neue"],
     #["Rubik", "200, 400, 800"],
