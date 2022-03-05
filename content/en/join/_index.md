@@ -35,7 +35,23 @@ With that being said, you don’t need any particular skills or even more than a
 
 ### **Actions**
 
-Our next canvassing event is on February 12th! New organizers always welcome. More info and RSVP at [tinyurl.com/ridercanvass](https://tinyurl.com/ridercanvass)
+### Labor organizing reading group
+
+We're hosting a reading group on chapters 1 and 2 of Jane McAlevey's [No Shortcuts: Organizing for Power in the New Gilded Age](https://www.goodreads.com/book/show/29639226-no-shortcuts). Jane McAlevey is a highly regarded organizer who has led hundreds of campaigns to success. *No Shortcuts* is considered a must read by many organizers. Are you wanting insight on foundational organizing strategies and skills? Check out this reading group!
+
+**When?**
+
+March 16th and April 13th from 6 - 7pm
+
+**Where do I sign up?**
+
+See our event description on [the East Bay DSA calendar](https://www.eastbaydsa.org/events/) for the zoom link and all the details.
+
+If you need a copy of the first two chapters, email pta@eastbaydsa.org and ask for a pdf.
+
+### Canvassing transit riders
+
+Look out for our next canvassing event in April! New organizers always welcome.
 
 ![](/images/uploads/1w8a2912.jpg)
 
