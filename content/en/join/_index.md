@@ -51,7 +51,7 @@ If you need a copy of the first two chapters, email pta@eastbaydsa.org and ask f
 
 ### Canvassing transit riders
 
-Look out for our next canvassing event in April! New organizers always welcome.
+Look out for more details on our next canvassing event in April or May! New organizers always welcome.
 
 ![](/images/uploads/1w8a2912.jpg)
 
