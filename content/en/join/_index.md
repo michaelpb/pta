@@ -11,7 +11,7 @@ menu:
 
 ### **Learn More**
 
-If you’re interested in keeping tabs on our work, sign up for our newsletter where it is listed on our home-page. We primarily email a monthly bulletin, you can find the archive on our website under Bulletin.
+If you’re interested in keeping tabs on our work or hearing about upcoming events, email pta@eastbaydsa.org or follow us on twitter [@peopletransit](https://twitter.com/PeopleTransit)
 
 ### **Share Thoughts**
 
