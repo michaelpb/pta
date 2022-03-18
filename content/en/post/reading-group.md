@@ -15,8 +15,6 @@ Does anyone want to share something that stood out to them? Want to elaborate on
 
 * Differences between organizing on the one hand, and mobilizing and advocacy, and how advocacy doesn’t empower the working class at all. Since McAlevey asserts in the book that only organizing taps into the power in numbers that lies with the workers.
 
-
-
 Is power the ability of one group to exert control over another? 
 
 * I don’t know that McAlevey has a comprehensive theory of power. Beverly Silver wrote a book *Forces of Labor* which has a lot of interesting analysis on power or labor and capital. Framework = labor can have structural power in the workplace, marketplace power by virtue of having skills needed by the employer, and associational power that they gain by being collective.
@@ -43,9 +41,9 @@ Is power the ability of one group to exert control over another? 
 * Mobilizing would try to build a more grassroots campaign, but would still end up begging the current power structure to help us, or perhaps vote in a new head to the current power structure.
 * Organizing, however, would gather ordinary workers, teachers, community members into a coalition that can demand changes and shift the balance of power towards the majority.
 
+
+
 ### Lets say we’re all rank and file workers: would a petition effort be mobilizing or organizing? 
-
-
 
 * A petition can be a vehicle for having a lot of organizing conversations with members, or it can just be a mobilizing tool. The main difference would be to what extent are you talking to people who aren’t already interested in the issue or fight. It’s only organizing if you’re convincing people who aren’t already convinced. It’s expanding your base.  
 * McAlevey described mobilizing as a tactic. She de-emphasized specific actions like rallies as the end goal, but rather a tool in the change process. Another question we have is: Did you experience a shift in understanding in some aspect of organizing? How might that change your own organizing?
