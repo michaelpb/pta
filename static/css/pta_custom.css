@@ -300,8 +300,43 @@ body {
     font-size: 1.8rem;
 }
 
-.pta-main {
-    /*background: var(--offwhite-bg);*/
+.pta-h4 {
+    color: var(--purple);
+    font-family: var(--header-font);
+    text-align: center;
+    font-weight: 800;
+}
+
+.pta-our_campaigns {
+    padding: 50px 0;
+}
+
+.pta-list {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-top: 20px;
+    padding: 10px;
+}
+
+.pta-list_item {
+    margin-bottom: 30px;
+    max-width: 400px;
+}
+
+.pta-list_title {
+    align-items: center;
+    display: flex;
+}
+
+.pta-list_bullet {
+    font-size: 50px;
+    margin-right: 20px;
+}
+
+.pta-twitter_embed {
+    background-color: white;
 }
 
 .pta-footer {
