@@ -1,6 +1,6 @@
 ---
-title: Reading group
-description: No Shortcuts - Jane McAlevey
+title: Reading group - No Shortcuts by Jane McAlevey
+description: Chapter 1
 date: 2022-03-18T17:38:01.464Z
 ---
 In part 1 of our political education session on *No Shortcuts*, we summarized chapter 1 and discussed what Jane McAlevey describes as the three avenues that make up activism: advocacy, mobilizing, and organizing. How can ordinary people fight for and win improvements in their workplaces and communities in the 21st century's "new guilded age"? McAlevey's response is both simple and radical; old but also new. Here's out notes on the discussion.
