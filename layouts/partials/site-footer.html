@@ -1,46 +1,41 @@
 <footer class="bottom-0 w-100 pa3 pta-footer" role="contentinfo">
-
     <div class="flex center pta-footer_inner">
-      {{ if .Site.Menus.main }}
+        {{ if .Site.Menus.main }}
         <ul class="mr3">
-            <li class="list f5 f4-ns fw4 dib pr3 white">
-                SITE MAP &mdash;
+            <li class="list f5 f4-ns fw4 dib pr3 white">SITE MAP &mdash;</li>
+            {{ $current := . }} {{ range .Site.Menus.main }} {{ $active := eq
+            .Title $current.Title }} {{ if gt (len .Name) 2 }}
+            <li class="list">
+                <a
+                    class="white no-underline"
+                    href="{{ .URL }}"
+                    title="{{ .Name }} page"
+                >
+                    {{ .Name }}
+                </a>
             </li>
-            {{ $current := . }}
-            {{ range .Site.Menus.main }}
-                {{ $active := eq .Title $current.Title }}
-                {{ if gt (len .Name) 2 }}
-                    <li class="list">
-                        <a class="white no-underline" href="{{ .URL }}" title="{{ .Name }} page">
-                        {{ .Name }}
-                        </a>
-                    </li>
-                {{ end }}
-          {{ end }}
+            {{ end }} {{ end }}
         </ul>
-      {{ end }}
+        {{ end }}
         <ul class="mr3">
-            <li class="list f5 f4-ns fw4 dib pr3 white">
-                FOLLOW US &mdash;
-            </li>
+            <li class="list f5 f4-ns fw4 dib pr3 white">FOLLOW US &mdash;</li>
             <li class="list f5 f4-ns fw4 white">
                 {{ partial "social-follow.html" . }}
             </li>
         </ul>
-
     </div>
 
     <div class="flex justify-between center pta-footer_inner">
-        <a class="f4 fw4 hover-white no-underline white-70 dn dib-ns pv2 ph3" href="{{ .Site.BaseURL }}" >
-            &copy; {{ with .Site.Copyright | default .Site.Title }} {{ . | safeHTML }} {{ now.Format "2006"}} {{ end }}
+        <a
+            class="f4 fw4 hover-white no-underline white-70 dn dib-ns pv2 ph3"
+            href="{{ .Site.BaseURL }}"
+        >
+            &copy; {{ with .Site.Copyright | default .Site.Title }} {{ . |
+            safeHTML }} {{ now.Format "2006"}} {{ end }}
         </a>
     </div>
-
-
-    <!-- Script tag for MailChimp -->
-    <script type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script><script type='text/javascript'>(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[1]='FNAME';ftypes[1]='text';fnames[2]='LNAME';ftypes[2]='text';fnames[3]='ADDRESS';ftypes[3]='address';fnames[4]='PHONE';ftypes[4]='phone';fnames[5]='BIRTHDAY';ftypes[5]='birthday';}(jQuery));var $mcj = jQuery.noConflict(true);</script>
 </footer>
 
 {{ range .Site.Params.custom_js }}
-  <script src="{{ relURL (.) }}"></script>
+<script src="{{ relURL (.) }}"></script>
 {{ end }}
