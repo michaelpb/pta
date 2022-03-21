@@ -336,6 +336,9 @@ body {
 }
 
 .pta-twitter_embed {
+    display: flex;
+    align-items: center;
+    justify-content: center;
     background-color: white;
 }
 
