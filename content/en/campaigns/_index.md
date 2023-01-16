@@ -10,11 +10,15 @@ menu:
 
 ### **Overview**
 
-We are currently running two active campaigns and are in the research and development stages of a third campaign:
+We are currently working on one active campaign
 
-* **Rider’s Budget - We’re demanding that AC Transit spends American Rescue Plan (ARP) funds on priorities that benefit riders and workers**
-* **Hazard Pay - We support Bay Area transit workers in their demand for hazard pay**
-* R&D - Fare-Free Transit - We demand that no person has to pay fares to access public transit
+* **Worker/Rider solidarity - organizing AC Transit operators and riders into a coalition that can demand a safe, reliable, efficient transit system that serves the working class.**
+
+M﻿ore details on Worker/Rider solidarity coming soon...
+
+### **Past Campaigns and Actions**
+
+
 
 ### **A Rider's Budget**
 
@@ -33,11 +37,11 @@ This is why riders and transit workers demand that:
 
 At the People’s Transit Alliance, we are organizing regular canvassing events where we are talking to riders about these priorities and listening to their experiences both before and during the pandemic. We ultimately want to support the development of a class consciousness of workers and riders that has the power to demand and fight for a transit system that meets their needs.
 
-Email us to join our next canvassing event and sign onto the demand at[ tinyurl.com/ridersbudget](https://tinyurl.com/ridersbudget)
-
 ### **Hazard Pay Now**
 
 {{< youtube id="Dws4etsXWkY">}}
+
+P﻿TA rallied with ATU operators to win thousands of dollars in back hazard pay for work done over the pandemic.
 
 Transit workers cannot work from home. Since the first outbreak of COVID-19 in March 2020, front-line workers for transit agencies in the Bay Area have risked their health and safety to keep our cities moving. They have worked under constant fear of getting sick, and many have had to severely limit - or completely eliminate - time spent with children, grandchildren, family members and friends due to the risk of spreading COVID-19. In addition, front-line transit workers, like all essential workforces in the Bay Area, are disproportionately POC, and are therefore already more vulnerable to getting sick and dying from the virus. While Black workers make up only 6% of the Bay Area’s essential workers, they make up [23% of all transit workers in the region](https://sff.org/bay-areas-essential-workers-are-disproportionately-people-of-color-women-and-immigrants-new-study-finds/).  
 
@@ -61,7 +65,9 @@ Interview with Jennifer
 
 {{< youtube id="clQwrOJT1aU">}}
 
-### **Past Campaigns and Actions**
+
+
+### **MTC: Release the Funds Rally**
 
 In March 2021, the Bay Area received $1.7 billion in American Rescue Plan funds in order to support transit agencies in recovering from the impacts of the pandemic. The Bay Area Metropolitan Transportation Commission (MTC) delayed the distribution of this lifeline for months, implying they might save these funds for an unknown "rainy" day, failing to see the dire state transit agencies have been in and how that "rainy" day is now. We began pressuring the commission through a variety of tactics including watchdogging meetings, running a communications campaign and mobilizing a coalition of transit advocates.
 
