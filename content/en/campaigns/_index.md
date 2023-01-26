@@ -10,15 +10,13 @@ menu:
 
 ### **Overview**
 
-We are currently working on one active campaign
+We are currently working on one active campaign:
 
 * **Worker/Rider solidarity - organizing AC Transit operators and riders into a coalition that can demand a safe, reliable, efficient transit system that serves the working class.**
 
 M﻿ore details on Worker/Rider solidarity coming soon...
 
 ### **Past Campaigns and Actions**
-
-
 
 ### **A Rider's Budget**
 
@@ -64,8 +62,6 @@ Interview with Robert
 Interview with Jennifer
 
 {{< youtube id="clQwrOJT1aU">}}
-
-
 
 ### **MTC: Release the Funds Rally**
 
