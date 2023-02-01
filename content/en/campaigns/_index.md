@@ -8,7 +8,7 @@ menu:
 ---
 <!--StartFragment-->
 
-## Overview
+### **Overview**
 
 We are currently working on one active campaign:
 
@@ -24,9 +24,9 @@ The crux of the worker/rider solidarity campaign is to unite these groups under 
 [Join us Saturday, Feb. 4th, 11am at the North Berkeley BART to canvass bus riders!](https://docs.google.com/forms/d/1HZUsUaw5n1QGWk8jkJAMGg07W09hsLRaOjXrFXo2jNM/viewform?ts=63a24dcf)
 
 
-## Past Campaigns and Actions
+### **Past Campaigns and Actions**
 
-
+Here's some projects we've worked on in the past:
 
 ### **A Rider's Budget**
 
