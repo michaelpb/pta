@@ -8,7 +8,7 @@ menu:
 ---
 <!--StartFragment-->
 
-### **Overview**
+## Overview
 
 We are currently working on one active campaign:
 
@@ -24,7 +24,7 @@ The crux of the worker/rider solidarity campaign is to unite these groups under 
 If our campaign is successful, we will have galvanized a coalition of fellow transit riders and workers to demand and win a better transit system.
 
 
-### **Past Campaigns and Actions**
+## Past Campaigns and Actions
 
 ### **A Rider's Budget**
 
