@@ -14,7 +14,15 @@ We are currently working on one active campaign:
 
 * **Worker/Rider solidarity - organizing AC Transit operators and riders into a coalition that can demand a safe, reliable, efficient transit system that serves the working class.**
 
-M﻿ore details on Worker/Rider solidarity coming soon...
+We are fighting to build a transit system that prioritizes the needs of working people. All over the East Bay, working people need AC Transit to get to jobs, school, church, the doctor, and more. But the bus is often too expensive,
+infrequent, or unsafe to get them there effectively.
+
+At the same time, AC Transit is struggling to keep transit workers coming back to work. Many operators sustain on the job injuries, or seek other careers after dealing with the stressors of unrealistic schedules or the everyday difficulties of operating a bus while also resolving onboard disputes and collecting fares.
+
+The crux of the worker/rider solidarity campaign is to unite these groups under a banner of shared demands that would benefit all. We're canvassing bus riders and organizing with bus operators to reveal what aspects of AC Transit are most difficult, and what changes most useful to work towards.
+
+If our campaign is successful, we will have galvanized a coalition of fellow transit riders and workers to demand and win a better transit system.
+
 
 ### **Past Campaigns and Actions**
 
