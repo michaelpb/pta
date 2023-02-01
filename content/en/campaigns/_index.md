@@ -19,9 +19,9 @@ infrequent, or unsafe to get them there effectively.
 
 At the same time, AC Transit is struggling to keep transit workers coming back to work. Many operators sustain on the job injuries, or seek other careers after dealing with the stressors of unrealistic schedules or the everyday difficulties of operating a bus while also resolving onboard disputes and collecting fares.
 
-The crux of the worker/rider solidarity campaign is to unite these groups under a banner of shared demands that would benefit all. We're canvassing bus riders and organizing with bus operators to reveal what aspects of AC Transit are most difficult, and what changes most useful to work towards.
+The crux of the worker/rider solidarity campaign is to unite these groups under a banner of shared demands that benefit all. We're canvassing bus riders and organizing with bus operators to reveal what aspects of AC Transit are most difficult, and what changes most useful to work towards.
 
-If our campaign is successful, we will have galvanized a coalition of fellow transit riders and workers to demand and win a better transit system.
+[Join us Saturday, Feb. 4th, 11am at the North Berkeley BART to canvass bus riders!](https://docs.google.com/forms/d/1HZUsUaw5n1QGWk8jkJAMGg07W09hsLRaOjXrFXo2jNM/viewform?ts=63a24dcf)
 
 
 ## Past Campaigns and Actions
