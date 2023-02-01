@@ -8,7 +8,7 @@ menu:
 ---
 <!--StartFragment-->
 
-### **Overview**
+### **Active Campaigns**
 
 We are currently working on one active campaign:
 
@@ -23,14 +23,11 @@ The crux of the worker/rider solidarity campaign is to unite these groups under 
 
 [Join us Saturday, Feb. 4th, 11am at the North Berkeley BART to canvass bus riders!](https://docs.google.com/forms/d/1HZUsUaw5n1QGWk8jkJAMGg07W09hsLRaOjXrFXo2jNM/viewform?ts=63a24dcf)
 
-### **Past Campaigns and Actions**
-
-Here's some projects we've worked on in the past:          
 
 
+### **Past Campaigns**
 
-
-### **A Rider's Budget**
+**A Rider's Budget**
 
 {{< youtube id="A0k0UQmN364">}}
 
@@ -43,11 +40,11 @@ This is why riders and transit workers demand that:
 * AC Transit spend the first $66 million now to hire and train transit workers, restore service including paratransit, reduce fares and provide [hazard pay to the frontline transit workers](https://eastbaymajority.com/ac-transit-jovanka-beckles-covid-hazard-pay-bus-drivers/) who kept AC Transit moving throughout the pandemic. 
 * AC Transit make a plan for the next $44 million now, in public meetings that give transit workers and riders a democratic say in how and when those tens of millions of dollars are spent.
 
-**What we’re doing**
+What we’re doing
 
 At the People’s Transit Alliance, we are organizing regular canvassing events where we are talking to riders about these priorities and listening to their experiences both before and during the pandemic. We ultimately want to support the development of a class consciousness of workers and riders that has the power to demand and fight for a transit system that meets their needs.
 
-### **Hazard Pay Now**
+**Hazard Pay Now**
 
 {{< youtube id="Dws4etsXWkY">}}
 
@@ -55,13 +52,13 @@ P﻿TA rallied with ATU operators to win thousands of dollars in back hazard pay
 
 Transit workers cannot work from home. Since the first outbreak of COVID-19 in March 2020, front-line workers for transit agencies in the Bay Area have risked their health and safety to keep our cities moving. They have worked under constant fear of getting sick, and many have had to severely limit - or completely eliminate - time spent with children, grandchildren, family members and friends due to the risk of spreading COVID-19. In addition, front-line transit workers, like all essential workforces in the Bay Area, are disproportionately POC, and are therefore already more vulnerable to getting sick and dying from the virus. While Black workers make up only 6% of the Bay Area’s essential workers, they make up [23% of all transit workers in the region](https://sff.org/bay-areas-essential-workers-are-disproportionately-people-of-color-women-and-immigrants-new-study-finds/).  
 
-**Why Transit Workers Deserve Hazard Pay**
+Why Transit Workers Deserve Hazard Pay
 
 Transit workers are often referred to as front-line essential workers, who provide a critical service for our cities and metropolitan regions. During the pandemic, this was even more evident, as the continuity of transit service was necessary to meet the needs of riders who used transit services to access health services, work sites, grocery stores and other essential places.
 
 As transit in our region begins to expand back to pre-pandemic levels, we must center the roles of front-line transit staff. Providing hazard pay is a necessary action to compensate transit workers for the physical and emotional trauma of working during the pandemic. Despite the praise that transit workers from all major Bay Area transit agencies have received, [only San Jose’s VTA has awarded them any kind of material benefit](https://www.mercurynews.com/2022/01/07/after-disastrous-year-vta-employees-to-receive-raises-and-3500-bonus-despite-looming-deficit/) for sacrifices made during COVID-19.  This is why transit workers around the Bay Area are making their voices heard and demanding that they receive retroactive hazard pay from their employers. 
 
-**What we’re doing**
+What we’re doing
 
 The People’s Transit Alliance stands in solidarity with transit workers demanding retroactive hazard pay. We have been supporting local chapters of the Amalgamated Transit Union, Local 192 and 265 by capturing the stories of individual workers and raising awareness of this campaign. By listening to their demands, discussing and assisting with the development of targeted strategies including the organization of rallies, we hope to win this campaign and get hazard pay for transit workers around the Bay.
 
@@ -75,7 +72,7 @@ Interview with Jennifer
 
 {{< youtube id="clQwrOJT1aU">}}
 
-### **MTC: Release the Funds Rally**
+**MTC: Release the Funds Rally**
 
 In March 2021, the Bay Area received $1.7 billion in American Rescue Plan funds in order to support transit agencies in recovering from the impacts of the pandemic. The Bay Area Metropolitan Transportation Commission (MTC) delayed the distribution of this lifeline for months, implying they might save these funds for an unknown "rainy" day, failing to see the dire state transit agencies have been in and how that "rainy" day is now. We began pressuring the commission through a variety of tactics including watchdogging meetings, running a communications campaign and mobilizing a coalition of transit advocates.
 
