@@ -1,7 +1,7 @@
 ---
 title: Learning From Rosa Parks on Transit Equity Day
 description: "By: The People’s Transit Alliance"
-date: 2023-02-21T01:52:55.047Z
+date: 2023-02-06T01:52:55.047Z
 ---
 5 minute read
 
