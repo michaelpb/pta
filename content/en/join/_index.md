@@ -35,23 +35,13 @@ With that being said, you don’t need any particular skills or even more than a
 
 ### **Actions**
 
-### Labor organizing reading group
+### Demanding a better AC Transit
 
-We're hosting a reading group on chapters 1 and 2 of Jane McAlevey's [No Shortcuts: Organizing for Power in the New Gilded Age](https://www.goodreads.com/book/show/29639226-no-shortcuts). Jane McAlevey is a highly regarded organizer who has led hundreds of campaigns to success. *No Shortcuts* is considered a must read by many organizers. Are you wanting insight on foundational organizing strategies and skills? Check out this reading group!
+AC Transit's lack of respect and support for its frontline workers has created a severe labor shortage, causing a crisis for workers and riders. Short staffing and other onerous working conditions have led many transit workers to take other jobs, while many others are out on injury or take early retirement. Without adequate staffing, AC Transit cannot restore the service that riders need.
 
-**When?**
+As transit workers and riders, we stand in solidarity to demand the working conditions and transit service we all deserve. We know that we are powerful when we stand together!
 
-March 16th and April 13th from 6 - 7pm
-
-**Where do I sign up?**
-
-See our event description on [the East Bay DSA calendar](https://www.eastbaydsa.org/events/) for the zoom link and all the details.
-
-If you need a copy of the first two chapters, email pta@eastbaydsa.org and ask for a pdf.
-
-### Canvassing transit riders
-
-Look out for more details on our next canvassing event in April or May! New organizers always welcome.
+[Sign the petition](http://tinyurl.com/TransitWorkerShortage)
 
 ![](/images/uploads/1w8a2912.jpg)
 
