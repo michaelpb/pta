@@ -35,7 +35,7 @@ With that being said, you don’t need any particular skills or even more than a
 
 ### **Actions**
 
-#### Demanding a better AC Transit
+**Demanding a better AC Transit**
 
 AC Transit's lack of respect and support for its frontline workers has created a severe labor shortage, causing a crisis for workers and riders. Short staffing and other onerous working conditions have led many transit workers to take other jobs, while many others are out on injury or take early retirement. Without adequate staffing, AC Transit cannot restore the service that riders need.
 
