@@ -10,20 +10,13 @@ menu:
 
 ### **Active Campaigns**
 
-We are currently working on one active campaign:
+* **End the transit worker shortage!**
 
-* **Worker/Rider solidarity - organizing AC Transit operators and riders to demand safe, reliable transit that serves the working class.**
+AC Transit's lack of respect and support for its frontline workers has created a severe labor shortage and a crisis for workers and riders. Short staffing and other onerous working conditions have led many transit workers to take other jobs, while many others are out on injury or take early retirement. Without adequate staffing, AC Transit cannot restore the service that riders need.
 
-We are fighting to build a transit system that prioritizes the needs of working people. All over the East Bay, working people need AC Transit to get to jobs, school, church, the doctor, and more. But the bus is often too expensive,
-infrequent, or unsafe to get them there effectively.
-
-At the same time, **AC Transit is struggling to keep transit workers coming back to work**. Many operators sustain on the job injuries, or seek other careers after dealing with the stressors of unrealistic schedules or the everyday difficulties of operating a bus while also resolving onboard disputes and collecting fares.
-
-The crux of the worker/rider solidarity campaign is to unite these groups under a banner of shared demands that benefit all. We're canvassing bus riders and organizing with bus operators to reveal what aspects of AC Transit are most difficult, and what changes most useful to work towards.
+Now is the time for riders and workers to come together and demand a transit system that works for all of us. When workers win, so do riders. That's how solidarity can build a better AC Transit.
 
 [Sign our petition to end the transit worker shortage](http://tinyurl.com/TransitWorkerShortage)
-
-
 
 ### **Past Campaigns**
 
