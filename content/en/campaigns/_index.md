@@ -10,19 +10,23 @@ menu:
 
 ### **Active Campaigns**
 
-* **End the transit worker shortage!**
+**Fix our schedules**
 
-AC Transit's lack of respect and support for its frontline workers has created a severe labor shortage and a crisis for workers and riders. Short staffing and other onerous working conditions have led many transit workers to take other jobs, while many others are out on injury or take early retirement. Without adequate staffing, AC Transit cannot restore the service that riders need.
+In summer 2024, workers and riders [showed up in force](https://labornotes.org/2024/07/transit-workers-demand-fix-our-schedules-packing-board-meeting) to tell the AC Transit board to “Fix Our Schedules!” PTA is turning up the heat on this campaign in 2025 as AC Transit implements the [Realign schedule changes](https://www.actransit.org/realign/service-changes), which fail to address the problem. 
 
-Now is the time for riders and workers to come together and demand a transit system that works for all of us. When workers win, so do riders. That's how solidarity can build a better AC Transit.
+**Unrealistic schedules are at the root of issues affecting both workers and riders.**
 
-[Sign our petition to end the transit worker shortage](http://tinyurl.com/TransitWorkerShortage)
+Transit continues to pressure its workers to skip breaks to maintain schedules, and then claims that the schedules are functional while ignoring the human cost. Workers face burnout and injury, which fuels a chronic staff shortage. All this makes transit service unreliable for riders.
+
+The Fix Our Schedules Campaign aims to:
+* Fight for better schedules
+* Raise awareness around the ATU 192 (AC Transit Union) operator struggles
+* Build relationships with transit union members
+* Build solidarity between transit riders and workers
 
 ### **Past Campaigns**
 
 **A Rider's Budget**
-
-{{< youtube id="A0k0UQmN364">}}
 
 The COVID pandemic brought our public bus system to the brink of collapse. Many routes and service hours that were cut still have not been restored. Ridership has dwindled due to infrequent service and high fares. Exacerbating the issue, AC Transit’s hiring freeze over the pandemic has resulted in a transit worker shortage requiring rapid hiring and training in order to even have enough drivers to bring bus service back to pre-pandemic levels. 
 
@@ -38,8 +42,6 @@ What we’re doing
 At the People’s Transit Alliance, we are organizing regular canvassing events where we are talking to riders about these priorities and listening to their experiences both before and during the pandemic. We ultimately want to support the development of a class consciousness of workers and riders that has the power to demand and fight for a transit system that meets their needs.
 
 **Hazard Pay Now**
-
-{{< youtube id="Dws4etsXWkY">}}
 
 P﻿TA rallied with ATU operators to win thousands of dollars in back hazard pay for work done over the pandemic.
 
@@ -57,21 +59,13 @@ The People’s Transit Alliance stands in solidarity with transit workers demand
 
 Some promising results so far are ATU 265’s recent contract agreement which includes a $3,500 “appreciation bonus” and 10% raise over 3 years. This comes in the wake of a [union-led, PTA-supported hazard pay rally on October 22nd, 2021](https://sanfrancisco.cbslocal.com/video/6134192-transit-workers-protest-in-san-jose-for-hazard-pay/).
 
-Interview with Robert
-
-{{< youtube id="50pP4xij5VE">}}
-
-Interview with Jennifer
-
-{{< youtube id="clQwrOJT1aU">}}
-
 **MTC: Release the Funds Rally**
 
 In March 2021, the Bay Area received $1.7 billion in American Rescue Plan funds in order to support transit agencies in recovering from the impacts of the pandemic. The Bay Area Metropolitan Transportation Commission (MTC) delayed the distribution of this lifeline for months, implying they might save these funds for an unknown "rainy" day, failing to see the dire state transit agencies have been in and how that "rainy" day is now. We began pressuring the commission through a variety of tactics including watchdogging meetings, running a communications campaign and mobilizing a coalition of transit advocates.
 
-This [](https://eastbaymajority.com/bay-area-transit-stimulus-bailout-arp-mtc-ac-transit/)[article](https://eastbaymajority.com/bay-area-transit-stimulus-bailout-arp-mtc-ac-transit/) we wrote shares more context on MTC's delay and it's implications.
+This [article](https://eastbaymajority.com/bay-area-transit-stimulus-bailout-arp-mtc-ac-transit/) we wrote shares more context on MTC's delay and its implications.
 
-Our efforts culminated in a rally on May 6th, you can the documentation of it [here](https://peoplestransit.org/c/hey-mtc-rally/).
+Our efforts culminated in a rally on May 6th, you can view the documentation of it [here](https://peoplestransit.org/c/hey-mtc-rally/).
 
 [![](/images/uploads/copy-of-6e1a0459.jpg)](https://peoplestransit.org/c/hey-mtc-rally/)
 
