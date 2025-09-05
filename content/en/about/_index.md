@@ -32,6 +32,14 @@ Oaklandside - ["Is your AC Transit bus line changing? New routes begin this Sund
 
 Oaklandside - ["AC Transit postpones bus route changes until at least March 2025"](https://oaklandside.org/2024/01/26/ac-transit-postpones-bus-route-changes-until-at-least-march-2025/)
 
+Labor Notes - ["Transit Workers Demand ‘Fix Our Schedules,’ Packing Board Meeting"](https://labornotes.org/2024/07/transit-workers-demand-fix-our-schedules-packing-board-meeting)
+
+Labor Notes - ["Intolerable Conditions Drive ‘Shortages,’ Transit Workers Say"](https://labornotes.org/blogs/2023/06/intolerable-conditions-drive-shortages-transit-workers-say)
+
+Labor Notes - ["Bay Area Transit Workers Organize for Hazard Pay, Build Toward Contract Campaigns"](https://labornotes.org/2022/01/bay-area-transit-workers-organize-hazard-pay-build-toward-contract-campaigns)
+
+Labor Notes - ["Bay Area Transit Workers and Riders Demand to Unlock $1.7 Billion Already Earmarked for Jobs and Bus Service"](https://labornotes.org/blogs/2021/05/bay-area-transit-workers-and-riders-demand-unlock-17-billion-already-earmarked-jobs)
+
 SF Streetsblog - ["Transit Riders and Unions to MTC: Fork it Over"](https://sf.streetsblog.org/2021/05/20/riders-and-unions-to-mtc-fork-it-over/)
 
 San Jose Inside - ["Transit advocates want MTC to release $1.7 billion from American Rescue Plan"](https://www.sfexaminer.com/news/transit-advocates-want-mtc-to-release-1-7-billion-from-american-rescue-plan/)
