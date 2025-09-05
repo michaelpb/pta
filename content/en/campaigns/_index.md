@@ -12,13 +12,15 @@ menu:
 
 **Fix our schedules**
 
+![](/images/uploads/PTA_ATU_poster.JPG)
+
 In summer 2024, workers and riders [showed up in force](https://labornotes.org/2024/07/transit-workers-demand-fix-our-schedules-packing-board-meeting) to tell the AC Transit board to “Fix Our Schedules!” PTA is turning up the heat on this campaign in 2025 as AC Transit implements the [Realign schedule changes](https://www.actransit.org/realign/service-changes), which fail to address the problem. 
 
 **Unrealistic schedules are at the root of issues affecting both workers and riders.**
 
 Transit continues to pressure its workers to skip breaks to maintain schedules, and then claims that the schedules are functional while ignoring the human cost. Workers face burnout and injury, which fuels a chronic staff shortage. All this makes transit service unreliable for riders.
 
-The Fix Our Schedules Campaign aims to:
+The 2025 Fix Our Schedules Campaign aims to:
 * Fight for better schedules
 * Raise awareness around the ATU 192 (AC Transit Union) operator struggles
 * Build relationships with transit union members
