@@ -11,15 +11,15 @@ menu:
 
 ### **Learn More**
 
-If you’re interested in keeping tabs on our work or hearing about upcoming events, email pta@eastbaydsa.org or follow us on twitter [@peopletransit](https://twitter.com/PeopleTransit)
+If you’re interested in keeping tabs on our work or hearing about upcoming events, [sign up here](https://airtable.com/apppju288XJAPMvfu/pagfgMsV6zGgpUkov/form) or email pta@eastbaydsa.org
 
 ### **Upcoming Events**
 
-**September 2025 Canvassing**
+**Fall 2025 Canvassing**
 
 The People's Transit Alliance (PTA) is launching a Fix Our Schedules campaign to push for predictable and realistic schedules that ensure drivers get their breaks and riders get reliable service. Supporting ATU 192, we're demanding better schedules and better bus service in low-income areas.
 
-Over the next month, we'll be doing poster canvasses in the East Bay to help get out the word about supporting AC Transit drivers. We'll be distributing posters to businesses to place posters in their storefronts so drivers feel community support.
+Over the next months, we'll be doing poster canvasses in the East Bay to help get out the word about supporting AC Transit drivers. We'll be distributing posters to businesses to place posters in their storefronts so drivers feel community support.
 
 [Sign Up Here](https://forms.gle/b61jPytjmtCiMppPA)
 
@@ -27,11 +27,13 @@ Over the next month, we'll be doing poster canvasses in the East Bay to help get
 
 Join us for an evening of transit driver and rider solidarity. Dinner will be provided to facilitate mixing and mingling with fellow advocates, followed by a short panel discussion to learn about how we can advocate for improved transit schedules for AC Transit operators and ATU 192 members. Better schedules for transit workers means more reliable service for transit riders. We will have opportunities for workers, riders, and advocates to plug into an existing campaign to improve AC Transit service!
 
-[Sigh Up Here](https://www.eastbaydsa.org/events/3886/2025-09-16-transit-month-fix-our-schedules-how-ac-transit-worker-rider-solidarity-results-in-better-service/)
+Tuesday, September 16th at 6:00pm - [Sign Up Here](https://www.eastbaydsa.org/events/3886/2025-09-16-transit-month-fix-our-schedules-how-ac-transit-worker-rider-solidarity-results-in-better-service/)
 
 **Fall AC Transit Meetings**
 
-Save the date to show up to the September 24th and October 22nd AC Transit Board Meetings at 5pm in Downtown Oakland. 
+Save the date to show up to the October 22nd AC Transit Board Meeting at 5pm in Downtown Oakland. 
+
+[Sign Up Here](https://www.eastbaydsa.org/events/4506/2025-10-22-ac-transit-board-fix-our-schedules/)
 
 ### **Volunteer**
 
