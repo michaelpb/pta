@@ -10,7 +10,7 @@ menu:
 
 ### **Active Campaigns**
 
-**Fix our schedules**
+**Fix Our Schedules**
 
 ![](/images/uploads/PTA_ATU_poster.JPG)
 
