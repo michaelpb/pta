@@ -18,7 +18,7 @@ The People’s Transit Alliance is an East Bay DSA project fighting for a public
 
 PTA emerged from Jovanka Beckles’ successful campaign to be elected AC Transit Board member in November 2020. AC Transit is governed by a democratically elected seven-member board of directors that determines all questions of policy for the bus system. This includes setting service levels, routes, and fares, as well as labor contracts for AC Transit workers.
 
-We knew that having a progressive candidate representing a progressive agenda could be transformative for this transit system. We formed a movement and class struggle-based campaign where we engaged additional organizers from ATU 192, the Sunrise Movement, and the Richmond Progressive Alliance. DSA’s involvement brought a new batch of socialist organizers into transit work. With huge community support, Jovanka Beckles’ was elected and we now endorse and support her work at AC Transit.
+We knew that having a progressive candidate representing a progressive agenda could be transformative for this transit system. We formed a movement and class struggle-based campaign where we engaged additional organizers from ATU 192, the Sunrise Movement, and the Richmond Progressive Alliance. DSA’s involvement brought a new batch of socialist organizers into transit work. With huge community support, Jovanka Beckles’ was elected.
 
 ### **In Community**
 
@@ -28,9 +28,21 @@ PTA also works with transit coalitions such as the Voices for Public Transportat
 
 Check out these articles about us!
 
+Oaklandside - ["Is your AC Transit bus line changing? New routes begin this Sunday"](https://oaklandside.org/2025/08/05/is-your-ac-transit-bus-line-changing-new-routes-begin-this-sunday/)
+
+Oaklandside - ["AC Transit postpones bus route changes until at least March 2025"](https://oaklandside.org/2024/01/26/ac-transit-postpones-bus-route-changes-until-at-least-march-2025/)
+
+Labor Notes - ["Transit Workers Demand ‘Fix Our Schedules,’ Packing Board Meeting"](https://labornotes.org/2024/07/transit-workers-demand-fix-our-schedules-packing-board-meeting)
+
+Labor Notes - ["Intolerable Conditions Drive ‘Shortages,’ Transit Workers Say"](https://labornotes.org/blogs/2023/06/intolerable-conditions-drive-shortages-transit-workers-say)
+
+Labor Notes - ["Bay Area Transit Workers Organize for Hazard Pay, Build Toward Contract Campaigns"](https://labornotes.org/2022/01/bay-area-transit-workers-organize-hazard-pay-build-toward-contract-campaigns)
+
+Labor Notes - ["Bay Area Transit Workers and Riders Demand to Unlock $1.7 Billion Already Earmarked for Jobs and Bus Service"](https://labornotes.org/blogs/2021/05/bay-area-transit-workers-and-riders-demand-unlock-17-billion-already-earmarked-jobs)
+
 SF Streetsblog - ["Transit Riders and Unions to MTC: Fork it Over"](https://sf.streetsblog.org/2021/05/20/riders-and-unions-to-mtc-fork-it-over/)
 
-San Jose Inside - ["Transit Advocates are Pushing MTC to Release $1.7 Billion in Federal Funding to Grow Services"](https://www.sanjoseinside.com/news/transit-advocates-are-pushing-mtc-to-release-1-7-billion-in-federal-funding-to-grow-services/)
+San Jose Inside - ["Transit advocates want MTC to release $1.7 billion from American Rescue Plan"](https://www.sfexaminer.com/news/transit-advocates-want-mtc-to-release-1-7-billion-from-american-rescue-plan/)
 
 Mercury News - ["Why the Bay Area still hasn’t spent $1.7 billion in COVID stimulus money"](https://www.mercurynews.com/2021/05/06/why-the-bay-area-still-hasnt-spent-1-7b-in-covid-stimulus-money/)
 
